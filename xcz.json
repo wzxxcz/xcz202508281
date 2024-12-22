@@ -5520,6 +5520,24 @@
   "ext": "https://yk.shaozeyy.com/api.php/app/"
 },
 {
+  "key": "csp_影業",
+  "name": "🍷酒吧影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+            "站名": "小橙子",
+            "主页url": "http://www.98dyb.com/",
+            "简介": "【🔥小橙子影视🔥【🔥欢迎您！🔥】】提醒您请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-content\" style=*>&&</span>",
+            "影片状态": "状态：&&</p>",
+            "副标题": "✨🔥小橙子影视🔥【🔥欢迎您！🔥】✨+text-right\">&&</span>",
+            "搜索url": "/search.php;post;searchword={wd}",
+            "线路数组": "<h3&&/h3>",
+            "线路标题": "小橙子影视【🔥欢迎您！🔥】✨+src=*>&&<",
+            "分类url": "http://www.98dyb.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k",
+            "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
+         }
+},
+{
   "key": "drpy_js_B站影视",
   "name": "🍊B站影视",
   "type": 3,
