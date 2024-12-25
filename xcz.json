@@ -1441,6 +1441,7 @@
   "name":"🍊金牌影视",
   "type": 3,
   "api": "http://kxrj.site:55/lib/drpy2.min.js",
+  "jar":"http://kxrj.site:55/lib/ttkx.jar",
   "ext": "http://kxrj.site:55/lib/js/金牌影视.js"
 },
 {
@@ -7850,7 +7851,20 @@
   "style": {
              "type": "list"
            }
-},	  
+},
+{
+  "key": "hipy_js_360吧[球]",
+  "name": "⚽360吧球",
+  "type": 3,
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
+  "jar":"http://kxrj.site:55/lib/ttkx.jar",
+  "searchable": 1,
+  "playerType": "1",
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/lib/js/360吧[球].js"
+},
 {
   "key": "jrsjs",
   "name": "⚽Jrs球迷",
