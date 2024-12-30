@@ -1304,6 +1304,7 @@
   "name": "🍨雪糕影视",
   "type": 3,
   "api": "csp_XBPQ",
+  "jar": "https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;cd818f87826be6a0871c7f45383865e3",	
   "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/XGYS.json"
 },
 {
