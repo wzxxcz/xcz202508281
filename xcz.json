@@ -6,7 +6,7 @@
 	     {
 	        "name": "小橙子电视",
                 "type":0,
- 	        "url": "https://live.iptv365.org/live.txt",
+ 	        "url": "https://ghproxy.net/https://raw.githubusercontent.com/wzxxcz/wzx/refs/heads/main/live.txt",
                 "ua": "okhttp/3.15",
                 "playerType": 1,
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -1342,6 +1342,15 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "http://38.55.250.149:1314/api.php/app/"
+},
+{
+  "key": "雨滴",
+  "name": "🌿雨滴蓝光无广",
+  "type": 3,
+  "api": "csp_Xdai",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+  "playerType": 1,
+  "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
 },
 {
   "key": "灼华",
