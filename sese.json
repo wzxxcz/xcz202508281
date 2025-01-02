@@ -1,5 +1,11 @@
 [
   {
+    "api": "https://www.kxgav.com/api/xml.php",
+    "name": "🔞白嫖资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
     "api": "https://www.gdlsp.com/api/xml.php",
     "name": "🔞香奶儿资源",
     "noHistory": true,
