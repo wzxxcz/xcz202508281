@@ -1,5 +1,11 @@
 [
   {
+    "api": "https://dadiapi.com/apple_m3u8.php",
+    "name": "🔞大地av",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
     "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
     "name": "🔞AIvin",
     "noHistory": true,
