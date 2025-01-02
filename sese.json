@@ -1,5 +1,11 @@
 [
   {
+    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+    "name": "🔞乐播",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
     "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
     "name": "🔞花椒资源",
     "noHistory": true,
