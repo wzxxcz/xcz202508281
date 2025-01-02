@@ -1,5 +1,11 @@
 [
   {
+    "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
+    "name": "🔞AIvin",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
     "api": "https://apittzy.com/api.php/provide/vod/",
     "name": "🔞探探资源",
     "noHistory": true,
