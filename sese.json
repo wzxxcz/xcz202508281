@@ -1,5 +1,11 @@
 [
   {
+    "api": "http://dadiapi.com/api.php",
+    "name": "🔞成人09",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
     "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
     "name": "🔞9号资源",
     "noHistory": true,
