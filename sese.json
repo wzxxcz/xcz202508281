@@ -1,5 +1,11 @@
 [
   {
+    "api": "https://api.sexnguon.com/api.php/provide/vod/",
+    "name": "🔞色南国资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
     "api": "https://api.apilyzy.com/api.php/provide/vod/",
     "name": "🔞老鸭资源",
     "noHistory": true,
