@@ -1,11 +1,5 @@
 [
   {
-    "api": "https://madouse.la/api.php/provide/vod/",
-    "name": "🔞抖阴视频",
-    "noHistory": true,
-    "isLock": true
-  },
-  {
     "api": "https://api.apilyzy.com/api.php/provide/vod/",
     "name": "🔞老鸭资源",
     "noHistory": true,
