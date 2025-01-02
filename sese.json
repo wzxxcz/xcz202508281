@@ -1,5 +1,11 @@
 [
   {
+    "api": "https://api.maozyapi.com/inc/api.php",
+    "name": "🔞Sm",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
     "api": "http://fhapi9.com/api.php/provide/vod/at/json",
     "name": "🔞番号资源(卡切)",
     "noHistory": true,
