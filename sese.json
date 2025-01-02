@@ -1,5 +1,11 @@
 [
   {
+    "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
+    "name": "🔞9号资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
     "api": "https://api.maozyapi.com/inc/api.php",
     "name": "🔞Sm",
     "noHistory": true,
