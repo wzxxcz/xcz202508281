@@ -1,5 +1,11 @@
 [
   {
+    "api": "https://apittzy.com/api.php/provide/vod/",
+    "name": "🔞探探资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
     "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
     "name": "🔞乐播",
     "noHistory": true,
