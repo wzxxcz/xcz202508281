@@ -1,5 +1,11 @@
 [
   {
+    "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
+    "name": "🔞花椒资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
     "api": "https://www.kxgav.com/api/xml.php",
     "name": "🔞白嫖资源",
     "noHistory": true,
