@@ -1,5 +1,11 @@
 [
   {
+    "api": "https://www.gdlsp.com/api/xml.php",
+    "name": "🔞香奶儿资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
     "api": "https://www.xrbsp.com/api/xml.php",
     "name": "🔞淫水机资源",
     "noHistory": true,
