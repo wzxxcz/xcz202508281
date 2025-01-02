@@ -1,5 +1,11 @@
 [
   {
+    "api": "http://fhapi9.com/api.php/provide/vod/at/json",
+    "name": "🔞番号资源(卡切)",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
     "api": "https://dadiapi.com/api.php",
     "name": "🔞大地资源",
     "noHistory": true,
