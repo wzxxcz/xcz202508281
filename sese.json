@@ -1,5 +1,11 @@
 [
   {
+    "api": "https://www.xrbsp.com/api/xml.php",
+    "name": "🔞淫水机资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
     "api": "https://www.msnii.com/api/xml.php",
     "name": "🔞美少女资源",
     "noHistory": true,
