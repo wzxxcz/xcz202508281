@@ -1,5 +1,11 @@
 [
   {
+    "api": "https://api.apilyzy.com/api.php/provide/vod/?ac=list",
+    "name": "🔞老鸭1",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
     "api": "http://dadiapi.com/api.php",
     "name": "🔞成人09",
     "noHistory": true,
