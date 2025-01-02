@@ -1,5 +1,11 @@
 [
   {
+    "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
+    "name": "🔞番号资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
     "api": "https://dadiapi.com/apple_m3u8.php",
     "name": "🔞大地av",
     "noHistory": true,
