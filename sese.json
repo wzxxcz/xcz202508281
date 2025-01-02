@@ -1,5 +1,11 @@
 [
   {
+    "api": "https://www.msnii.com/api/xml.php",
+    "name": "🔞美少女资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
     "api": "https://api.maozyapi.com/inc/apijson_vod.php",
     "name": "🔞色猫资源",
     "noHistory": true,
