@@ -1,11 +1,5 @@
 [
   {
-    "api": "http://bttcj.com/inc/sapi.php",
-    "name": "🔞博天堂",
-    "noHistory": true,
-    "isLock": true
-  },
-  {
     "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
     "name": "🔞9号资源",
     "noHistory": true,
