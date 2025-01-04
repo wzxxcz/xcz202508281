@@ -67,6 +67,15 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
              },
 	     {
+                "name": "小橙子八大台",
+                "type": 0,
+                "url": "http://wx.thego.cn/gj.m3u",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+             },
+	     {
                 "name": "小橙子综合",
                 "type": 0,
                 "url": "http://8.138.7.223/live.txt",
@@ -859,7 +868,7 @@
   "name": "🌈优汐搜搜",
   "type": 3,
   "api": "csp_UuSs",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734945785689/fan.txt;md5;5187bb3bc6eba66ecb3785abb0d21431",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735370809906/fan.txt;md5;9136a7f6aec51c5b18e911121774ab5f",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
@@ -873,7 +882,7 @@
   "name": "🐌盘他三盘",
   "type": 3,
   "api": "csp_PanSso",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734945785689/fan.txt;md5;5187bb3bc6eba66ecb3785abb0d21431",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735370809906/fan.txt;md5;9136a7f6aec51c5b18e911121774ab5f",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
@@ -887,7 +896,7 @@
   "name": "🐟盘她三盘",
   "type": 3,
   "api": "csp_YpanSo",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734945785689/fan.txt;md5;5187bb3bc6eba66ecb3785abb0d21431",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735370809906/fan.txt;md5;9136a7f6aec51c5b18e911121774ab5f",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
@@ -901,21 +910,21 @@
   "name": "👻盘它三盘",
   "type": 3,
   "api": "csp_xzso",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734945785689/fan.txt;md5;5187bb3bc6eba66ecb3785abb0d21431",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735370809906/fan.txt;md5;9136a7f6aec51c5b18e911121774ab5f",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
   "ext": {
            "Cloud-drive": "tvfan/Cloud-drive.txt",
            "from": "4k|auto"
-        }
+         }
 },
 {
   "key": "抠搜",
   "name": "🍄抠抠搜搜",
   "type": 3,
   "api": "csp_KkSs",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734945785689/fan.txt;md5;5187bb3bc6eba66ecb3785abb0d21431",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735370809906/fan.txt;md5;9136a7f6aec51c5b18e911121774ab5f",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
