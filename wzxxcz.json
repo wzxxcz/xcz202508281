@@ -1452,6 +1452,13 @@
   "changeable": 1
 },
 {
+  "key": "巨人弹幕",
+  "name": "🍊巨人弹幕",
+  "type": 3,
+  "api": "https://github.com/kimwang1978/xcz/raw/refs/heads/main/lib/drpy2.min.js",
+  "ext": "https://github.com/kimwang1978/xcz/raw/refs/heads/main/lib/巨人弹幕.js"
+},
+{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
