@@ -1455,8 +1455,8 @@
   "key": "巨人弹幕",
   "name": "🍊巨人弹幕",
   "type": 3,
-  "api": "https://ghproxy.net/https://github.com/kimwang1978/xcz/raw/refs/heads/main/lib/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://github.com/kimwang1978/xcz/raw/refs/heads/main/lib/巨人弹幕.js"
+  "api": "https://gitee.com/wzbdyr/xcz/raw/master/JS/drpy2.min.js",
+  "ext": "https://gitee.com/wzbdyr/xcz/raw/master/JS//巨人弹幕.js"
 },
 {
   "key": "小苹果弹幕",
