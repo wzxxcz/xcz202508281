@@ -1452,6 +1452,17 @@
   "changeable": 1
 },
 {
+  "key": "海纳影视",
+  "name": "🧿海纳蓝光",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/海纳影视.json"
+},
+{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
@@ -4257,14 +4268,6 @@
   "changeable": 1,
   "ext": "./lib/酷吧影视.json"
 },
-{
-  "key": "hipy_js_fxzhl",
-  "name": "🧿海纳蓝光",
-  "type": 3,
-  "ua": "okhttp/3.15",
-  "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
-  "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享海纳.js"
-},	  
 {
   "key": "千神影视",
   "name": "🧿千神蓝光",
