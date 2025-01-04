@@ -5334,11 +5334,8 @@
   "name": "🍊吉吉影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/xyqxbpq.jar",
-  "ext": {
-           "分类": "短剧$1#电视剧$5",
-           "分类url": "https://www.jjduanju.com/sort/{cateId}.html"
-         }
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
+  "ext": "./lib/吉吉短剧.json"
 },
 {
   "key": "魅影影视",
