@@ -1456,6 +1456,7 @@
   "name": "🍊巨人弹幕",
   "type": 3,
   "api": "https://gitee.com/wzbdyr/xcz/raw/master/JS/drpy2.min.js",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
   "ext": "https://gitee.com/wzbdyr/xcz/raw/master/JS/%E5%B7%A8%E4%BA%BA%E5%BC%B9%E5%B9%95.js"
 },
 {
