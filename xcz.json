@@ -6,7 +6,7 @@
 	     {
 	        "name": "小橙子电视",
                 "type":0,
- 	        "url": "https://ghproxy.net/https://raw.githubusercontent.com/wzxxcz/wzx/refs/heads/main/live.txt",
+ 	        "url": "https://live.iptv365.org/live.txt",
                 "ua": "okhttp/3.15",
                 "playerType": 1,
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -216,17 +216,6 @@
   "searchable": 0,
   "quickSearch": 0,
   "changeable": 0
-},
-{
-  "key": "DJ呦呦音乐网",
-  "name": "🎧DJ呦呦音乐",
-  "type": 3,
-  "api": "csp_XYQHiker",
-  "jar":"http://kxrj.site:55/lib/ttkx.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://kxrj.site:55/lib/json/DJyyyyw.json"
 },
 {
   "key": "alllive",
