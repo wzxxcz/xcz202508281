@@ -7573,8 +7573,19 @@
          }
 },
 {
+  "key": "爱我短剧",
+  "name": "🍍爱我短剧",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=爱我"
+},	  
+{
   "key": "短剧网",
-  "name": "🍇剧网短剧热推",
+  "name": "🍇剧网短剧",
   "type": 3,
   "api": "csp_XBPQ",
   "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
@@ -7713,17 +7724,18 @@
   "changeable": 0
 },
 {
-  "key": "88看球",
-  "name": "⚽88看球",
+  "key": "88js",
+  "name": "⚽ 88看球",
   "type": 3,
-  "api": "csp_Sir88",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733322769757/fan.txt;md5;c5e4af339c38ebe176959cbb1e1c0bbc",	
-  "searchable": 0,
-  "changeable": 0,
+  "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+  "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js",
   "style": {
              "type": "list"
-           }
-}
+           },
+  "searchable": 0,
+  "quickSearch": 0,
+  "changeable": 0
+}	  
 ],
   "parses": [
     {
