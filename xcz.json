@@ -535,19 +535,22 @@
          }
 },
 {
-  "key":"阿里合集",
+  "key": "阿里合集",
   "name": "🦋阿里合集",
-  "type":3,
-  "api":"csp_AliShare",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;e0cce108247c46ba217992af1627fe7b",
-  "searchable":1,
-  "changeable":0,
-  "filterable":0,
-  "ext":{
-	  "token":"http://127.0.0.1:9978/file/TV/token.txt",
-	  "share":"http://v.nxog.top/m/json/alishare.json"
-        },
-  "style":{"type":"list"}
+  "type": 3,
+  "api": "csp_AliShare",
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
+  "searchable": 1,
+  "changeable": 0,
+  "filterable": 0,
+  "indexs": 0,
+  "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "share": "https://gitee.com/wzbdyr/omg/raw/main/JS/alishare.txt"
+         },
+  "style": {
+              "type": "list"
+           }
 },
 {
   "key": "奥秘网盘",
@@ -3097,10 +3100,10 @@
 {
   "key": "采集之王",
   "name":"🐲采王采集",
-  "jar":"https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;cd818f87826be6a0871c7f45383865e3",	
   "type": 3,
-  "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
-  "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/CJZW.js?type=url&params=https://gitee.com/PizazzXS/four-d/raw/master/movie/json/CJJT.json$1$1"
+  "api": "https://gitee.com/wzbdyr/omg/raw/main/JS/drpy2.min.js",
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
+  "ext": "https://gitee.com/wzbdyr/omg/raw/main/JS/采集之王.js?type=url&params=../JSON/采集静态.json$1$1"
 },
 {
   "key": "csp_不卡",
@@ -6194,10 +6197,10 @@
 },
 {
   "key": "看了么",
-  "name": "🍊看了影视",
+  "name": "🍊看了么影视",
   "type": 3,
-  "api": "http://tv.nxog.top/m/js/nxog.js",
-  "ext": "https://raw.gitcode.com/wykj/ys/raw/main/js/15.js"
+  "api": "https://gitee.com/wzbdyr/omg/raw/main/JS/drpy2.min.js",
+  "ext": "https://gitee.com/wzbdyr/omg/raw/main/JS/看了么.js"
 },
 {
   "key": "drpy_js_我爱跟剧",
