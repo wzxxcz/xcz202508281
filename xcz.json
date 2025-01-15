@@ -40,6 +40,15 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	     },
 	     {
+	        "name": "小橙子地方台",
+                "type":0,
+ 	        "url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	     },
+	     {
                 "name": "海外电视",
                 "type": 0,
                 "url": "https://vip.iptv365.org/live2025.txt",
@@ -176,11 +185,11 @@
   "key": "直播转点播",
   "name": "📺电视直播",
   "type": 3,
-  "api": "https://xn--dkw0c.v.nxog.top/m//js/live.js",
+  "api": "https://gitee.com/wzbdyr/xcz/raw/master/lib/live.js",
   "searchable": 0,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://xn--dkw0c.v.nxog.top/m//json/live.php?ou=公众号欧歌APP"
+  "ext": "https://gitee.com/wzbdyr/xcz/raw/master/lib/live.json"
 },
 {
   "key": "csp_Kugou",
