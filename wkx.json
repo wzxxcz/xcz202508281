@@ -5987,6 +5987,17 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/shayu.json"
+},
+{
+  "key": "蝌蚪影视①",
+  "name": "🐸蝌蚪影一",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/wzbdyr/vip/raw/main/bhtw.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/kedou1.json"
 },	  	  
 {
   "key": "lltv_QYDH",
