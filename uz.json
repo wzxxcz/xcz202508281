@@ -21,10 +21,10 @@
         {
             "name": "综合弹幕",
             "url": "https://jsdelivr.pai233.top/gh/ouhaibo1980/uzVideo-extensions@main/danMu/js/danMu2.txt",
-            "codeID": "wMFsJrk98TmvWbYAjO4Mne3CZDRh619D",
+            "codeID": "GrLpTPWlxvDXv5LsL6iOsY8AUZJWqE5x",
             "remark": "别那么执着，搜不到就算了",
             "type": 400,
-            "version": 1
+            "version": 7
         },
         {
             "name": "dandanPlay 弹幕",
@@ -39,29 +39,30 @@
             "name": "📺电视直播",
             "url": "https://tv.iill.top/m3u/Gather",
             "type": 10,
-            "remark": "来自 小橙子 https://github.com/YanG-1989"
+            "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
         },
         {
             "name": "🎥网络直播",
             "url": "https://tv.iill.top/m3u/Live",
             "type": 10,
-            "remark": "来自 小橙子 https://github.com/YanG-1989"
+            "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
         },
         {
             "name": "🚴‍♂️体育直播",
             "url": "https://tv.iill.top/m3u/Sport",
             "type": 10,
-            "remark": "来自 小橙子 https://github.com/YanG-1989"
+            "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
         }
     ],
     "vod": [
-         {
-            "name": "🐲小橙子影视",
-            "api": "https://jsdelivr.pai233.top/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/ouge.js",
-            "webSite": "https://woog.nxog.eu.org",
-            "remark": "小橙子网盘 1.6.41 及以上版本可用",
-            "version": "3",
-            "type": 101
+     {
+            "name": "🐲欧歌资源",
+            "api": "https://jsdelivr.pai233.top/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/ougepan.js",
+            "instance": "ougepan20241030",
+            "webSite": "https://woog.nxog.eu.org/",
+            "remark": "欧歌网盘",
+            "version": "2",
+            "type": 100
         },
         {
             "name": "厂长视频",
@@ -218,15 +219,7 @@
             "version": "2",
             "type": 100
         },
-        {
-            "name": "🐲小橙子资源",
-            "api": "https://jsdelivr.pai233.top/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/ougepan.js",
-            "instance": "ougepan20241030",
-            "webSite": "https://woog.nxog.eu.org/",
-            "remark": "小橙子网盘",
-            "version": "2",
-            "type": 100
-        },
+     
         {
             "name": "🍔奥秘影视",
             "api": "https://jsdelivr.pai233.top/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/aomipan.js",
@@ -312,7 +305,14 @@
             "version": "3",
             "type": 101
         },
-      
+        {
+            "name": "🐲欧歌资源",
+            "api": "https://jsdelivr.pai233.top/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/ouge.js",
+            "webSite": "https://woog.nxog.eu.org",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "3",
+            "type": 101
+        },
         {
             "name": "🤙🏻六趣网盘",
             "api": "https://jsdelivr.pai233.top/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/liuqu.js",
@@ -350,7 +350,7 @@
             "name": "MISSAV",
             "api": "https://jsdelivr.pai233.top/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/missav.js",
             "instance": "missav20240627",
-            "webSite": "https://missav.com",
+            "webSite": "https://missav.ai",
             "remark": "",
             "version": "2",
             "type": 100
@@ -361,7 +361,7 @@
             "instance": "jable20240831",
             "webSite": "https://jable.tv",
             "remark": "",
-            "version": "2",
+            "version": "3",
             "type": 100
         },
         {
@@ -385,11 +385,10 @@
         {
             "name": "91jav",
             "api": "https://jsdelivr.pai233.top/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/91jav.js",
-            "instance": "jav9120241127",
             "webSite": "https://041.bndmpsjx.com",
             "remark": "",
-            "version": "2",
-            "type": 100
+            "version": "3",
+            "type": 101
         }
     ]
 }
