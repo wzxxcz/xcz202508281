@@ -251,7 +251,7 @@
            "wogg": true,
            "danmu": true
          }
-},	  
+},
 {
   "key": "玩偶备用弹幕",
   "name":"🐲小橙子玩偶",
@@ -1751,17 +1751,6 @@
            "danmu": true
          }
 },	  
-{
-  "key":"文才弹幕",
-  "name":"💘文才弹幕",
-  "type":3,
-  "api":"csp_Jpys",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;e0cce108247c46ba217992af1627fe7b",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":{"danmu":true}
-},
 {
   "key": "guoguo1",
   "name": "🥭文采1080P",
