@@ -2,7 +2,7 @@ name: Sync File to GitHub
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天 UTC 时间 00:00 运行（可根据需要修改）
+    - cron: '0 1 * * *'  # 每天 UTC 时间 00:00 运行（可根据需要修改）
   workflow_dispatch:  # 允许手动触发
 
 jobs:
