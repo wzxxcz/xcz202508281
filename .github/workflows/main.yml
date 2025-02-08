@@ -14,12 +14,12 @@ jobs:
 
       - name: 下载文件
         run: |
-          curl -o downloaded_file "https://raw.githubusercontent.com/wzxxcz/wzx/refs/heads/main/live.txt" 
+          curl -o live.txt "https://raw.githubusercontent.com/wzxxcz/wzx/refs/heads/main/live.txt" 
 
       - name: 提交更改到 GitHub
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add downloaded_file
+          git add live.txt
           git commit -m "自动同步文件 $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           git push
