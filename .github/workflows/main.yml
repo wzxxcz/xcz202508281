@@ -20,7 +20,6 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          mv downloaded_file ./  # 下载的文件放在项目根目录
           git add downloaded_file
           git commit -m "自动同步文件 $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           git push
