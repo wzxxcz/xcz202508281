@@ -56,7 +56,7 @@
     ],
     "vod": [
           {
-            "name": "🐲欧歌资源",
+            "name": "🐲小橙子资源",
             "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/ougepan.js",
             "instance": "ougepan20241030",
             "webSite": "https://woog.nxog.eu.org/",
@@ -65,7 +65,7 @@
             "type": 100
         },
         {
-            "name": "🐲欧歌资源备用",
+            "name": "🐲小橙子资源备用",
             "api": "https://jsdelivr.pai233.top/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/ougepan.js",
             "instance": "ougepan20241030",
             "webSite": "https://woog.xn--dkw.xn--6qq986b3xl/",
@@ -230,7 +230,7 @@
             "type": 100
         },
         {
-            "name": "🐲欧歌资源",
+            "name": "🐲小橙子资源1",
             "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/ougepan.js",
             "instance": "ougepan20241030",
             "webSite": "https://woog.nxog.eu.org/",
@@ -324,7 +324,7 @@
             "type": 101
         },
         {
-            "name": "🐲欧歌资源",
+            "name": "🐲小橙子资源2",
             "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/ouge.js",
             "webSite": "https://woog.nxog.eu.org",
             "remark": "网盘 1.6.41 及以上版本可用",
