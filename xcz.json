@@ -85,6 +85,15 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	     },
 	     {
+	        "name": "小橙子国外(需梯子)",
+                "type":0,
+ 	        "url": "http://cdn1host.online:8080/get.php?username=kratorius&password=opLcbhlXaT&type=m3u",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	     },
+	     {
                 "name": "小橙子IPV6备",
                 "type": 0,
                 "url": "https://xcz.iptv365.org/IPV61.txt",
@@ -2053,13 +2062,13 @@
   "name": "👀萌米多线",
   "type": 3,
   "api": "csp_AppTT",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737018909312/f01162.txt;md5;5eaae4b083c5fc6c47c1cc0a204364b2",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739417065683/f0213a.txt;md5;793d41d0573885b6f21c8cef69624881",	
   "playerType": 2,
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
-  "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-},
+  "ext": "AO7TcBkd8I2bux0Y8Qze6tVlMg=="
+},	  
 {
   "key": "梦米弹幕",
   "name": "👀梦米弹幕",
