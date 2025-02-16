@@ -13,7 +13,7 @@
             "name": "UC|夸克|阿里 网盘解析工具",
             "url": "https://raw.githubusercontent.com/ouhaibo1980/uzVideo-extensions/refs/heads/main/panTools/js/panTools.js",
             "env": "UCCookie##用于播放UC网盘视频&&夸克Cookie##用于播放Quark网盘视频&&阿里Token##用于播放阿里网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称",
-            "version": 10,
+            "version": 11,
             "type": 300
         }
     ],
@@ -55,7 +55,7 @@
         }
     ],
     "vod": [
-            {
+                  {
             "name": "🐲小橙子资源",
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/uzVideo-extensions/refs/heads/main/vod/js/ougepan.js",
             "instance": "ougepan20241030",
@@ -64,12 +64,12 @@
             "version": "2",
             "type": 100
         },
-             {
+           {
             "name": "🐲小橙子资源备用",
             "api": "https://jsdelivr.pai233.top/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/ougepan.js",
             "instance": "ougepan20241030",
-            "webSite": "https://oguc.xn--dkw.xn--6qq986b3xl/",
-            "remark": "网盘 1.6.41 及以上版本可用",
+            "webSite": "https://woog.xn--dkw.xn--6qq986b3xl/",
+            "remark": "欧歌网盘",
             "version": "2",
             "type": 100
         },
