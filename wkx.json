@@ -94,15 +94,6 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	     },
 	     {
-                "name": "小橙子猫TV",
-                "type": 0,
-                "url": "http://rihou.cc:567/gggg.nzk",
-                "playerType": 1,
-                "ua": "okhttp/3",
-                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
-             },
-	     {
                 "name": "小橙子IPV6备",
                 "type": 0,
                 "url": "https://xcz.iptv365.org/IPV61.txt",
@@ -112,9 +103,27 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
              },
 	     {
+                "name": "小橙子猫TV",
+                "type": 0,
+                "url": "http://rihou.cc:567/gggg.nzk",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+             },
+	     {
 	        "name": "小橙子神州TV",
                 "type":0,
  	        "url": "https://6758.kstore.space/666.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	     },
+	     {
+	        "name": "小橙子wwb521",
+                "type":0,
+ 	        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.txt",
                 "ua": "okhttp/3.15",
                 "playerType": 1,
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -2446,7 +2455,7 @@
   "name": "👓欢视多线",
   "type": 3,
   "api": "csp_AppTT",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740082223598/f0221.txt;md5;2f204873d78bd47a56a4e42fba0d3ac3",	
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740249213752/f0223.txt;md5;9a4e27dc8671d07587f5cb752ea80fd3",	
   "playerType": 2,
   "searchable": 1,
   "quickSearch": 1,
