@@ -130,6 +130,15 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	     },
 	     {
+                "name": "小橙子综合",
+                "type": 0,
+                "url": "http://8.138.7.223/live.txt",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+             },
+	     {
 	        "name": "小橙子肥羊",
                 "type":0,
  	        "url": "http://61.160.112.102:35455/tv.m3u",
@@ -238,15 +247,6 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	     },
 	     {
-	        "name": "小橙子电视4",
-                "type":0,
- 	        "url": "http://8.138.7.223/live.txt",
-                "ua": "okhttp/3.15",
-                "playerType": 1,
-                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
-	     },
-	     {
 	        "name": "AKTV",
                 "type":0,
  	        "url": "http://aktv.top/live.txt",
@@ -286,15 +286,6 @@
                 "name": "小橙子国际合集",
                 "type": 0,
                 "url": "http://wx.thego.cn/backup.m3u",
-                "playerType": 1,
-                "ua": "okhttp/3",
-                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
-             },
-	     {
-                "name": "小橙子综合",
-                "type": 0,
-                "url": "http://8.138.7.223/live.txt",
                 "playerType": 1,
                 "ua": "okhttp/3",
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -1857,13 +1848,13 @@
   "name": "☀原创不卡",
   "type": 3,
   "api": "csp_YCyz",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738479478359/f0202.txt;md5;9dbf4e8b686d614d5d6ae609347742ab",	
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740249213752/f0223.txt;md5;9a4e27dc8671d07587f5cb752ea80fd3",	
   "timeout": 15,
   "playerType": 1,
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1
-},
+},	  
 {
   "key": "csp_Jpys",
   "name": "🔥小橙子收集",
