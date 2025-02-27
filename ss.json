@@ -1,6 +1,198 @@
 {
     "spider": "http://dd.ma/CFlLnSbJ",
     "wallpaper": "http://api.btstu.cn/sjbz",
+    "lives": [
+	       {
+                "name": "天美传媒816",
+                "type": 0,
+                "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/天美传媒816.txt",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+            },
+	        {
+                "name": "果冻传媒816",
+                "type": 0,
+                "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/果冻传媒816.txt",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+            },
+	        {
+                "name": "麻豆传媒816",
+                "type": 0,
+                "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/麻豆传媒816.txt",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+            },
+	        {
+	            "name": "星空传媒816",
+                "type":0,
+ 	            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/星空传媒816.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	        },
+	        {
+	            "name": "精东影业816",
+                "type":0,
+ 	            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/精东影业816.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	        },
+	        {
+	            "name": "终极",
+                "type":0,
+ 	            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/终极.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	        },
+	        {
+	            "name": "花活",
+                "type":0,
+ 	            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/花活.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	        },
+	        {
+	            "name": "珍藏",
+                "type":0,
+ 	            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/珍藏.m3u",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	        },
+	        {
+	            "name": "绝品",
+                "type":0,
+ 	            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/绝品.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	        },
+	        {
+	            "name": "live18",
+                "type":0,
+ 	            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/live18.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	        },
+	        {
+                "name": "美腿丝袜",
+                "type": 0,
+                "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/美腿丝袜.txt",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+            },
+	        {
+                "name": "成人电影",
+                "type": 0,
+                "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/成人电影.txt",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+            },
+	        {
+                "name": "国产传媒",
+                "type": 0,
+                "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/国产传媒.m3u",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+            },
+	        {
+	            "name": "几个传媒",
+                "type":0,
+ 	            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/几个传媒.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	        },
+	        {
+	            "name": "成人传媒",
+                "type":0,
+ 	            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/成人传媒.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	        },
+	        {
+                "name": "18资源丰富",
+                "type": 0,
+                "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/18资源丰富.txt",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+            },
+	        {
+                "name": "维护成人",
+                "type": 0,
+                "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/维护成人.txt",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+            },
+	        {
+	            "name": "vip源",
+                "type":0,
+ 	            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/vip源.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	        },
+	        {
+	            "name": "181818",
+                "type":0,
+ 	            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/181818.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	        },
+	        {
+	            "name": "x315601",
+                "type":0,
+ 	            "url": "http://x315601.serv00.net/10.php",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	        },
+	        {
+	            "name": "crzb",
+                "type":0,
+ 	            "url": "http://bwind.fr.to/m3u/crzb.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	        }
+	    
+          ],
     "sites": [
         {
             "key": "色猫",
