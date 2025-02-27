@@ -54,15 +54,6 @@
             "filterable": 1
         },
         {
-            "key": "黄AV",
-            "name": "黄AV",
-            "type": 0,
-            "api": "https://www.pgxdy.com/api/xml.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "*老鸭",
             "name": "老鸭",
             "type": 1,
