@@ -20,15 +20,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
-        {
-            "key": "淫水机",
-            "name": "淫水机",
-            "type": 0,
-            "api": "https://www.xrbsp.com/api/xml.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+    {
+      "key": "淫水机",
+      "name": "淫水机",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
         {
             "key": "香奶儿",
             "name": "香奶儿",
@@ -53,15 +53,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "*老鸭",
-            "name": "老鸭",
-            "type": 1,
-            "api": "https://api.apilyzy.com/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        
     {
       "key": "*易看资源",
       "name": "易看资源",
@@ -76,22 +67,6 @@
             "name": "成人01",
             "type": 0,
             "api": "http://dadiapi.com/api.php",
-            "searchable": 1,
-            "recordable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "header": {
-                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-                "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-            }
-        },
-        {
-            "key": "f2dcj6.com",
-            "name": "成人02",
-            "type": 0,
-            "api": "http://f2dcj6.com/sapi?ac=videolist",
             "searchable": 1,
             "recordable": 0,
             "style": {
@@ -149,6 +124,15 @@
             "name": "成人08",
             "type": 1,
             "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "xrbsp.com",
+            "name": "成人09",
+            "type": 0,
+            "api": "https://www.xrbsp.com/api/xml.php",
             "quickSearch": 1,
             "searchable": 1,
             "filterable": 1
