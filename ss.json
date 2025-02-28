@@ -765,6 +765,55 @@
             "style":{"type":"rect","ratio":1.33}
         },
         {
+            "key": "三级之家",
+            "name": "三级之家",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+            "主页url": "https://www.3jihome.com/",
+                "分类url": "https://www.3jihome.com/show/{cateId}--------{catePg}---.html",
+                "分类": "伦理$1#港台伦理$6#韩国伦理$7#日本伦理$8#欧美伦理$9#写真热舞$57",
+                 "搜索url": "https://www.3jihome.com/search/{wd}----------{pg}---.html"
+            }
+        },
+        {
+            "key": "✨92逍遥✨",
+            "name": "92逍遥",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.92ba1.cc/list/5.html",
+                "分类url": "https://www.92ba1.cc/type/5-{cateId}-------{catePg}---{year}.html",
+                "分类": "大陆&香港&台湾&美国&韩国&日本&泰国&新加坡&马来西亚&印度&英国&法国&意大利&加拿大&西班牙&俄罗斯&其它",
+                "分类值": "*",
+                "数组": "media-content&&</li>",
+                "标题": "alt=\"&&\"",
+                "图片": "data-src=\"&&\"[替换:amp;>>空]",
+                "链接": "href=\"&&\"",
+                "副标题": "fs-9\">&&</",
+                "简介": "lh-lg text-body-secondary\">&&</div>",
+                "线路数组": "nav-link me&&/a>",
+                "线路标题": ">&&<",
+                "播放数组": "row-cols-xl-6 g-3&&</ul>",
+                "播放列表": "<a&&/a>",
+                "播放链接": "href=\"&&\"",
+                "播放标题": ">&&<",
+                "搜索模式": "1",
+                "搜索url": "https://www.92ba1.cc/search/FFWD-------------.html?wd={wd}",
+                "筛选": "1",
+                "年份": "1980-2025",
+                "年份值": "*"
+            }
+        },
+        {
             "key": "JAVSB",
             "name": "JAVSB",
             "type": 3,
