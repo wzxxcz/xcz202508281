@@ -1751,6 +1751,54 @@
   "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
 },
 {
+  "key": "lltv_QYDH",
+  "name":"🍊爱奇艺(官)",
+  "type": 3,
+  "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://yyrj.fun/bb/donghua/qiyi.js"
+},
+{
+  "key": "优酷弹幕",
+  "name": "🍊优酷(官)",
+  "type": 3,
+  "api": "https://gitee.com/wzbdyr/omg/raw/main/JS/drpy2.min.js",
+  "ext": "https://gitee.com/wzbdyr/omg/raw/main/JS/优酷弹幕.js"
+},
+{
+  "key": "芒果视频",
+  "name": "🥭芒果(官)",
+  "type": 3,
+  "api": "https://gitee.com/wzbdyr/fy/raw/main/JS/drpy2.min.js",
+  "ext": "https://gitee.com/wzbdyr/fy/raw/main/JS/芒果视频.js"
+},	  
+{
+  "key": "搜狗",
+  "name": "🍊搜狗(官)",
+  "type": 3,
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
+},
+{
+  "key":"360",
+  "name":"🍊360(官)",
+  "type":3,
+  "api":"csp_SP33",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "changeable":1
+},
+{
+  "key": "drpy_js_360影视",
+  "name": "🍊360(官备)",
+  "type": 3,
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
+},	  
+{
   "key": "神车",
   "name": "🚎神车秒播",
   "type": 3,
@@ -6458,54 +6506,6 @@
   "ext": "./lib/xiongmao.json"
 },	  	  
 {
-  "key": "lltv_QYDH",
-  "name":"🍊爱奇艺(官)",
-  "type": 3,
-  "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://yyrj.fun/bb/donghua/qiyi.js"
-},
-{
-  "key": "优酷弹幕",
-  "name": "🍊优酷(官)",
-  "type": 3,
-  "api": "https://gitee.com/wzbdyr/omg/raw/main/JS/drpy2.min.js",
-  "ext": "https://gitee.com/wzbdyr/omg/raw/main/JS/优酷弹幕.js"
-},
-{
-  "key": "芒果视频",
-  "name": "🥭芒果(官)",
-  "type": 3,
-  "api": "https://gitee.com/wzbdyr/fy/raw/main/JS/drpy2.min.js",
-  "ext": "https://gitee.com/wzbdyr/fy/raw/main/JS/芒果视频.js"
-},	  
-{
-  "key": "搜狗",
-  "name": "🍊搜狗(官)",
-  "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
-},
-{
-  "key":"360",
-  "name":"🍊360(官)",
-  "type":3,
-  "api":"csp_SP33",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "changeable":1
-},
-{
-  "key": "drpy_js_360影视",
-  "name": "🍊360(官备)",
-  "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
-},
-{
   "key": "小宝zj",
   "name": "⭐小橙子秒播",
   "type": 3,
@@ -8326,31 +8326,6 @@
           "User-Agent": "okhttp/4.9.1"
         }
       }
-    },
-    {
-      "name": "影视聚合",
-      "type": 3,
-      "url": "影视"
-    },
-    {
-      "name": "自用",
-      "type": 1,
-      "url": ""
-    },	
-    {
-      "name": "8090g",
-      "type": 0,
-      "url": ""
-    },
-    {
-      "name": "虾米",
-      "type": 0,
-      "url": ""
-    },
-    {
-      "name": "夜幕",
-      "type": 0,
-      "url": ""
     },
     {
       "name": "小橙子皮皮虾",
