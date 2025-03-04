@@ -800,6 +800,7 @@
            "danmu": true
          }
 },
+	  
 {
   "key": "csp_Netfixtv",
   "name": "🏆️至臻4K4K",
@@ -1302,6 +1303,15 @@
   "jar": "https://xcz.funly.us/qh3.jar",
   "searchable": 1,
   "changeable": 1
+},
+{
+  "key": "雷鲸",
+  "name": "🍊雷鲸4K‍",
+  "type": 3,
+  "api": "csp_Wextyso",
+  "jar": "https://xcz.funly.us/qh3.jar",
+  "searchable": 1,
+  "changeable": 1
 },	  
 {
   "key": "电影",
@@ -1728,6 +1738,18 @@
   "quickSearch": 1,
   "filterable": 1
 },
+{
+  "key": "腾讯",
+  "name": "🐧腾讯(官)",
+  "type": 3,
+  "api": "https://xcz.funly.us/drpy2.min.js",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "changeable": 0,
+  "ext": "https://xcz.funly.us/腾讯.js"
+},	  
 {
   "key": "神车",
   "name": "🚎神车秒播",
@@ -6446,18 +6468,6 @@
   "ext": "https://yyrj.fun/bb/donghua/qiyi.js"
 },
 {
-  "key": "hipy_js_腾云驾雾[官]",
-  "name": "🐧腾讯(官)",
-  "type": 3,
-  "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "changeable": 0,
-  "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
-},
-{
   "key": "优酷弹幕",
   "name": "🍊优酷(官)",
   "type": 3,
@@ -8287,6 +8297,35 @@
       "name":"Json并发",
       "type":2,
       "url":"Parallel"
+    },
+    {
+      "name": "小橙子4K",
+      "type": 1,
+      "url": "http://121.41.93.205/xiaye.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
     },
     {
       "name": "影视聚合",
