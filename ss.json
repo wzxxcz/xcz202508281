@@ -222,6 +222,31 @@
             "quickSearch": 1,
             "filterable": 1
         },
+	{
+            "key": "13AV",
+            "name": "13AV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "作者": "八爷",
+                "编码": "UTF-8",
+                "主页url": "https://13av.icu/",
+                "数组": "mb-e&&</p >",
+                "直接播放": "1",
+                "图片": "data-src=\"&&\"",
+                "标题": "title\">*>&&</a >",
+                "副标题": "",
+                "链接": "href=\"&&\"",
+                "简介": "description\" content=\"&&\"",
+                "搜索模式": "1",
+                "搜索url": "https://13av.icu/tags/page/{pg}/wd/{wd}.html",
+                "分类url": "https://13av.icu/type/{cateId}/{catePg}.html",
+                "分类": "角色剧情$5#直接开啪$6#主奴调教$7#凌辱快感$8#无码影片$24#中文字幕$9#制服诱惑$10#丝袜美腿$21#男友视角$20#多P群交$22#盗摄偷拍$23#女同欢愉$25"
+            }
+        },
     {
       "key": "ms4nii",
       "name": "美少女",
