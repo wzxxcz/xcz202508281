@@ -1,0 +1,68 @@
+
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧联.png" group-title="欧联", 2025-03-07 01:30_欧联_阿尔克马尔vs热刺_高季敏 蔡惠强 
+https://feijing-xzbonlinepull.17kq.fun/live/202_3468421_1.m3u8?txSecret=06736f314d096133a4b4c458e49663b3&txTime=67ca180d
+
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧联.png" group-title="欧联", 2025-03-07 01:30_欧联_阿尔克马尔vs热刺_English Commentary 
+http://dx.hebiu.cn/iqiyi/4291379/3675223102308123.m3u8?iqytoken=bf543e09a3e2f474a5baf34074a948eefc14fe6d84db275febafd5c7696ce4df036983c2ad630894e7b3b3c3842958ab6f79492696f11c6c3b402bbd7e9b44e8c7f33c16155f9fe495136dfce5e1e88e040c17baf7c766677fbf7d460dd7e3953c73f14bbaa6fd1e5668cba698dfe2384b46e51631d54f4e70d6b7719620e0f8825badb3c525d57bfad7899d0400b1100eaf1ca94229ae2b5e5034b9cbc565f343834a90dc8ed8b6c6
+
+
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧联.png" group-title="欧联", 2025-03-07 01:30_欧联_皇家社会vs曼联_熊冰杰 董方卓 源1
+https://feijing-xzbonlinepull.17kq.fun/live/202_3468423_1.m3u8?txSecret=4a6a7ac815b1c72b4191685d1dc11a52&txTime=67ca27d8
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧联.png" group-title="欧联", 2025-03-07 01:30_欧联_皇家社会vs曼联_熊冰杰 董方卓 源2
+https://pullhw.zhaoyangyang.cn/live/8770512.flv?auth_info=wTgIMQx2%2BQZmCx4XnSd5R0udzw87o256F7vYQLkhTAg%3D.4d414971587148574e31516863645548
+
+
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧联.png" group-title="欧联", 2025-03-07 01:30_欧联_皇家社会vs曼联_English Commentary 
+http://dx.hebiu.cn/iqiyi/4291388/1925699388481823.m3u8?iqytoken=e4bfe7b9c655eeb81d0f3a1a3b2939571b6bd47f52c45ce625bbdb0bf166548166f96cf15544e7adf87c2e57430e5842a11e9360ee8d2b587b1de8da64f8e038ff9be139a006c8f5f5035c88858d153604df374aa6c5749f3c4015d9e1bae8be086ee9bf17aa766d521588c381d9cc27c55f439fec6b51b9f036e9396e0881a0bfc962a6390b9e1b77c9ef8f21491ad667592cf1598d4d382fa5c4ecb985c9d7c6d6fdb58b627040bc
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧联.png" group-title="欧联", 2025-03-07 01:40_欧联_费内巴切vs流浪者_陈瑞阳 
+https://feijing-xzbonlinepull.17kq.fun/live/202_3468420_2.m3u8?txSecret=6cfd2954be9a34e6ac2bd47703b788d3&txTime=67ca1814
+
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧联.png" group-title="欧联", 2025-03-07 01:40_欧联_费内巴切vs流浪者_English Commentary 
+http://dx.hebiu.cn/iqiyi/4291376/8879675122194623.m3u8?iqytoken=062c8a5cb5a922ed69bbd9da6d1dd60d1e339e6de9bfcb36d2af2bac8bf3608a1614a38c4a4adcc640c320b45c2fc22598a4463f0da931d6769df7e95eecdc89ea178983b74591d65817caf05fd28ed50a78750381bd66687051708e84c19a1b2723ab8679867351fc8d85f78ebbd85cb0b9d14bf2497432d4913babc94b298dad50f29277d941cdebc02f55ce3deef1821c1f52e6abdd483c5a387dd1694a0e975dde63f5e1ef5534
+
+
+
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧联.png" group-title="欧联", 2025-03-07 01:40_欧联_布加勒斯特星vs里昂_王正坤 
+https://feijing-xzbonlinepull.17kq.fun/live/202_3468418_1.m3u8?txSecret=0552dc1c68e46c56d69b61565707c3a5&txTime=67ca1925
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧联.png" group-title="欧联", 2025-03-07 01:40_欧联_布加勒斯特星vs里昂_English Commentary 
+http://dx.hebiu.cn/iqiyi/4291386/7500752029996423.m3u8?iqytoken=0e070f9f09da6b68feec5aeb01388376ca11279ef6187a0e05da6e900b0b971d880872d55a568d92b87a3ba98aeed99c6c173d3326a707b8304571f408d8a16ee9076821e05bbe341dc4d59dea48520eb73f0f15cb5cb8b2463ec92fbc9bc97cb9c0850a0246b5bc7dca5ebb9a6ab70438e9b10a9496fb461d4565b83a471c91328f26e7eb7cb4f7f43536fd5bc6afc93acac14de48f3e71726bf33a61ba8502f4f276317966a2449b
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧协联.png" group-title="欧协联", 2025-03-07 01:40_欧协联_哥本哈根vs切尔西_李嘉伟 
+https://feijing-xzbonlinepull.17kq.fun/live/202_3468427_1.m3u8?txSecret=8e19a82b5dba4651eb7a6fed045c7bab&txTime=67ca27d0
+
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧协联.png" group-title="欧协联", 2025-03-07 01:40_欧协联_哥本哈根vs切尔西_English Commentary 
+http://dx.hebiu.cn/iqiyi/4291449/2860222601059423.m3u8?iqytoken=e7617758f190daf3a13810a5f3699bfaf063ec8ed4fee0cf6fac7f49448fe276a887ce5e7e6a52ae78902a615c08020fa73f777839d2541ea177401a0d185638b25aa49c5f1a02b573e9f206837e178276fc140d9c4c734a2a6bb67f392a94c2a953e77f0935572260652c3f806e7281cc412abc35667e85cb38364e026df4db62c1254d6d77bbf651773bd9b94abbfc04608bbb43c76ab35c1b8c6f206813b01b3a398edb12fa119e
+
+
+
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧联.png" group-title="欧联", 2025-03-07 03:55_欧联_博德闪耀vs奥林匹亚科斯_侯嘉晨 
+http://dx.hebiu.cn/iqiyi/4291375/3436979845554023.m3u8?iqytoken=08965c9055a4d7840140c0b19fafc6f19ea65a06e7d5fcb16391ed4633b99e69a48309e2faf5c3cdf20b90d931e9b16f10bcad51d76d58f1f84cfbf54c5c6111b8b8e9443b9fbb53dd8ced99ad0478cef055f4a22e6b37eb01b71af570e460d5aa86a973ddcfc2fe0039f71ec4e8937efd81e40a3172991dbf1ebd5c7b0a358c39077251f018ac150fa5120d5089f2bfca93f300116aeed719c0de03d73fe6d405502664e27a8fc5a1
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧联.png" group-title="欧联", 2025-03-07 03:55_欧联_博德闪耀vs奥林匹亚科斯_English Commentary 
+http://dx.hebiu.cn/iqiyi/4291375/3887797051959123.m3u8?iqytoken=4ffb9a5fb563af3b6233ac2027d3adf4061233b5e8ec56cac27b5756c96032caa0f1d8bf455b518012a8ff446f7b8e669366e025ba2f475fb0c19ccf4c2f6aad96ff24b4fcbe4ca9a628d294502187a57a5f4b27ee8cc8f8f9607dd7dff11be6a511fd13a5bd594491f3affb31c191e3609607680f18fd45a6c49d37d292f36a988b027196d0790bd25fe3d184b7ab567c686a481498888ec06f243288478710aeec6d3785b79964cd
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧联.png" group-title="欧联", 2025-03-07 03:55_欧联_阿贾克斯vs法兰克福_熊广硕 
+http://dx.hebiu.cn/iqiyi/4291377/6524516193351723.m3u8?iqytoken=5a6c5ce81638d4febaf093f7253f3ef16c6f7263018374ddb5a84c926de1e960fcc6c98e1eab68069132e478ae990cf677d6a4ac66c2c17ffcd0583296ad3e45726e38f157f8129025e3789ce1d9cf0cd12ccd7b231f1b6851961f05b27679d17b311ec1138cabb1f77026885e60682c04913e022211ea707e332445f7d7638692edaf1095b0187c12d887e19805fbd12692d2081aedddb65933af8293e51074dce1c7151ecc706c6f
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧联.png" group-title="欧联", 2025-03-07 03:55_欧联_阿贾克斯vs法兰克福_English Commentary 
+http://dx.hebiu.cn/iqiyi/4291377/6754737791635023.m3u8?iqytoken=92d480e6735e2cedf337bf9ab1f6bfb4b39a2640017954c144f2273134282da259b9bbe5f64eeb0e3c8591b8d7ab1a40af936d3a76632d37a700aad8caf50104f1f6e6874b59e4619ebfabe3c15a5e8cd3898d004a17e24df975d6d21714aa369e92b122cb147c6db3f8a8cd8157a69d4d89b5139fc264b3693f6d6eaaa03816eedabfffec07c3e7e4be9b1f7a62f681e51daf9d85d2a376e99ca37cb9f9c3628f433acb7edd4dd125
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧联.png" group-title="欧联", 2025-03-07 03:55_欧联_比尔森vs拉齐奥_汤宪博 
+http://dx.hebiu.cn/iqiyi/4291381/1862328286520123.m3u8?iqytoken=221e17c8378feee32ab9a521a9b52585927b673d257887e33d8ed7c8cc71ae3048a725bbd4247666c35393a773f1317db8c4e094132bdf298fbd4769e5cc4e06e3bf9ebb1d80867c3831a49a1aaa3bf259202768ea6bfd98906eb02df149ddeae65435d49640a993d7808a2a9bd4388d500681d2362f2db41ebd9f1a6d8e34b268f4b0e67f2e7ad48278b82f9776f66015327704ce09483aaa10f3648549deadf85aebc0066fdf9069
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧联.png" group-title="欧联", 2025-03-07 03:55_欧联_比尔森vs拉齐奥_English Commentary 
+http://dx.hebiu.cn/iqiyi/4291381/2814499147734523.m3u8?iqytoken=3f4733b0569e7824d4314ab4542821d81ec1ba73cbc50f7bdf5e5a640c3f28cc422ac4eb8de15188d7bbebee5fc27c8ff8763854d7a8d50193afb3155aa08473112180d5f872e83c2047cd793494398d51d8f2e316906001ea9f164b036b7d959f4ebce03cc4339e107ab673b47ab66fa0dcf528002e44ca8bdfa4d8ab851681ed74b9c9dba7a8ab4d7673a0790e276d1e602f32f9f9109e221784a94ee1e0630cef5eabead85d4414
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧联.png" group-title="欧联", 2025-03-07 03:55_欧联_罗马vs毕尔巴鄂_洪豆 
+http://dx.hebiu.cn/iqiyi/4291382/2449513687025223.m3u8?iqytoken=03170a716674ebef27796c661886bcc0faaaf1b38ab7451cc2bec4c91ca38c141d3924b30b3266d72a390248ac0f3f7fc8b862f3c9ff66741cc0fa4bb01fd49e7b3c3e90409b93c27397ff45b6bcc4e97dbd29f35d76a064ca5be37ed9a209e95b86dda3b0f16aa29f9243152a16dccd1631f0c9470f64e41bbc9af9c297a3234afea118bba93eddec4cbcd90150e16a637798854f3d41feb4504d5998b504885dc461ab1e49c2dcec
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧联.png" group-title="欧联", 2025-03-07 03:55_欧联_罗马vs毕尔巴鄂_English Commentary 
+http://dx.hebiu.cn/iqiyi/4291382/1119522711545423.m3u8?iqytoken=b2162a3002fc4c8d81c1930ed52cb4810263c4ef8020731702198025d2191942221076c68f5b7260834984275419e2797de886a02ac11f3e28e8f94b76b6278aa281917cbbce8bd58a926cba09722c8addd02efd8bb308ded0c2c57629bd4f6d282fb74978254b4243a7a02af15a64efda9e4f0b71380b3a637461ff4ca2cb7bb2b5ec9cce9596f86adcbc65dd69ea9580b13fb14cd762b25a3928829cfc65b389df6845fe93e58c8b
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧协联.png" group-title="欧协联", 2025-03-07 03:55_欧协联_帕福斯FCvs尤尔加登_陈扬 
+http://dx.hebiu.cn/iqiyi/4291453/2270630702997323.m3u8?iqytoken=931209d6385446fcf429d66f3420fd3281c08aab17d136a29c331692e0b5fd2cf32b7565a1fc4a266cd0f8ed03fa8fdbdc660ab0ce914e84f5cb113c7ae9a9556e8119727b80826015bb9afb3c8f812935a8dc791acd6e23d08a5182c992f8b60f4de20b3af3433850ff0fedd4da1a8aa7d39ff210528dc58c8ec73286dca20415803a3342503376e893d9f1a34818088bc393044aefe573c7c559dc5b75bd896fd4e5e14f84c0cf82
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧协联.png" group-title="欧协联", 2025-03-07 03:55_欧协联_帕福斯FCvs尤尔加登_English Commentary 
+http://dx.hebiu.cn/iqiyi/4291453/4768575152724223.m3u8?iqytoken=63d08d68449036c63f26f4f57c5a58b7b983c0ac2f622722f1ee0ca52ece66946769958500acc8f8d0eaac9644a5ef81a93b9fdf5350b09402faee5e8d18e9eb5c8e57eb12530420578aa8b5bd59a818ad931f4e62a515d208d0be4fe690f455b2b66b4452fde2a5efdf0cdd82915c09124b7aabf49240e2f0a8fdd5b5702c296b402510c487f06c4b1dd09557c8bd18462564e403dd9cc24fd362bdebafa0aeb10631c925d85ff4ea
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/高尔夫女子职业赛.png" group-title="高尔夫女子职业赛", 2025-03-07 12:00_高尔夫女子职业赛_2025LPGA蓝湾大师赛 第二轮_官方解说 
+http://dx.hebiu.cn/iqiyi/1300001479/8516293993181823.m3u8?iqytoken=0d760e359885a2822f83d316928ec5996a079e161944ef6977e55c851d6dfbc0fcec0e9cab8d75b6de1ffea77f2a1454aacda2c226f9c1e22e3b598dc0070cda7661d1cb3e1c9159fc58c48b817cf42b616eb9e9b1cd45f96a8228b214294c9eca38a75655799243b34cbba9cff4c3b7e8eb4e6b22cf2244d78c8ab8e03182a46c46331073c1e02b31b0cd81613757bd679a768d3e9db5d890d41a44413a496bad81b088097d788980
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/高尔夫AAC赛事.png" group-title="高尔夫AAC赛事", 2025-03-07 15:00_高尔夫AAC赛事_2025亚太女子业余锦标赛 第二轮_英文解说 
+http://dx.hebiu.cn/iqiyi/1300001483/7073999799022323.m3u8?iqytoken=23e78cdbab50121ba734b0aa6248d4dce6316e72e570cfb9c3f0d3337b6d17d655430840e3fcfdae2fd321a1265c90604c9a18f8d292c9c7ac57294377f822acd72ca89fc6d5f2c38f416729ec50a1da137fdec7501e67aba9f2d3b76bb1453d199249e571cbfd60605113e5d9c11261fe2ce86a22aef7a2e6985b07a1be5d78439a1054e4db96b3019f19cf937435994c57c419f19df70702ef3be1caedf17cba006b99e79ecdff6e
