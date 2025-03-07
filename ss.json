@@ -265,6 +265,27 @@
                 "分类值": "287&185&296&177&178&179&180&181&182&183&184&186&187&188&189&190&191&192&193&194&325&327&328&329&330&331&332&295&297&298&299&300&301&302&303&304&305&306&309&310&311&312&313&314&315&316&317&224&225&227&229&231&233&235&237&239&241&243&245&247&249&251&253&255&257&259&261&263&265&267&269&271&273&275&276&277&278&279&280&281&282&283&284&285&286&288&289&290"
             }
         },
+	{
+	  "key":"++教师妈妈",
+	  "name":"教师妈妈",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "jar": "./xbpq.jar",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":{
+		  "请求头":"User-Agent$MOBILE_UA",
+		  "编码":"UTF-8",
+		  "主页url":"https://m.jsmm70.buzz/welcome/?https://w8psobw8jp8zq2b.52crs264.xyz/",
+		  "数组":"thumb\">&&</time>","图片":"src=\"&&\"","标题":"title=\"&&\"","副标题":"red\">&&</font>",
+		  "链接":"默认--href=\"&&\"||首页--https://m.jsmm70.buzz/+href=\"&&\"",
+		  "简介":"description\" content=\"&&\"","跳转播放链接":"var player_*\"url\":\"&&\"",
+		  "搜索url":"https://m.jsmm70.buzz/welcome/index.php/vod/search/page/{pg}/wd/{wd}.html",
+		  "分类url":"https://m.jsmm70.buzz/welcome/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+		  "分类数组":"<li&&li>","分类标题":">&&</a >[不包含:黄色仓库]","分类ID":"/welcome/index.php/vod/type/id/&&.html"
+	        }
+	},
     {
       "key": "ms4nii",
       "name": "美少女",
