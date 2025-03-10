@@ -148,6 +148,14 @@
             "type": 101
         },
         {
+            "name": "百家 | 4K",
+            "api": "https://gitee.com/qihaoyyds/uzjs/raw/master/百家.js",
+            "webSite": "http://cj.jiexi.news/",
+            "remark": "本源由「小橙子」维护",
+            "version": "3",
+            "type": 101
+        },
+        {
             "name": "云盘 | 4K",
             "codeID": "",
             "api": "https://gitee.com/qihaoyyds/uzjs/raw/master/云盘.js",
