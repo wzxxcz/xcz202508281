@@ -448,15 +448,33 @@
   "filterable": 0
 },
 {
-  "key":"csp_欧歌G",
+  "key": "配置中心",
   "name":"🍊配置中心",
-  "type":3,
-  "api":"csp_ConfigCenter",
-  "searchable":0,
-  "quickSearch": 0,
-  "filterable": 1,
-  "jar":"https://alicliimg.clewm.net/342/790/68790342/174084546863895ce7ac32cdd3890fd73f7d925a4f3031740845466.jpg;md5;cfa2ce70bab7bf2eb1f3de8bf428ee95"
-},	  
+  "type": 3,
+  "api": "csp_Config",
+  "jar":"https://xcz.funly.us/qh.jar",
+  "searchable": 0,
+  "changeable": 0,
+  "indexs": 0,
+  "style": {
+            "type": "rect",
+            "ratio": 1.618
+           }
+},
+{
+  "key": "影视配置",
+  "name": "🍊其他配置",
+  "type": 3,
+  "api": "csp_Wexconfig",
+  "searchable": 0,
+  "changeable": 0,
+  "indexs": 0,
+  "style": {
+            "type": "rect",
+            "ratio": 1.597
+           },
+  "jar": "https://xcz.funly.us/qh3.jar"
+},
 {
   "key": "hipy_js_好趣网",
   "name": "🍊小橙子电视",
@@ -520,7 +538,7 @@
   "name": "🐲小橙子智能4K弹幕",
   "type": 3,
   "api": "csp_Wogg",
-  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
+  "jar": "https://xcz.funly.us/qh.jar",		
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -530,20 +548,6 @@
            "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
            "wogg": true,
            "danmu": true
-         }
-},
-{
-  "key": "玩偶",
-  "name": "🐲小橙子智能4K弹幕",
-  "type": 3,
-  "api": "csp_Wogg",
-  "jar": "https://xcz.funly.us/qh.jar",	
-  "searchable": 1,
-  "changeable": 0,
-  "ext": {
-           "commonConfig": "./lib/peizhi.json",
-           "filter": "./lib/wogg.json",
-           "siteUrl": "http://wogg.xxooo.cf/"
          }
 },	  
 {
@@ -624,8 +628,8 @@
   "key": "欧歌",
   "name": "🐲小橙子夸克",
   "type": 3,
-  "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",	
+  "api": "csp_欧歌",
+  "jar": "https://xcz.funly.us/qh.jar",		
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -634,7 +638,6 @@
            "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
            "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
            "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "site": "https://woog.nxog.eu.org",
            "danmu": true
          }
 },	  
@@ -720,6 +723,22 @@
          }
 },
 {
+  "key": "百家",
+  "name": "🍊百家4K",
+  "type": 3,
+  "api": "csp_百家",
+  "jar": "https://xcz.funly.us/qh.jar",	
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "danmu": true
+         }
+},	  
+{
   "key": "抠搜",
   "name": "🍄柑橘4K",
   "type": 3,
@@ -729,8 +748,8 @@
   "changeable": 0,
   "jar": "https://xcz.funly.us/qh2.jar",
   "ext": {
-          "Cloud-drive": "tvfan/Cloud-drive.txt",
-          "from": "4k|auto"
+           "Cloud-drive": "tvfan/Cloud-drive.txt",
+           "from": "4k|auto"
          }
 },	  
 {
@@ -784,24 +803,32 @@
   "key": "木偶",
   "name": "🍁木偶资源4K弹幕",
   "type": 3,
-  "api": "csp_Wobg",
-  "jar": "https://xcz.funly.us/qh.jar",		
-  "searchable": 1,
-  "changeable": 0,
+  "api": "csp_木偶",
+  "jar": "https://xcz.funly.us/qh.jar",	
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
   "ext": {
-           "siteUrl": "http://123.666291.xyz/"
-         }
-},	  	  
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "danmu": true
+        }
+},	  
 {
   "key": "至臻",
   "name": "🏆️至臻4K4K",
   "type": 3,
-  "api": "csp_Wobg",
-  "jar": "https://xcz.funly.us/qh.jar",	
-  "searchable": 1,
-  "changeable": 0,
+  "api": "csp_至臻",
+  "jar": "https://xcz.funly.us/qh.jar",		
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
   "ext": {
-           "siteUrl": "https://mihdr.top"
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "danmu": true
          }
 },	  
 {
@@ -815,17 +842,37 @@
   "ext": {
            "siteUrl": "https://tv.yydsys.cc"
          }
+},
+{
+  "key": "多多",
+  "name": "🍥多多弹幕4K弹幕",
+  "type": 3,
+  "api": "csp_多多",
+  "jar": "https://xcz.funly.us/qh.jar",		
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "danmu": true
+         },
+  "timeout": 25
 },	  
 {
   "key": "小米",
   "name": "🍚小米4K",
   "type": 3,
-  "api": "csp_Wobg",
+  "api": "csp_小米",
   "jar": "https://xcz.funly.us/qh.jar",	
-  "searchable": 1,
-  "changeable": 0,
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
   "ext": {
-           "siteUrl": "http://milvdou.fun/"
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "danmu": true
          }
 },	  
 {
@@ -868,12 +915,15 @@
   "key": "蜡笔",
   "name": "👠蜡笔在线",
   "type": 3,
-  "api": "csp_Wobg",
+  "api": "csp_蜡笔",
   "jar": "https://xcz.funly.us/qh.jar",		
-  "searchable": 1,
-  "changeable": 0,
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
   "ext": {
-           "siteUrl": "http://feimaoai.site"
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "danmu": true
          }
 },	  
 {
@@ -981,11 +1031,11 @@
   "timeout": 25
 },
 {
-  "key": "夸克趣盘搜弹幕",
+  "key": "趣盘",
   "name": "🤓趣盘搜索弹幕",
   "type": 3,
   "api": "csp_QuPanSou",
-  "jar": "https://xcz.funly.us/PizazzGY.php",
+  "jar": "https://xcz.funly.us/qh.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -1174,24 +1224,30 @@
   "key": "闪电",
   "name": "⚡️闪电4K弹幕",
   "type": 3,
-  "api": "csp_Wobg",
-  "jar": "https://xcz.funly.us/qh.jar",
-  "searchable": 1,
-  "changeable": 0,
+  "api": "csp_闪电",
+  "jar": "https://xcz.funly.us/qh.jar",	
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
   "ext": {
-            "siteUrl": "http://1.95.79.193/"
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "danmu": true
          }
 },	  
 {
   "key": "下饭",
   "name": "🍛下饭4K弹幕",
   "type": 3,
-  "api": "csp_Wobg",
-  "jar": "https://xcz.funly.us/qh.jar",	
-  "searchable": 1,
-  "changeable": 0,
+  "api": "csp_下饭",
+  "jar": "https://xcz.funly.us/qh.jar",		
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
   "ext": {
-           "siteUrl": "http://www.xn--ghqy10g1w0a.xyz/"
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "danmu": true
          }
 },	  
 {
