@@ -1315,8 +1315,8 @@
   "name": "🎬电影1080P",
   "type": 3,
   "quickSearch": 0,
-  "api": "csp_MiTuApp",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739703191057/0126.jar;md5;f3110f8ad96233627b3e6870cfdbd598",	
+  "api": "csp_AppGetV2Guard",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07",	
   "ext": "sHR2rlsfjI4L3t4RXQMkn9pXqDDJVVS6pwdk2S4nTvU6TUFngKGexyvHMXSXO57AN6M4LsBHwZ1tcHnPZ2gPH1m7qu7r1zc7CkawgqunMPxZznGnqtbiv5NVOliQUr2NK4Pee7PFE2+BCvbGUPd3IR9Hiub1wBkbrfqjptJFLEpVXeR1pgeGp6pPUjADtyQPuXHj4azaFzDrobUCcdcn7KM6ZC4rjkupd5HlbdqhOJTRBv917h5RUlXs1sgRU1+EWkMXuNopX+18VjWwSrFYPw=="
 },	  
 {
@@ -1833,8 +1833,8 @@
   "key": "csp_Lkdy",
   "name": "💐来看1080P",
   "type": 3,
-  "api": "csp_Lkdy",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739703191057/0126.jar;md5;f3110f8ad96233627b3e6870cfdbd598"	
+  "api": "csp_LkdyGuard",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"		
 },	  
 {
   "key": "小猫",
@@ -1964,12 +1964,11 @@
          }
 },
 {
-  "key": "流光影视",
+  "key": "csp_Lgyy",
   "name": "⏳️️流光1080P",
   "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/fy/raw/main/spider.jar",
-  "ext": "https://gitee.com/wzbdyr/fy/raw/main/XBPQ/流光影视.json"
+  "api": "csp_LgyyGuard",
+  "jar": "https://gitee.com/wzbdyr/fy/raw/main/spider.jar"	
 },	  
 {
   "key": "洽洽影视",
