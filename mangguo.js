@@ -801,7 +801,7 @@ var rule = {
         } else {
             print(input + "暂无片源")
         }
-        VOD.vod_play_from = "柒豪芒果";
+        VOD.vod_play_from = "小橙子芒果";
         VOD.vod_play_url = d.map(function(it) {
             return it.title + "$" + it.url
         }).join("#");
