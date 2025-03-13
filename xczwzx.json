@@ -669,21 +669,6 @@
          }
 },
 {
-  "key": "趣盘",
-  "name": "🤓趣盘搜索弹幕",
-  "type": 3,
-  "api": "csp_QuPanSou",
-  "jar": "https://xcz.funly.us/qh.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "changeable": 1,
-  "ext": {
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "danmu": true
-         }
-},	  
-{
   "key": "蜡笔",
   "name": "👠蜡笔在线",
   "type": 3,
@@ -796,15 +781,17 @@
   "key": "米搜",
   "name": "🌾米搜4K4K",
   "type": 3,
-  "api": "csp_MIPanSo",
+  "api": "csp_MiPanSo",
+  "jar": "https://xcz.funly.us/qh.jar",	
   "searchable": 1,
-  "quickSearch": 1,
+  "filterable": 1,
   "changeable": 0,
-  "jar": "https://xcz.funly.us/qh2.jar",
   "ext": {
-           "Cloud-drive": "TVBox/Cloud-drive.txt",
-           "from": "4k|auto"
-         }
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "danmu": true
+        }
 },	  
 {
   "key": "UC",
