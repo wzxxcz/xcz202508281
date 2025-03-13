@@ -912,6 +912,17 @@
   "ext": "https://www.xb6v.com"
 },
 {
+  "key": "电影港",
+  "name": "🍊电影港磁力",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitee.com/wzbdyr/omg/raw/main/XYQHiker/电影港.json"
+},	  
+{
   "key": "哔哩",
   "name": "🍊哔哩弹幕",
   "type": 3,
