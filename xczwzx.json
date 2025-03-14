@@ -543,12 +543,12 @@
   "name": "📽️一直播直播",
   "type": 3,
   "api": "csp_AllliveGuard",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0",	
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741943963161/f0314.txt;md5;8ad692765d808a238dce3ed344c24116",
   "playerType": 2,
   "searchable": 0,
   "quickSearch": 0,
   "changeable": 0
-},	  
+},
 {
   "key": "玩偶",
   "name": "🐲小橙子智能4K弹幕",
@@ -1692,11 +1692,11 @@
   "name": "🎀异界动漫",
   "type": 3,
   "api": "csp_YsjGuard",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0",	
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741943963161/f0314.txt;md5;8ad692765d808a238dce3ed344c24116",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1
-},	  
+},
 {
   "key": "Anime1",
   "name": "🐾日本动漫",
@@ -1880,14 +1880,14 @@
   "api": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.js",
   "ext": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/huya2.js",
   "style": {
-             "type": "rect",
-             "ratio": 1.755
+              "type": "rect",
+              "ratio": 1.755
            },
   "playerType": "2",
   "searchable": 0,
   "quickSearch": 0,
   "changeable": 0
-},	  
+},
 {
   "key": "斗鱼js",
   "name": "🐟斗鱼直播",
