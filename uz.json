@@ -21,13 +21,13 @@
     "live": [
         {
             "name": "📺小橙子电视",
-            "url": "https://xcz.funly.us/live.txt",
+            "url": "https://live.iptv365.org/live.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
         },
 	{
             "name": "📺海外电视",
-            "url": "https://xcz.funly.us/live.txt",
+            "url": "https://vip.iptv365.org/live2025.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
         },  
