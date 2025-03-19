@@ -194,12 +194,6 @@
             "remark": "本源由小橙子维护"
         }, 
 	{
-            "name": "📺小橙子cnbc财经2(需梯子)",
-            "url": "https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcuk-lggb/playlist.m3u8",
-            "type": 10,
-            "remark": "本源由小橙子维护"
-        }, 
-	{
             "name": "📺小橙子国外(需梯子)",
             "url": "http://cdn1host.online:8080/get.php?username=kratorius&password=opLcbhlXaT&type=m3u",
             "type": 10,
