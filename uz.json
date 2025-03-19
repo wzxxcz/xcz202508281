@@ -1,5 +1,14 @@
 {
-    "panTools": [
+    "recommend": [
+        {
+            "name": "豆瓣推荐 影视推荐",
+            "codeID": "N7WRmLmOdB8FSh4M",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/recommend/js/douban.txt",
+            "version": "3",
+            "type": 200
+        }
+    ],
+	"panTools": [
         {
             "name": "网盘解析工具",
             "url": "https://gitee.com/qihaoyyds/uzjs/raw/master/配置.js",
@@ -660,6 +669,40 @@
             "remark": "「仅限搜索」",
             "version": "3",
             "type": 100
+        },
+	{
+            "name": "🐲小橙子资源",
+            "api": "https://raw.githubusercontent.com/ouhaibo1980/uzVideo-extensions/refs/heads/main/vod/js/ouge.js",
+            "webSite": "https://woog.nxog.eu.org",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "3",
+            "type": 101
+        },
+	{
+            "name": "🐲小橙子资源备用",
+             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/uzVideo-extensions/refs/heads/main/vod/js//ougepan.js",
+            "instance": "ougepan20241030",
+            "webSite": "https://woog.xn--dkw.xn--6qq986b3xl/",
+            "remark": "小橙子网盘",
+            "version": "3",
+            "type": 100
+        },
+	{
+            "name": "🐲小橙子资源1",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/ougepan.js",
+            "instance": "ougepan20241030",
+            "webSite": "https://woog.nxog.eu.org/",
+            "remark": "小橙子网盘",
+            "version": "2",
+            "type": 100
+        },
+	{
+            "name": "🐲小橙子资源2",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/ouge.js",
+            "webSite": "https://woog.nxog.eu.org",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "3",
+            "type": 101
         },
 	{
             "name": "厂长视频",
