@@ -335,12 +335,6 @@
             "remark": "本源由小橙子维护"
         },  
 	{
-            "name": "📺综合订阅",
-            "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=455811267024605",
-            "type": 10,
-            "remark": "本源由小橙子维护"
-        },  
-	{
             "name": "📺小橙子体育频道",
             "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
             "type": 10,
@@ -355,12 +349,6 @@
 	{
             "name": "📺小橙子体育频道备2",
             "url": "https://live.zbds.top/tv/iptv6.txt",
-            "type": 10,
-            "remark": "本源由小橙子维护"
-        }, 
-	{
-            "name": "📺体育订阅",
-            "url": "https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=455811267024605",
             "type": 10,
             "remark": "本源由小橙子维护"
         }, 
