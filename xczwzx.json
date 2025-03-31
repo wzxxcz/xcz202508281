@@ -522,20 +522,6 @@
            }
 },	  
 {
-  "key": "影视配置",
-  "name": "🍊其他配置",
-  "type": 3,
-  "api": "csp_Wexconfig",
-  "searchable": 0,
-  "changeable": 0,
-  "indexs": 0,
-  "style": {
-             "type": "rect",
-             "ratio": 1.597
-           },
-  "jar": "https://xcz.funly.us/wzx2.jar"
-},	  
-{
   "key": "hipy_js_好趣网",
   "name": "🍊小橙子电视",
   "type": 3,
@@ -627,24 +613,8 @@
         }
 },
 {
-  "key": "欧歌弹幕",
-  "name": "🐲小橙子4K弹幕",
-  "type": 3,
-  "api": "csp_og",
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
-  "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;d2ac87f70882f8f18f01dc9d8b616bde",
-  "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "danmu": true
-         }
-},
-{
   "key":"csp_Netfixtv",
-  "name": "🐲小橙子4K弹幕备",
+  "name": "🐲小橙子4K弹幕",
   "type":3,
   "changeable":"0",
   "api":"csp_DuopanGuard",
@@ -785,15 +755,11 @@
   "key": "闪电",
   "name": "⚡️闪电4K弹幕",
   "type": 3,
-  "api": "csp_闪电",	
+  "api": "csp_PanWebShare",
+  "searchable": 1,
   "quickSearch": 1,
-  "changeable": 1,
   "filterable": 1,
-  "ext": {
-          "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-          "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-          "danmu": true
-         }
+  "ext": "./lib/闪电.json"
 },
 {
   "key": "下饭",
@@ -1152,7 +1118,7 @@
   "name": "🐻小熊秒播",
   "type": 3,
   "api": "csp_AppSKGuard",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742919787619/f0326B.txt;md5;54c3c5cd399274cfdbed01fd53e65fd4",
+  "jar": "https://xcz.funly.us/wzxf.txt",
   "searchable": 1,
   "quickSearch": 0,
   "changeable": 0,
