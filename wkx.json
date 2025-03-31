@@ -873,30 +873,39 @@
         }
 },
 {
-  "key": "小米",
+  "key": "csp_UC",
   "name": "🍚小米4K",
   "type": 3,
-  "api": "csp_PanWebShare",
-  "searchable": 1,
-  "quickSearch": 1,
+  "changeable": "0",
+  "api": "csp_DuopanGuard",
+  "jar": "https://xcz.funly.us/wzxm.jar",
   "filterable": 1,
-  "ext": "http://38.165.20.168/json/小米.json?"
+  "ext": {
+          "site_urls": [
+          "https://www.54271.fun/",
+          "https://54271.fun/",
+          "https://www.mucpan.cc/",
+          "https://mucpan.cc/"
+        ],
+        "url_key": "UC",
+        "token": "",
+        "ucCookie": "",
+        "quarkCookie": "",
+        "threadinfo": {
+          "chunksize": 400,
+          "threads": 12
+        }
+      }
 },
 {
-  "key": "米搜",
+  "key": "csp_MiSou",
   "name": "🌾米搜4K4K",
   "type": 3,
-  "api": "csp_MiPanSo",	
-  "searchable": 1,
-  "filterable": 1,
-  "changeable": 0,
-  "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "danmu": true
-        }
-},	  
+  "changeable": "0",
+  "api": "csp_MiSouGuard",
+  "jar": "https://xcz.funly.us/wzxm.jar",
+  "ext": ""
+},
 {
   "key": "六趣",
   "name": "🐲六趣4K弹幕",
@@ -936,7 +945,7 @@
   "name": "🧸玩偶4K弹幕",
   "type": 3,
   "api": "csp_WoggGuard",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743043850096/0327.jar;md5;6411fd495912c546a91ea10c03a76e99",
+  "jar": "https://xcz.funly.us/wzxm.jar",
   "changeable": "0",
   "filterable": 1,
   "ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg9L+drzR5a6bo7DML9hTEHvIuMN0JxvcbUflFgvOz4etZ9cUsZ0b7NskUhkBZr0Id9PbDIgsZ9ekl9fNeS9q4Xipo9oU6Q5Q6atElwpmoHUGKG7Vsl4t5dOKwL7zEwqKeKC+hOwoqQ0Ccjk/w0d7AxNitxqpuXuwUKEFEp0Y2iAV9kOnPhy0tVHA/iAWPBbW+3qpX+mjT4olDqSTCNwM4jlKSEh7T+9Kzd/c6ODYsOOElZCPkbPU2wMODtMy2eLwzObRLWezUVwTsB+yqoAwknHj2ZHwVNpoDaMDXzelDwflfqX4z8lGYdMdy2cpdl4mf5PVsDuHct1NjAG09cwhzYaB+5iavBavMH1msIipo7esn9YDgsgvxPsIO4LoZpHHW4="
@@ -1404,7 +1413,7 @@
   "name": "🍉瓜子1080P",
   "type": 3,
   "api": "csp_Gz360Guard",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742350342316/0319.jar;md5;b73ed98a0a285189794be3c8d9c3a335"	
+  "jar": "https://xcz.funly.us/wzxm.jar"	
 },
 {
   "key":"洽洽影视",
@@ -1419,13 +1428,11 @@
 },
 {
   "key": "悠悠",
-  "name": "🏊悠悠1080P",
+  "name": "🏆悠悠1080P",
   "type": 3,
-  "api": "csp_Muou",
-  "playerType": 2,
-  "quickSearch": 1,
-  "ext": "caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA==",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9"
+  "api": "csp_AppYoYoGuard",
+  "jar": "https://xcz.funly.us/wzxm.jar",
+  "ext": "sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKyJw41aUl2TMF+qakB/2SvSF1SywokogMA+eafsTjEwpMnjioYuZ3uAodRzi6b9JRGt/qZkfVS+3YsQmfAQuHaJtqS2wzVicWNabggtAUtATM1uW8wyQOAJwp8YQlLp1CaU1IoFu/lvb6RN6pbaZ82+7ujInKS9UYz01vd68K3JRCGtQvW8dpfu4Grd0IGxl6oo5YUOaKClXJr6NG4MizWXxk4T8TuH7P49u1clps+VY9FQhdsAb3iNo0TGTIdbGaU="
 },
 {
   "key": "巧技",
@@ -1493,23 +1500,23 @@
   "name": "🎬电影1080P",
   "type": 3,
   "quickSearch": 0,
-  "api": "csp_AppGetV2Guard",
-  "ext": "sHR2rlsfjI4L3t4RXQMkn9pXqDDJVVS6pwdk2S4nTvU6TUFngKGexyvHMXSXO57AN6M4LsBHwZ1tcHnPZ2gPH1m7qu7r1zc7CkawgqunMPxZznGnqtbiv5NVOliQUr2NK4Pee7PFE2+BCvbGUPd3IR9Hiub1wBkbrfqjptJFLEpVXeR1pgeGp6pPUjADtyQPuXHj4azaFzDrobUCcdcn7KM6ZC4rjkupd5HlbdqhOJTRBv917h5RUlXs1sgRU1+EWkMXuNopX+18VjWwSrFYPw==",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"
+  "api": "csp_AppGetGuard",
+  "jar": "https://xcz.funly.us/wzxm.jar",
+  "ext": "KsP46vke46cPylpEP8h9kZQJOZt+JFV0mLhSq1biyJHvVsOks76ATO6+1K5bMVwKoqUvbaJnqQw0qiRAw0clHVzc5nwgXHppf37s+mKJzTalSdw77exZP67VWFx0pLwky0XcMUIQ9YFHmMIHR3XI1BmEqAemBbCm8ULBqAe9laKmHMoGZOUdnIvPcBk2POPi2ti4ZJNrHQhuVqgbibt7ygEMGLwhIJnmyaaUWErenDs="
 },
 {
   "key": "csp_Jpys",
   "name": "🥇金牌1080P",
   "type": 3,
   "api": "csp_JpysGuard",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743043850096/0327.jar;md5;6411fd495912c546a91ea10c03a76e99"
+  "jar": "https://xcz.funly.us/wzxm.jar"
 },
 {
   "key": "csp_Wwys",
   "name": "👨农民1080P",
   "type": 3,
   "api": "csp_WwysGuard",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07",	
+  "jar": "https://xcz.funly.us/wzxm.jar",	
   "ext": "https://www.wwgz.cn"
 },
 {
@@ -1542,8 +1549,8 @@
   "name": "🌰莉莉1080P",
   "type": 3,
   "api": "csp_AppGetGuard",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742350342316/0319.jar;md5;b73ed98a0a285189794be3c8d9c3a335",	
-  "ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYglPoC8UNLIX0B4DnEefWcAydxKYH8rxXY/n5Z1HeXH9exVQ6o+uIi6FAmTcCFBKVEhbMLsvvqM3GIa16E8qYderB0nB+AiqMMXAUC0sfjCrt7OHidpXhNZqkTjmVqiwvC3NjlI8h65kp6Qu58FpriLCfdQOs2uyQq6VaJAApvA2cYX2V5fMu4UtLCjorwdlJc"
+  "jar": "https://xcz.funly.us/wzxm.jar",
+  "ext": "KsP46vke46cPylpEP8h9kV3zmT6SjdmDzDvTmcpyr8LRfEa9Qx8QS89hxtKQa8cCgFJoMQoWv9b+B8vt0ygfPT/mNGPiZRmiGAyVxAku2+j3eSSpgYb08qs+AMCDe9flsqxxEuN/Dvv0S1Ha/hoZDUoOCF1b38iWz39HWLhDvAC36LjucDxUHrsiJKGzbDtJJ3/9anuoxW5q6dcsMnS49Q=="
 },
 {
   "key":"雨滴",
@@ -1559,7 +1566,7 @@
   "name": "🎮优秀1080P",
   "type": 3,
   "api": "csp_AppGetGuard",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743043850096/0327.jar;md5;6411fd495912c546a91ea10c03a76e99",
+  "jar": "https://xcz.funly.us/wzxm.jar",
   "ext": "rpb8IjZTuzYSqZNn/sGvG+nmDP6c5rlJM5DTXdn6d/OdwIl8hAgvoCnQmL7YkzCXHe+hpViArom3TFB7ORHGx8Gsyk/NiHE7VuNzVMP/C+/r78ogd9EF54Pi+n6PkOaxl7jEppsqJjozMoCPS929dwPWfx4NGsZnpVFvANeZUOzlo4RKfmAaN35kAo+7amKcqawPF/jPPsCEXambLeH+PqICmlcdkCN+3k+Dft4Z8iA="
 },
 {
@@ -2116,7 +2123,7 @@
   "name": "🐸上头短剧",
   "type": 3,
   "api": "csp_AppXY",	
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739703191057/0126.jar;md5;f3110f8ad96233627b3e6870cfdbd598"
+  "jar": "https://xcz.funly.us/wzxm.jar"
 },	  
 {
   "key": "吉吉短剧",
@@ -2144,7 +2151,7 @@
   "name": "📚听书BOOK",
   "type": 3,
   "api": "csp_TingBookGuard",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742350342316/0319.jar;md5;b73ed98a0a285189794be3c8d9c3a335",	
+  "jar": "https://xcz.funly.us/wzxm.jar",	
   "searchable": 1,
   "ext": "http://www.6yueting.com"
 },	  
