@@ -709,7 +709,7 @@
   "changeable":"0",
   "api":"csp_DuopanGuard",
   "filterable":1,
-  "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;f6411fd495912c546a91ea10c03a76e99",
+  "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;c46031f5e05dac8a7529931d65e95bbb",
   "ext":{
 	  "site_urls":["https://wooguc.nxog.eu.org","https://oguc.xn--dkw.xn--6qq986b3xl"],
 	  "url_key":"UC"
@@ -955,6 +955,18 @@
 	  "cookie":"http://127.0.0.1:9978/file/TVbox/quark.txt",
 	  "danmu":true
         }
+},
+{
+  "key":"二小",
+  "name":"❤二小4K弹幕",
+  "type":3,
+  "api":"csp_PanWebShare",
+  "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;7e15f012f984416c308436916752fe34",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "changeable":1,
+  "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/json/ex.json?"
 },
 {
   "key": "云盘",
@@ -1407,6 +1419,38 @@
   "jar": "https://xcz.funly.us/wzxm.jar"	
 },
 {
+  "key":"瓜子影视",
+  "name":"💡瓜子影视",
+  "type":3,
+  "api":"csp_Gz360",
+  "jar": "https://xcz.funly.us/wzxo.php",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
+  "key":"格格影视",
+  "name":"💡格格影视",
+  "type":3,
+  "api":"csp_AppGetApp",
+  "jar": "https://xcz.funly.us/wzxo.php",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":0,
+  "ext":"w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDjMOcw67DnsOPwqXCnFdqwpnCmsOiw63DrsKjal9fwqrCpMKrwqfCq2tgXmHCssKrwqjCrcKqbWFhYcKpwqLDm8Opw6NhwqDCmMKgwqDCn8KawqDDg8KhwpnCpMKHw6jDpcOewqDCtFNXwpnCnsOiw6fDkMKqwqtsV1xQwqDDp8Ojw6nCoW1QV8KL5Ye+6YWb5pCf5ZGcwqblhp/kvYflkKdq5b+q6Ki56La+5ryJ562TwpBXXFDCoMK0w5/DrMOFwpjCqVdqwpnCmsObw6zDocKWwqjCmMKaw6TDp8OtwqrCrGdlZ2PCoMKfwprCoMK7wpjCo3nCpsKgwq3CmsKgw5vCpsKXwpPCqMOhw53DpcOtw61kYmRlwrDCpsKhwqXCmlrCmMKVwpHDncOYw6zDrMKhbVDCq1fDrsOmw5/Dq8KnwpTCl8KVwp7DrcKawrTCmcKhwoDCn8KqwpnDpcOfw5vCqMKvYWBQWMOQw5zDqMOdw6nCqsKjUH7DjcKTwqvCqcKoY2tQwofDosOhwrDCrcK1U8KoZmTCosKTwrvDqcOqwp/ClcKHwpXDm8K+w6PDrcKpaGNnXsKswqnCmsKhw4V7woR9fMKlwpPDpsOiw6XCmFB3wpXDnMOew6nCosKadsKYwqLCn8Omw5jCqcKqwqtlXmBewqnCocKqwpnDjcKUwpbCkcKiw6LCosKvwqzCsWFjZlfCpcKTwqHDmsOmwp/Cn8Knc8Orw6LDrcOsw4rCpcKfwqTCn8Ocw6LDpsOLw5/Cl8KZwqLClcOcw6fDrcKgwrRTwoTCosKlw57DsMKmwpnCoXXCkcKewpvDh8OUw7DCoMK0U1fnnKTmk53CoMKfwprCoMOewpjCk8KiwqnDqcOnw4XDnsOzWmpQV8Oww6jDs8OiwrBpZlfCrQ=="
+},
+{
+  "key":"云端影视",
+  "name":"💡云端影视",
+  "type":3,
+  "api":"csp_AppGetApp",
+  "jar": "https://xcz.funly.us/wzxo.php",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":0,
+  "ext":"w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCocKbwqTCpMKgw6zCrcKpwqjDs8KXwqnCo8KUw7LDocObw6bDo8KWwpTCn8Kdw5rDnMOow6fDm8KgwpVeZsKxwqHDocOywrRkYGZnwrHCosOdwrLDp2XCmsKjYsKywqvDssKxwqzCm2ZfwpzCssOgwrLDm8OyZWPCmmLDqMKlw6rCssOrYsKUwqnCnsOaw6DDo8Ocw57CosKdwpHCmcOnw6HDm8Omw59hwqTCqMKkwqDCn8KawqDDjcKcwqTClcKFw6vDn8KhwrPCmlpXXFDCoMK8w6jDosOuworCn8KiwpTCoMKtwprCoMOjwqHCmcKkwobCqsKkwrPCoMKmU1fCpMKZw6nCmsK0wpnCocKO5Ya16YSY5o+V5ZGcwp/lh6bkvpDlkbFt5b6h6Ke26LW05ryJ562Mw5fCoMKmU1dxwpXDrMK+w5/DssKhbVBXwpvCssOiwq3DqcKswpZowpJnw6bCpsO0wqnDqWtXXFDCoMK0w5/DrMODwqlXalDCoMOewrPDqMKtwqNiwpNow5vCqsOnwqzDtGPCn2hXwqXCk8Khw53Dn8KWwqLCqcKgw63CvsOfw7LCoW1QV8Knw67DrMOjwq/CsGlXwq0="
+},
+{
   "key":"洽洽影视",
   "name":"💡洽洽影视",
   "type":3,
@@ -1416,6 +1460,16 @@
   "quickSearch":1,
   "filterable":1,
   "ext":"KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="
+},
+{
+  "key":"爱看机器人",
+  "name":"💡爱看影视",
+  "type":3,
+  "api":"csp_IkanBot",
+  "jar": "https://xcz.funly.us/wzxo.php",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
 },
 {
   "key": "悠悠",
@@ -1496,11 +1550,15 @@
   "ext": "KsP46vke46cPylpEP8h9kZQJOZt+JFV0mLhSq1biyJHvVsOks76ATO6+1K5bMVwKoqUvbaJnqQw0qiRAw0clHVzc5nwgXHppf37s+mKJzTalSdw77exZP67VWFx0pLwky0XcMUIQ9YFHmMIHR3XI1BmEqAemBbCm8ULBqAe9laKmHMoGZOUdnIvPcBk2POPi2ti4ZJNrHQhuVqgbibt7ygEMGLwhIJnmyaaUWErenDs="
 },
 {
-  "key": "csp_Jpys",
+  "key":"金牌影视",
   "name": "🥇金牌1080P",
-  "type": 3,
-  "api": "csp_JpysGuard",
-  "jar": "https://xcz.funly.us/wzxm.jar"
+  "type":3,
+  "api":"csp_WebJP",
+  "jar": "https://xcz.funly.us/wzxo.php",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKbwqPDp8Ohw6LDm8OkYcKTwp/CncKgwp/CmsKgw67CnMKgV2rCmcKaw5Xlh77phaLmj5jlkJNc5Yac5L6Q5ZGqwrTlv6roqYDotbfmu4DnrInCjcKgwp/CmsKgw57CmMKTwqLCqcOpw6fDhcOew7NaalBXw7DDqMOzw6LCsGlmV8Kt"
 },
 {
   "key": "csp_Wwys",
@@ -1553,6 +1611,15 @@
   "ext":"jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
 },
 {
+  "key":"二三",
+  "name":"💡二三影视",
+  "type":3,
+  "api":"csp_Muou",
+  "jar": "https://xcz.funly.us/wzxo.php",
+  "playerType":2,
+  "ext":"caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
+},
+{
   "key": "优秀",
   "name": "🎮优秀1080P",
   "type": 3,
@@ -1577,13 +1644,22 @@
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742350342316/0319.jar;md5;b73ed98a0a285189794be3c8d9c3a335"
 },
 {
-  "key": "︎酷云",
+  "key":"米兔",
   "name": "🐰米兔1080P",
-  "type": 3,
-  "quickSearch": 0,
-  "api": "csp_AppGetGuard",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742350342316/0319.jar;md5;b73ed98a0a285189794be3c8d9c3a335",	
-  "ext": "sHR2rlsfjI4L3t4RXQMkn4/zRHG7KueeJHsenaeUMOWp1EzObBSdbU9et5QXxSbLZNx3dMChdqtSieuV5wZj006LehfFeCmj8B095j2lIKIF0YoQe+MZcPjGy7gtOViYZ6wvyGkzWk6oD1mJmauAyZhYFgIf28dxzY5kbxJVtI2PjlO6xlD2NRNjVM5uVtSkhN2Pf9gmJ5qaWk40c4YC+w=="
+  "type":3,
+  "api":"csp_Xdai",
+  "jar": "https://xcz.funly.us/wzxo.php",
+  "playerType":1,
+  "ext":"jaHR0cHM6Ly93d3cuempjLmFwcHxhYjRlOWE0MjE2NzVmMTRifGFiNGU5YTQyMTY3NWYxNGJ8NDQy"
+},
+{
+  "key":"玉米",
+  "name":"💡玉米影视",
+  "type":3,
+  "api":"csp_Xdai",
+  "jar": "https://xcz.funly.us/wzxo.php",
+  "playerType":1,
+  "ext":"jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg=="
 },
 {
   "key":"656",
@@ -1665,6 +1741,17 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1
+},
+{
+  "key":"一起影视",
+  "name":"💘一起弹幕",
+  "type":3,
+  "api":"csp_AppFree4K",
+  "jar": "https://xcz.funly.us/wzxo.php",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":0,
+  "ext":"w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw5rDqsKjwpPCncKjwqfDmcOsw57Dn8KbwpRewqbDosOjwqHCpcKaWnvClcKpwqDCrcKawqDDnMKYZWNkwrHDl8Ogw5vCqsKWY8KTYsKxwqbCocKlwppaecKmV8KzwpPCocKuw6BoZGRpw53Dl8Krwq3CrWRjYmHCsMKawqbCmcKhdcKRwp7Cm8OHw5TDsMKgwrRTV+ecpOaTncKgwp/CmsKgw4rClMKiwqPClcOOw6XDpsKgwrRTV8KYwqTDrcOjw63Cs8KpYsKRwqDCoMOvwqTCqMOfw6zCmMKVwpjClMKnw6nDo8OpwqnCncKjwp/CnsKnw6PDosOpwrnCqMKiwpxtwqDCn8KawqDCvsKUwp59wqXDjsOlw6bCoMK0U1fCmMKkw63Do8OtwrPCqWLClMKdXsOvw5zDnsOzwqjClMKjwpnCkcKow5fDp8Okw69ib8KRwpPCtsOXw6fCn8OuwqLCm8KVwp7CtsOEw4PDhcK8dnh6dsOMwr/DkcOPw4B4e8KCVsOuw6XDpsK2wqFfUFfClMOew5bDrMOyw6rCp3vClcKpwqDCrcKawqDDscKowqnCmWbCr8KpwqHDtg=="
 },
 {
   "key": "hipy_js_腾云驾雾[官]",
