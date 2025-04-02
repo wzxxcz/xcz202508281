@@ -1,7 +1,7 @@
 {
   "spider": "./wzx.jar",
-  "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
-  "logo": "http://php.540734621.xyz/logo/logo.php",
+  "wallpaper": "https://xcz.funly.us/xcz.php",
+  "logo": "https://xcz.funly.us/logo.php",
   "lives": [
 	     {
 	        "name": "小橙子电视",
@@ -625,6 +625,17 @@
 	  "url_key":"Netfixtv",
 	  "threadinfo":{"chunksize":400,"threads":12	}
         }
+},
+{
+  "key":"欧哥",
+  "name":"🐲小橙子4K弹幕备",
+  "type":3,
+  "api":"csp_PanWebShare",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "changeable":1,
+  "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/json/og.json?"
 },
 {
   "key":"欧uc",
