@@ -945,8 +945,9 @@
   "name": "🧸玩偶4K弹幕",
   "type": 3,
   "api": "csp_WoggGuard",
-  "jar": "https://xcz.funly.us/wzxm.jar",
+  "jar": "https://xcz.funly.us/wzxm20250402.jar",
   "changeable": "0",
+  "quickSearch": 1,
   "filterable": 1,
   "ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg9L+drzR5a6bo7DML9hTEHvIuMN0JxvcbUflFgvOz4etZ9cUsZ0b7NskUhkBZr0Id9PbDIgsZ9ekl9fNeS9q4Xipo9oU6Q5Q6atElwpmoHUGKG7Vsl4t5dOKwL7zEwqKeKC+hOwoqQ0Ccjk/w0d7AxNitxqpuXuwUKEFEp0Y2iAV9kOnPhy0tVHA/iAWPBbW+3qpX+mjT4olDqSTCNwM4jlKSEh7T+9Kzd/c6ODYsOOElZCPkbPU2wMODtMy2eLwzObRLWezUVwTsB+yqoAwknHj2ZHwVNpoDaMDXzelDwflfqX4z8lGYdMdy2cpdl4mf5PVsDuHct1NjAG09cwhzYaB+5iavBavMH1msIipo7esn9YDgsgvxPsIO4LoZpHHW4="
 },
@@ -1131,6 +1132,14 @@
   "quickSearch":1,
   "filterable":1,
   "ext":{"danmu":true}
+},
+{
+  "key": "csp_LiteApple",
+  "name": "🍎苹果1080P",
+  "type": 3,
+  "quickSearch": 1,
+  "api": "csp_LiteAppleGuard",
+  "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
   "key": "神车",
@@ -1477,25 +1486,28 @@
   "name": "🚗巧记1080P",
   "type": 3,
   "api": "csp_qiao2",
+  "quickSearch": 1,
   "playerType": 2,
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9",
-  "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"
+  "jar": "https://xcz.funly.us/wzxm20250303.jar",
+  "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743396867051/cksp.txt"
 },
 {
   "key": "天天",
   "name": "🦢天天1080P",
   "type": 3,
+  "quickSearch": 1,
   "api": "csp_AppRJGuard",
-  "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"	
+  "jar": "https://xcz.funly.us/wzxm20250402.jar",
+  "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
 },
 {
   "key": "热热",
   "name": "🏜热热1080P",
   "type": 3,
+  "quickSearch": 1,
   "api": "csp_AppRJGuard",
-  "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"	
+  "jar": "https://xcz.funly.us/wzxm20250402.jar",
+  "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
 },
 {
   "key": "追剧",
@@ -1506,13 +1518,13 @@
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"	
 },
 {
-  "key":"光速",
+  "key": "光速",
   "name": "🌟光速1080P",
-  "type":3,
-  "api":"csp_Xdai",
-  "playerType":1,
-  "ext":"jaHR0cDovLzU5LjE1My4xNjcuMTM3Ojg4OTl8NGQ4M2I4N2M0YzVlYTExMXw0ZDgzYjg3YzRjNWVhMTExfDQ2Mg==",
-  "jar": "https://xcz.funly.us/wzxo.php"
+  "type": 3,
+  "quickSearch": 1,
+  "api": "csp_AppGetGuard",
+  "jar": "https://xcz.funly.us/wzxm20250402.jar",
+  "ext": "sHR2rlsfjI4L3t4RXQMknxNA7c6hcC3VanmE12u0Xu3CTtFtxRELPpvYrBPoXSST9rM4/zqxtg1ZlYdAfbBcu8j2ixF3Zl35t0r1NRL4FKDRtJIzUE6I7MVJAA2Q7brwZK+MVlV3Ya12XCFMmiAzIuP0q31Q3cWJWeBlJ/HkevUD3YrCzVx/d7ctov8ddn/OUS1xjTCIpJ+asEfpCWB+DTxkjbl8kfze+MSaichpJzQDMK2bWUphsOPryk49lVX7Gnm5A77V9sipi2ia5fPcYACDcbL9VXi31e2BvqNcvmE="
 },
 {
   "key": "csp_麻花",
@@ -1537,10 +1549,10 @@
   "key": "电影",
   "name": "🎬电影1080P",
   "type": 3,
-  "quickSearch": 0,
+  "quickSearch": 1,
   "api": "csp_AppGetGuard",
-  "jar": "https://xcz.funly.us/wzxm.jar",
-  "ext": "KsP46vke46cPylpEP8h9kZQJOZt+JFV0mLhSq1biyJHvVsOks76ATO6+1K5bMVwKoqUvbaJnqQw0qiRAw0clHVzc5nwgXHppf37s+mKJzTalSdw77exZP67VWFx0pLwky0XcMUIQ9YFHmMIHR3XI1BmEqAemBbCm8ULBqAe9laKmHMoGZOUdnIvPcBk2POPi2ti4ZJNrHQhuVqgbibt7ygEMGLwhIJnmyaaUWErenDs="
+  "jar": "https://xcz.funly.us/wzxm20250402.jar",
+  "ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYgUMrJ+kztENaDom6MWpmmvbZdw38U+pT14qEwywuRW7eny/HInm+UXxpCyI8e5D7Y4kc2n0QBkeQ2Tk5Y0atLMuupC2ZGF68+oMVeX0Px9e9ODSiSspzQH/Rg1Sz5CHp0GKozVTjPIZHhO159i7A1HwZ+kk77Eh0E7AnBTt6qVBX5G+murD+CKjMLYo6MMmsE"
 },
 {
   "key":"金牌影视",
@@ -1585,19 +1597,12 @@
   "filterable":1
 },
 {
-  "key": "csp_Xlys",
-  "name": "🍤哔嘀1080P",
-  "api": "csp_XlysGuard",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07",	
-  "type": 3,
-  "playerType": 2
-},
-{
   "key": "莉莉",
   "name": "🌰莉莉1080P",
   "type": 3,
+  "quickSearch": 1,
   "api": "csp_AppGetGuard",
-  "jar": "https://xcz.funly.us/wzxm.jar",
+  "jar": "https://xcz.funly.us/wzxm20250402.jar",
   "ext": "KsP46vke46cPylpEP8h9kV3zmT6SjdmDzDvTmcpyr8LRfEa9Qx8QS89hxtKQa8cCgFJoMQoWv9b+B8vt0ygfPT/mNGPiZRmiGAyVxAku2+j3eSSpgYb08qs+AMCDe9flsqxxEuN/Dvv0S1Ha/hoZDUoOCF1b38iWz39HWLhDvAC36LjucDxUHrsiJKGzbDtJJ3/9anuoxW5q6dcsMnS49Q=="
 },
 {
