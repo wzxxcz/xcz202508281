@@ -976,7 +976,7 @@
   "filterable":1,
   "changeable":1,
   "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/ex.json?"
-},	  
+},
 {
   "key": "云盘",
   "name": "🍊云盘4K",
@@ -1361,7 +1361,7 @@
   "quickSearch": 0,
   "filterable": 0,
   "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KdacOcw57CrMKxw6DCqmbCnmPDpsKow6XCsMKywpRhYMKUwqfDl8Ozw7LDtGVewpPCn8Omwq3Cr8KvwrJsX8KRwqDDosKhw6rDocOqVVxSecOnw5zDrsOQw6nCpcKUUmrCm8KVwqbCm8OuwpzCoFJqwpvDjuWHv+mFoeaQn+WQllzlhpzkvYflkbDCreW/q+iov+i2vua7g+esicKNUsKlwpXCu8Oew61+wpXCqVLCs8KVw57DssOzwq3CpMKmwpHDqcOcw5vDqcOqwqzCqcKUwqPCm8KfwpzCusOfwqZ5wqZSwrPClcOew7LDs8KtwqTCpsKRw6nDnMObw6nDqsKswqnClMKjwpvDsA=="
-},
+},	  
 {
   "key":"浪酷影视",
   "name": "😎浪酷蓝光",
@@ -1474,12 +1474,15 @@
   "filterable":1
 },
 {
-  "key": "悠悠",
+  "key": "Appyouyou",
   "name": "🏆悠悠1080P",
   "type": 3,
-  "api": "csp_AppYoYoGuard",
-  "jar": "https://xcz.funly.us/wzxm.jar",
-  "ext": "sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKyJw41aUl2TMF+qakB/2SvSF1SywokogMA+eafsTjEwpMnjioYuZ3uAodRzi6b9JRGt/qZkfVS+3YsQmfAQuHaJtqS2wzVicWNabggtAUtATM1uW8wyQOAJwp8YQlLp1CaU1IoFu/lvb6RN6pbaZ82+7ujInKS9UYz01vd68K3JRCGtQvW8dpfu4Grd0IGxl6oo5YUOaKClXJr6NG4MizWXxk4T8TuH7P49u1clps+VY9FQhdsAb3iNo0TGTIdbGaU="
+  "api": "csp_AppGetApp",
+  "jar": "https://xcz.funly.us/moyuer.php",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDgsOhw6PDrcORwqLCosKUV8KzwpPCocOiw6jCnMKkwoZhwqrCrMKhwqXCmlrCpMKZwqDCoMKtwprCoMOV5Ya46YSY5o+V5ZCTwqXlh5/kvpHlkbDCtOW+pOintui1tOa7gOetksOQwqHCpcKaWnHClcKjw4TDmMOzwqDCtFNXdMKow7DCvMOtw63DrMKXwofCksKJw6nDlcOmw7DDqFpcUFfCusOYw63DgsOwWmpQV8K9w6vDscOCw63Cp8KiwpTCh8Obw4zDqsObw6bCqsKeV1zCmcKaw43DosOuwpjChcKiwpzCoMKtwprCoMOiwqfCpMKgasKowqLCq8KuwrBhYmJlwqfCpsKqwqfCsGhqZWXCr8KpwqnDmsOqwpxewqDCmMOpwprCpsKZwqF1wpHCnsKbw4fDlMOwwqDCtFNX55yk5pOdwqDCn8KawqDDnsKYwpPCosKpw6nDp8OFw57Ds1pqUFfDsMOow7PDosKwaWZXwq0="
 },
 {
   "key": "巧技",
@@ -2187,7 +2190,18 @@
   "quickSearch":0,
   "filterable":0,
   "ext":"w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvDosKnwqTCoMKjwrPCosKpw7HDoMKUwqDCoF3CqsKmwqrCrsKtbGBgZsKuwqHDncOow61hwpHCoF3DoMOow5vDp8Ohwq3CmMKfwqXCp8Ogw7PDqsOdwp/Cn8KlwpTCp8OWw6nDpsKpwprClcKkwpHDqcOjwqjDrcOywqdSXFLDgsOhw6PDrcORwqLCosKUUsKzwpXCnMKlwpzCp8KZwqBSwrPClcOV5Ye+6YWi5o+Y5ZCTXOWGnOS+kOWRqsK05b+q6KmA6LW35ruA56yJwo3Cm8KfwpzCusOfwqZ7wpXCqcKbwq3CnMKqw7PCjWLCg8Kgw6fCrMOlw6vDqMKtwoZ7wp/CvMKVwqbCm8K7wpjCo3nCpsKbwq3CnMKqw7PCjWLCg8Kgw6fCrMOlw6vDqMKtwoZ7wp/CvMKVwqbCm8ONwpzCpMKVwoXDq8OfwpzCs8KcVcKt"
-},	  
+},
+{
+  "key": "mutefun",
+  "name": "🤣DFun动漫",
+  "type": 3,
+  "api": "csp_WebMuTeFun",
+  "jar": "https://xcz.funly.us/moyuer.php",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://www.mutefun.tv"
+},
 {
   "key": "️曼波动漫",
   "name": "🍼曼波动漫",
@@ -2308,6 +2322,21 @@
 {"key": "软件","name": "🅰️软件教程","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/Bilibili/软件教程.json"}, 
 {"key": "演唱会","name": "🅰️演唱会哔哩","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/Bilibili/演唱会.json"}, 
 {"key": "戏曲","name": "🅰️戏曲合集","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/Bilibili/戏曲合集.json"},
+{
+  "key": "ly",
+  "name": "📻️戏曲娱乐",
+  "type": 3,
+  "api": "csp_AppLY",
+  "jar": "https://xcz.funly.us/moyuer.php",
+  "searchable": 1,
+  "quickSearch": 0,
+  "changeable": 0,
+  "style": {
+             "type": "rect",
+             "ratio": 1.433
+           },
+  "ext": "w7TCmsOuw6LDqlpqUFfDlOWHuOmFouaQnuWRnV/lhpzkvYflkKfCs+W/pOipgOi2vea8iuesjMKNV1zCmcKaw57DnsOdwqXCqcKgwqTDhMOYw7PCoMK0U1fCp8Klw7LDnMKwwq/CsFrCrQ=="
+},
 {"key": "MV","name": "🌈歌曲哔哩","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/Bilibili/歌曲MV.json"},
 {"key": "美食","name": "🌈美食哔哩","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/Bilibili/美食.json"},
 {
