@@ -330,9 +330,15 @@
             "url": "http://go8.myartsonline.com/zx/2/夏夏·源.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
-        }, 
+        },
 	{
             "name": "📺AKTV2",
+            "url": "http://go8.myartsonline.com/zx/2/AK47·港澳源.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        }, 
+	{
+            "name": "📺AKTV3",
             "url": "http://tvbox6.icu/live.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
@@ -381,6 +387,12 @@
         },
 	{
             "name": "📺小橙子湖北经视",
+            "url": "http://123.iptv6.icu/view.php/5e20d696c3b4315c6ca06c45f0d930a0.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺小橙子湖北经视1",
             "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
@@ -592,6 +604,12 @@
 	{
             "name": "📺小橙子春盈备",
             "url": "https://files.catbox.moe/feyax3.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        }, 
+	{
+            "name": "📺小橙子春盈备1",
+            "url": "http://l.gmbbk.com/upload/0421421.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
         },  
