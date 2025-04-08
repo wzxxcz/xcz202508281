@@ -33,6 +33,15 @@
 	     {
 	        "name": "AKTV1",
                 "type":0,
+ 	        "url": "http://go8.myartsonline.com/zx/2/夏夏·源.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	     },
+	     {
+	        "name": "AKTV2",
+                "type":0,
  	        "url": "http://tvbox6.icu/live.txt",
                 "ua": "okhttp/3.15",
                 "playerType": 1,
@@ -1766,8 +1775,8 @@
   "key":"火车影视",
   "name":"💡火车影视",
   "type":3,
-  "api":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/PY/火车影视.py",
-  "jar": "https://xcz.funly.us/wzxo20250406.php",	
+  "api":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/PY/火车影视.py",
+  "jar": "https://xcz.funly.us/wzxo20250406.php",
   "searchable":1,
   "changeable":1,
   "quickSearch":1,
@@ -1821,11 +1830,11 @@
   "name":"💡快看影视",
   "type":3,
   "api":"csp_Kuaikan",
-  "jar": "https://xcz.funly.us/wzxo.php",
+  "jar": "https://xcz.funly.us/wzxo20250406.php",	
   "searchable":1,
   "quickSearch":1,
   "filterable":1
-},
+},	  
 {
   "key":"一起影视",
   "name":"💡一起影视",
