@@ -304,6 +304,23 @@
                 "分类url": "https://avhentai.icu/menu/{catePg}/{cateId}/0/0/0/0/0"
             }
        },
+       {
+          "key": "情热游鸡🐔队",
+          "name": "游鸡🐔队",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "jar": "https://xcz.funly.us/xyqxbpq.jar",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": {
+                  "主页url": "https://cdd.qsyjd4.shop/cn/home/web/",
+                  "直接播放": "1",
+                  "分类url": "https://cdd.qsyjd4.shop/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                  "分类": "亚洲色情$20#制服师生$21#卡通动漫$22#强奸乱伦$24#中文字幕$26#偷拍自拍$25#欧美性爱$27#人妻熟女$28#无码专区$29#三级伦理$23",
+                  "简介": ""
+                 }
+    },
     {
       "key": "ms4nii",
       "name": "美少女",
