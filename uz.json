@@ -324,6 +324,12 @@
             "url": "http://aktv.space/live.m3u",
             "type": 10,
             "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺AKTV1",
+            "url": "http://tvbox6.icu/live.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
         },  
 	{
             "name": "📺小橙子体育频道",
