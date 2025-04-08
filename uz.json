@@ -332,6 +332,12 @@
             "remark": "本源由小橙子维护"
         },  
 	{
+            "name": "📺港澳台研究所",
+            "url": "http://205.185.123.236:50007/?type=m3u",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },  
+	{
             "name": "📺小橙子体育频道",
             "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
             "type": 10,
