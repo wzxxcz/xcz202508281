@@ -40,6 +40,15 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	     },
 	     {
+	        "name": "港澳台研究所",
+                "type":0,
+ 	        "url": "http://205.185.123.236:50007/?type=m3u",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	     },
+	     {
 	        "name": "小橙子体育频道",
                 "type":0,
  	        "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
@@ -1757,14 +1766,14 @@
   "key":"火车影视",
   "name":"💡火车影视",
   "type":3,
-  "api":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/PY/火车影视.py",
-  "jar": "https://xcz.funly.us/wzxo20250404.php",
+  "api":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/PY/火车影视.py",
+  "jar": "https://xcz.funly.us/wzxo20250406.php",	
   "searchable":1,
   "changeable":1,
   "quickSearch":1,
   "filterable":1,
   "playerType":2
-},
+},	  
 {
   "key":"糯米影视",
   "name":"💡糯米影视",
