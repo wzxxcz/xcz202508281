@@ -327,6 +327,12 @@
         },
 	{
             "name": "📺AKTV1",
+            "url": "http://go8.myartsonline.com/zx/2/夏夏·源.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        }, 
+	{
+            "name": "📺AKTV2",
             "url": "http://tvbox6.icu/live.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
