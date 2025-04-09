@@ -708,7 +708,7 @@
   "ext": {
            "json": "https://gh-proxy.com/https://raw.gitmirror.com/wzxxcz/fty/refs/heads/main/MTV.json"
          }
-},	  
+},
 {
   "key": "alllive",
   "name": "📽️一直播直播",
@@ -721,15 +721,22 @@
   "changeable": 0
 },
 {
-  "key": "玩偶",
+  "key": "玩偶弹幕",
   "name": "🐲小橙子智能4K弹幕",
   "type": 3,
-  "api": "csp_PanWebShare",
+  "api": "csp_Wogg",
+  "jar": "https://xcz.funly.us/spider.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/玩偶.json?"
-},
+  "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "wogg": true,
+           "danmu": true
+      }
+},	  
 {
   "key":"csp_Netfixtv",
   "name": "🐲小橙子4K弹幕",
@@ -2193,6 +2200,17 @@
             "简介": "🍊小橙子🍊广告勿信，谨防诈骗🍊"
          }
 },
+{
+  "key": "HG影视",
+  "name": "🍊HG影视",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "jar": "https://xcz.funly.us/spider.jar",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://cs.hgyx.vip/api2/api.php/app/"
+},	  
 {
   "key": "Dm84",
   "name": "🚌巴士动漫",
