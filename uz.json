@@ -436,6 +436,24 @@
             "remark": "本源由小橙子维护"
         }, 
 	{
+            "name": "📺小橙子拾光",
+            "url": "https://4708.kstore.space/FM.json",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺小橙子拾光1",
+            "url": "https://ghproxy.net/raw.githubusercontent.com/xmbjm/IPTV/master/output/user_result.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        }, 
+	{
+            "name": "📺小橙子拾光2",
+            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.m3u",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        }, 
+	{
             "name": "📺小橙子v12",
             "url": "http://8.138.7.223/v12.txt",
             "type": 10,
