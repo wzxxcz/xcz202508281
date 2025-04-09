@@ -710,6 +710,17 @@
          }
 },
 {
+   "key": "hipy_js_蜻蜓FM",
+   "name": "🦟蜻蜓FM",
+   "type": 3,
+   "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "order_num": 0,
+   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/蜻蜓FM.js"
+},
+{
   "key": "alllive",
   "name": "📽️一直播直播",
   "type": 3,
@@ -721,22 +732,15 @@
   "changeable": 0
 },
 {
-  "key": "玩偶弹幕",
+  "key": "玩偶",
   "name": "🐲小橙子智能4K弹幕",
   "type": 3,
-  "api": "csp_Wogg",
-  "jar": "https://xcz.funly.us/spider.jar",
+  "api": "csp_PanWebShare",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "wogg": true,
-           "danmu": true
-      }
-},	  
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/玩偶.json?"
+},
 {
   "key":"csp_Netfixtv",
   "name": "🐲小橙子4K弹幕",
