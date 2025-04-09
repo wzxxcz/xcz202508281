@@ -931,6 +931,16 @@
                 "年份值": "*"
             }
         },
+	{
+            "key": "蜻蜓伦理",
+            "name": "🍊蜻蜓影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                     "分类url": "https://www.qingtingyy.com/vodshow/{cateId}--------{catePg}---.html",
+                     "分类": "伦理$36"
+                   }
+        },
         {
             "key": "JAVSB",
             "name": "JAVSB",
