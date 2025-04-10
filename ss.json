@@ -212,16 +212,7 @@
 	        }
 	    
           ],
-    "sites": [
-	{
-          "key": "豆瓣",
-          "name": "🍊小橙子影视欢迎您！",
-          "type": 3,
-          "api": "csp_Douban",
-	  "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xmbjm.jar",
-          "searchable": 0,
-          "changeable": 1
-        },                       
+    "sites": [        
 	{
             "key": "色猫",
             "name": "色猫2",
