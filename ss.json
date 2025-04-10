@@ -758,6 +758,7 @@
 	"name":"表里如一",
 	"type":3,
 	"api":"csp_XYQHiker",
+	"jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/xmbjm.jar",
 	"searchable":1,
 	"quickSearch":1,
 	"filterable":1,
