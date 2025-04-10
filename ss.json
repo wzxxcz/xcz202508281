@@ -816,6 +816,15 @@
 	"filterable":1
     },
     {
+	"key":"学习至上",
+	"name":"LBA学习",
+	"type":0,
+	"api":"https://slapibf.com/api.php/provide/vod//at/xml",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1
+    },
+    {
       "key": "ms4nii",
       "name": "美少女",
       "type": 0,
