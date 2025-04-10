@@ -798,6 +798,15 @@
 	"filterable":1
     },
     {
+	"key":"激情至上",
+	"name":"LBA激情",
+	"type":0,
+	"api":"https://www.siwazyw.tv/api.php/provide/vod/at/xml",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1
+    },
+    {
       "key": "ms4nii",
       "name": "美少女",
       "type": 0,
