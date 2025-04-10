@@ -848,7 +848,15 @@
         "api": "https://www.gdlsp.com/api/xml.php",
         "searchable": 0,
         "quickSearch": 0
-    },    
+    }, 
+    {
+        "key": "嵩俗仙术",
+        "name": "嵩俗仙术",
+        "type": 1,
+        "api": "https://api.sexnguon.com/api.php/provide/vod/",
+        "searchable": 0,
+        "quickSearch": 0
+    },
     {
       "key": "ms4nii",
       "name": "美少女",
