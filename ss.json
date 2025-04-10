@@ -518,6 +518,36 @@
             }
     },
     {
+        "key": "UU网曝++",
+        "name": "网曝",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xyqxbpq.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://wulf--ppda.wangpumen-6ccc666.xyz/label/sort",
+                "数组": "vodlist_item num&&</a>",
+                "链接": "https://wulf--ppda.wangpumen-6ccc666.xyz/v/+/d/&&/+-1-1/",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "text-right\">&&</span>",
+                "简介": "<title>&&</title>",
+                "搜索数组": "lazyload\"&&</a",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "搜索url": "https://wulf--ppda.wangpumen-6ccc666.xyz/s/-------------/?wd={wd}&submit=",
+                "分类url": "https://wulf--ppda.wangpumen-6ccc666.xyz/t/{cateId}-{catePg}/;;z",
+                "分类数组": "<a&&a>",
+                "分类标题": ">&&</",
+                "分类ID": "href=\"/t/&&/\""
+            }
+    },
+    {
       "key": "ms4nii",
       "name": "美少女",
       "type": 0,
