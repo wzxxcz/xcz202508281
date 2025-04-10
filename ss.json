@@ -807,6 +807,15 @@
 	"filterable":1
     },
     {
+	"key":"奋斗至上",
+	"name":"LBA奋斗",
+	"type":0,
+	"api":"http://fhapi9.com/api.php/provide/vod/at/xml",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1
+    },
+    {
       "key": "ms4nii",
       "name": "美少女",
       "type": 0,
