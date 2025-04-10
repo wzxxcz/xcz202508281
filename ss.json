@@ -594,6 +594,29 @@
             }
     },
     {
+        "key": "望春视频🔞",
+        "name": "望春影视",
+        "type": 3,
+        "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xyqxbpq.jar",
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "主页url": "https://kcd.bxc7.one/cn/home/web/",
+                "数组": "lazyload\"&&/a>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"",
+                "简介": "description\" content=\"&&\"",
+                "分类url": "https://kcd.bxc7.one/vodtype/{cateId}-{catePg}.html;;z",
+                "分类数组": "<a&&/a>",
+                "分类标题": ">&&<",
+                "分类ID": "/vodtype/&&.html"
+            }
+    },
+    {
       "key": "ms4nii",
       "name": "美少女",
       "type": 0,
