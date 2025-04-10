@@ -318,7 +318,15 @@
       "api": "https://cjhwba.com/api.php/provide/vod/",
       "name": "华为吧",
       "type": 0
-    }
+    },
+    {
+     "name": "采集解析",
+     "version": 1,
+     "remark": "配合网盘解析工具使用",
+     "webSite": "https://zy.hls.one/api.php/provide/vod",
+     "api": "https://gitee.com/qihaoyyds/UZ/raw/master/js/采集.js",
+     "type": 101
+  }
   ],
   "live": [
     {
