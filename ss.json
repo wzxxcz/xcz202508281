@@ -753,6 +753,42 @@
 	      }
     },
     {
+	"key":"快乐至上",
+	"name":"LBA快乐",
+	"type":0,
+	"api":"http://lbapiby.com/api.php/provide/vod/at/xml",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1
+    },
+    {
+	"key":"激情至上",
+	"name":"LBA激情",
+	"type":0,
+	"api":"https://www.siwazyw.tv/api.php/provide/vod/at/xml",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1
+    },
+    {
+	"key":"奋斗至上",
+	"name":"LBA奋斗",
+	"type":0,
+	"api":"http://fhapi9.com/api.php/provide/vod/at/xml",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1
+    },
+    {
+	"key":"学习至上",
+	"name":"LBA学习",
+	"type":0,
+	"api":"https://slapibf.com/api.php/provide/vod//at/xml",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1
+    },
+    {
       "key": "13av",
       "name": "13AV",
       "type": 3,
