@@ -548,6 +548,29 @@
             }
     },
     {
+        "key": "91精品🔞",
+        "name": "91精品",
+        "type": 3,
+        "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xyqxbpq.jar",
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "主页url": "https://fyu.lmt4.monster/cn/home/web/",
+                "数组": "<article>&&</article>",
+                "标题": "alt=\"&&\"",
+                "图片": "<img src=\"&&\"",
+                "链接": "href=\"&&\"",
+                "简介": "description\" content=\"&&\"",
+                "分类url": "https://fyu.lmt4.monster/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+                "分类数组": "<a&&/a>",
+                "分类标题": ">&&<",
+                "分类ID": "/cn/home/web/index.php/vod/type/id/&&.html"
+            }
+    },
+    {
       "key": "ms4nii",
       "name": "美少女",
       "type": 0,
