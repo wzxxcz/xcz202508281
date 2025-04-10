@@ -532,7 +532,7 @@
         "key": "91精品🔞",
         "name": "91精品",
         "type": 3,
-        "jar": "./jar/xyqxbpq.jar",
+        "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xyqxbpq.jar",
         "api": "csp_XBPQ",
         "searchable": 1,
         "quickSearch": 1,
