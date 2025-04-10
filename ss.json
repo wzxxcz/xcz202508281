@@ -725,6 +725,17 @@
             }
     },
     {
+      "key": "空即是色是空",
+      "name": "空即是色",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0831/24营业.json"
+    },
+    {
       "key": "ms4nii",
       "name": "美少女",
       "type": 0,
