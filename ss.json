@@ -825,6 +825,15 @@
 	"filterable":1
     },
     {
+        "key": "学霸归来",
+        "name": "LBA学霸",
+        "type": 1,
+        "api": "https://naixxzy.com/api.php/provide/vod/",
+        "playerType": 1,
+        "searchable": 1,
+        "changeable": 1
+    },
+    {
       "key": "ms4nii",
       "name": "美少女",
       "type": 0,
