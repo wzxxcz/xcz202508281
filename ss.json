@@ -789,6 +789,15 @@
       "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/13AV.json"
     },
     {
+	"key":"快乐至上",
+	"name":"LBA快乐",
+	"type":0,
+	"api":"http://lbapiby.com/api.php/provide/vod/at/xml",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1
+    },
+    {
       "key": "ms4nii",
       "name": "美少女",
       "type": 0,
