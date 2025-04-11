@@ -2555,34 +2555,15 @@
   "ext": "https://xcz.funly.us/XBPQ/短剧网.json"
 },
 {
-  "key": "开尔短剧",
-  "name": "🍊开尔短剧",
+  "key": "偷乐短剧",
+  "name": "🍊偷乐短剧",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "./XBPQ/开尔短剧.json"
-},
-{
-  "key": "吉吉短剧",
-  "name": "🍊吉吉短剧",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "ext": "./XBPQ/吉吉短剧.json"
-},
-{
-  "key": "短剧王",
-  "name": "🍊短剧王",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./XBPQ/短剧王.json"
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/偷乐短剧.json"
 },
 {
   "key": "有声小说js",
@@ -2870,7 +2851,7 @@
     {
       "name": "小橙子4K",
       "type": 1,
-      "url": "http://isp.wki8.com/jx.php?url=",
+      "url": "http://8.129.30.117:8117/diaoyu.php?url=",
       "ext": {
         "flag": [
           "qq",
