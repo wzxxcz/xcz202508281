@@ -637,13 +637,15 @@
     
   "sites":[
 {
-  "key": "豆瓣",
-  "name": "🍊小橙子影视欢迎您！",
-  "type": 3,
-  "api": "csp_Douban",
-  "jar": "https://xcz.funly.us/wzx.jar",
-  "searchable": 0
-},
+      "key": "豆",
+      "name": "🍊小橙子影视欢迎您！",
+      "type": 3,
+      "api": "csp_DouDouGuard",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
 {
   "key": "配置中心",
   "name": "🍊配置中心",
