@@ -2940,7 +2940,7 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": 🍊AKTV1",
+				"name": "🍊AKTV1",
 				"type": 0,
 				"url": "http://wx.thego.cn/ak.m3u",
 
@@ -2949,7 +2949,7 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": 🍊AKTV2",
+				"name": "🍊AKTV2",
 				"type": 0,
 				"url": "http://go8.myartsonline.com/zx/2/夏夏·源.txt",
 				"ua": "okhttp/3.15",
