@@ -1,5 +1,7 @@
 {
   "spider":"./pg.jar",
+  "wallpaper": "https://xcz.funly.us/xcz.php",
+  "logo": "https://xcz.funly.us/logo.php",
   "sites":[
 {
   "key": "豆瓣",
