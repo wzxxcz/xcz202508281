@@ -22,7 +22,7 @@
 				"ratio": 1.5
 			}
 		},
-		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
+		{"key":"Local","name":"🍊本地","type":3,"api":"csp_Local"},
 		{"key":"AList","name":"网盘|Alist[jar]","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alistjar.json"},
 		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
 			"style": {
