@@ -10,19 +10,18 @@
                  "searchable": 0
                 },
 		{
-                  "key": "配置中心",
-                  "name": "🍊配置中心",
-                  "type": 3,
-                  "api": "csp_Config",
-		  "jar": "https://xcz.funly.us/wzx.jar",
-                  "searchable": 0,
-                  "changeable": 0,
-                  "indexs": 0,
-                  "style": {
-                             "type": "rect",
-                             "ratio": 1.618
-                           }
-                },
+			"key": "网盘配置",
+			"name": "🍊网盘及彈幕配置",
+			"type": 3,
+			"api": "csp_Config",
+			"searchable": 0,
+			"changeable": 0,
+			"ext":"./lib/tokenm.json",
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			}
+		},
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
 		{"key":"AList","name":"网盘|Alist[jar]","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alistjar.json"},
 		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
