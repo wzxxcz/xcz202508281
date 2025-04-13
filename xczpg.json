@@ -2,15 +2,13 @@
 	"spider":"./pg.jar",
 	"sites":[
 		{
-			"key": "豆瓣",
-			"name": "豆瓣",
-			"type": 3,
-			"api": "csp_Douban",
-			"searchable": 0,
-			"changeable": 1,
-			"indexs":1,
-			"ext": "./lib/tokenm.json$$$./lib/douban.json"
-		},
+                 "key": "豆瓣",
+                 "name": "🍊小橙子影视欢迎您！",
+                 "type": 3,
+                 "api": "csp_Douban",
+		 "jar": "https://xcz.funly.us/wzx.jar",
+                 "searchable": 0
+                },
 		{"key":"TGDouban","name":"TG豆瓣","type":3,"api":"csp_TGDouban","timeout":120, 
 			"ext":{
 				"token":"./lib/tokenm.json",
