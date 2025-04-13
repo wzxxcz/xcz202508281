@@ -31,218 +31,6 @@
   "api":"csp_Local"
 },
 {
-  "key": "hipy_js_好趣网",
-  "name": "🍊小橙子电视",
-  "type": 3,
-  "api": "https://gitee.com/wzbdyr/hqds/raw/master/lib/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 87,
-  "ext": "https://gitee.com/wzbdyr/hqds/raw/master/zbjs/好趣网.js"
-},
-{
-  "key": "lf_live10_min",
-  "name": "📺︎可欣电视",
-  "type": 3,
-  "searchable": 0,
-  "quickSearch": 1,
-  "filterable": 1,
-  "changeable": 1,
-  "api": "https://gitee.com/wzbdyr/xcz/raw/master/js/lf_live10_min-output.js",
-  "ext": "https://gitee.com/wzbdyr/xcz/raw/master/lib/lf_live.json"
-},
-{
-  "key": "直播转点播",
-  "name": "📺电视直播",
-  "type": 3,
-  "api": "https://gitee.com/wzbdyr/xcz/raw/master/lib/live.js",
-  "searchable": 0,
-  "quickSearch": 1,
-  "filterable": 0,
-  "ext": "https://gitee.com/wzbdyr/xcz/raw/master/lib/live.json"
-},
-{
-  "key": "ss直播",
-  "name": "🍊小橙子SS直播",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/ss直播.js"
-},
-{
-  "key": "hipy_js_36直播[密]",
-  "name": "🍊小橙子36直播",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/36直播[密].js"
-},
-{
-  "key": "csp_Kugou",
-  "name": "🎤酷狗音乐",
-  "type": 3,
-  "api": "csp_Kugou",
-  "jar": "https://xcz.funly.us/Yoursmile.jar",
-  "playerType": 2,
-  "ext": {
-            "classes": [
-          {
-            "type_name": "酷狗",
-            "type_id": "kugou"
-          }
-        ]
-      }
-},	  
-{
-  "key": "酷奇",
-  "name": "🎤酷奇MV",
-  "type": 3,
-  "api": "https://gh-proxy.com/https://raw.gitmirror.com/wzxxcz/fty/refs/heads/main/drpy2.min.js",
-  "jar": "https://xcz.funly.us/wzxf.txt",
-  "ext": "https://gh-proxy.com/https://raw.gitmirror.com/wzxxcz/fty/refs/heads/main/酷奇MV.js",
-  "style": {
-             "type": "rect",
-             "ratio": 1.597
-           },
-  "searchable": 0,
-  "quickSearch": 0,
-  "changeable": 0
-},
-{
-  "key": "DJ呦呦音乐网",
-  "name": "🎵DJ呦呦",
-  "type": 3,
-  "api": "csp_XYQHiker",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/DJyyyyw.json"
-},
-{
-  "key": "hipy_js_种子音乐[听]",
-  "name": "🎵种子音乐",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/种子音乐[听].js"
-},
-{
-  "key": "MTV",
-  "name": "🎧明星MV",
-  "type": 3,
-  "api": "csp_BiliGuard",
-  "jar": "https://xcz.funly.us/wzxf.txt",	
-  "style": {
-             "type": "rect",
-             "ratio": 1.597
-           },
-  "searchable": 0,
-  "quickSearch": 0,
-  "changeable": 0,
-  "ext": {
-           "json": "https://gh-proxy.com/https://raw.gitmirror.com/wzxxcz/fty/refs/heads/main/MTV.json"
-         }
-},
-{
-   "key": "hipy_js_蜻蜓FM",
-   "name": "🦟蜻蜓FM",
-   "type": 3,
-   "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "order_num": 0,
-   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/蜻蜓FM.js"
-},
-{
-  "key": "js_a8音乐",
-  "name": "🦟国内FM",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/广播迷FM[听].js"
-},
-{
-  "key": "央视大全",
-  "name": "🍊央视大全",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/央视大全.js"
-},
-{
-  "key": "央视经济",
-  "name": "🍊央视经济",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/央视经济.js"
-},
-{
-  "key": "央视新闻",
-  "name": "🍊央视新闻",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/央视新闻.js"
-},
-{
-  "key": "央视少儿",
-  "name": "🍊央视少儿",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/央视少儿.js"
-},
-{
-  "key": "央视综合",
-  "name": "🍊央视综合",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/央视综合.js"
-},
-{
-  "key": "alllive",
-  "name": "📽️一直播直播",
-  "type": 3,
-  "api": "csp_AllliveGuard",
-  "jar": "https://xcz.funly.us/wzxf20250404.txt",
-  "playerType": 2,
-  "searchable": 0,
-  "quickSearch": 0,
-  "changeable": 0
-},
-{
   "key": "玩偶",
   "name": "🐲小橙子智能4K弹幕",
   "type": 3,
@@ -2824,6 +2612,218 @@
              "type": "list"
            },
   "timeout": 10,
+  "searchable": 0,
+  "quickSearch": 0,
+  "changeable": 0
+},
+{
+  "key": "hipy_js_好趣网",
+  "name": "🍊小橙子电视",
+  "type": 3,
+  "api": "https://gitee.com/wzbdyr/hqds/raw/master/lib/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 87,
+  "ext": "https://gitee.com/wzbdyr/hqds/raw/master/zbjs/好趣网.js"
+},
+{
+  "key": "lf_live10_min",
+  "name": "📺︎可欣电视",
+  "type": 3,
+  "searchable": 0,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 1,
+  "api": "https://gitee.com/wzbdyr/xcz/raw/master/js/lf_live10_min-output.js",
+  "ext": "https://gitee.com/wzbdyr/xcz/raw/master/lib/lf_live.json"
+},
+{
+  "key": "直播转点播",
+  "name": "📺电视直播",
+  "type": 3,
+  "api": "https://gitee.com/wzbdyr/xcz/raw/master/lib/live.js",
+  "searchable": 0,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://gitee.com/wzbdyr/xcz/raw/master/lib/live.json"
+},
+{
+  "key": "ss直播",
+  "name": "🍊小橙子SS直播",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/ss直播.js"
+},
+{
+  "key": "hipy_js_36直播[密]",
+  "name": "🍊小橙子36直播",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/36直播[密].js"
+},
+{
+  "key": "csp_Kugou",
+  "name": "🎤酷狗音乐",
+  "type": 3,
+  "api": "csp_Kugou",
+  "jar": "https://xcz.funly.us/Yoursmile.jar",
+  "playerType": 2,
+  "ext": {
+            "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
+},	  
+{
+  "key": "酷奇",
+  "name": "🎤酷奇MV",
+  "type": 3,
+  "api": "https://gh-proxy.com/https://raw.gitmirror.com/wzxxcz/fty/refs/heads/main/drpy2.min.js",
+  "jar": "https://xcz.funly.us/wzxf.txt",
+  "ext": "https://gh-proxy.com/https://raw.gitmirror.com/wzxxcz/fty/refs/heads/main/酷奇MV.js",
+  "style": {
+             "type": "rect",
+             "ratio": 1.597
+           },
+  "searchable": 0,
+  "quickSearch": 0,
+  "changeable": 0
+},
+{
+  "key": "DJ呦呦音乐网",
+  "name": "🎵DJ呦呦",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/DJyyyyw.json"
+},
+{
+  "key": "hipy_js_种子音乐[听]",
+  "name": "🎵种子音乐",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/种子音乐[听].js"
+},
+{
+  "key": "MTV",
+  "name": "🎧明星MV",
+  "type": 3,
+  "api": "csp_BiliGuard",
+  "jar": "https://xcz.funly.us/wzxf.txt",	
+  "style": {
+             "type": "rect",
+             "ratio": 1.597
+           },
+  "searchable": 0,
+  "quickSearch": 0,
+  "changeable": 0,
+  "ext": {
+           "json": "https://gh-proxy.com/https://raw.gitmirror.com/wzxxcz/fty/refs/heads/main/MTV.json"
+         }
+},
+{
+   "key": "hipy_js_蜻蜓FM",
+   "name": "🦟蜻蜓FM",
+   "type": 3,
+   "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "order_num": 0,
+   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/蜻蜓FM.js"
+},
+{
+  "key": "js_a8音乐",
+  "name": "🦟国内FM",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/广播迷FM[听].js"
+},
+{
+  "key": "央视大全",
+  "name": "🍊央视大全",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/央视大全.js"
+},
+{
+  "key": "央视经济",
+  "name": "🍊央视经济",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/央视经济.js"
+},
+{
+  "key": "央视新闻",
+  "name": "🍊央视新闻",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/央视新闻.js"
+},
+{
+  "key": "央视少儿",
+  "name": "🍊央视少儿",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/央视少儿.js"
+},
+{
+  "key": "央视综合",
+  "name": "🍊央视综合",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/央视综合.js"
+},
+{
+  "key": "alllive",
+  "name": "📽️一直播直播",
+  "type": 3,
+  "api": "csp_AllliveGuard",
+  "jar": "https://xcz.funly.us/wzxf20250404.txt",
+  "playerType": 2,
   "searchable": 0,
   "quickSearch": 0,
   "changeable": 0
