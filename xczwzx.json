@@ -105,7 +105,16 @@
 	     {
 	        "name": "港澳台研究所",
                 "type":0,
- 	        "url": "http://205.185.123.236:50007/?type=m3u",
+ 	        "url": "http://205.185.123.236:50089/?type=txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	     },
+	     {
+	        "name": "港澳台研究所备",
+                "type":0,
+ 	        "url": "http://205.185.123.236:50089/?type=m3u",
                 "ua": "okhttp/3.15",
                 "playerType": 1,
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -2710,6 +2719,16 @@
   "filterable": 1,
   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0930/68.json"
 },
+{
+  "key": "首映网",
+  "name": "🍊首映网",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/py/首映网.py",
+  "jar": "https://xcz.funly.us/spider20250410.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0
+},    
 {
   "key": "极速采集",
   "name": "🍊极速采集",
