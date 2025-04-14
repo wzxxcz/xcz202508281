@@ -336,7 +336,19 @@
             "url": "https://vip.iptv365.org/live2025.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
-        },  
+        }, 
+	{
+            "name": "📺Gather电视直播",
+            "url": "https://tv.iill.top/m3u/Gather",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺Gather电视直播备",
+            "url": "https://tv.iill.top/m3u/Live",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
 	{
             "name": "📺AKTV",
             "url": "http://aktv.space/live.m3u",
@@ -745,12 +757,6 @@
             "type": 10,
             "remark": "本源由小橙子维护"
         },          
-	{
-            "name": "📺电视直播",
-            "url": "https://tv.iill.top/m3u/Gather",
-            "type": 10,
-            "remark": "本源由小橙子维护"
-        },
         {
             "name": "🎥网络直播",
             "url": "https://tv.iill.top/m3u/Live",
