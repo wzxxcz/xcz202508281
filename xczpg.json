@@ -3364,6 +3364,14 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
+				"name": "🍊AKTV4GTW",
+				"type": 0,
+				"url": "http://205.185.123.236:50089/?type=m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
 				"name": "🍊AKTV2",
 				"type": 0,
 				"url": "http://go8.myartsonline.com/zx/2/夏夏·源.txt",
