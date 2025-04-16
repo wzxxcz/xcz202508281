@@ -327,7 +327,7 @@
   "live": [
     {
             "name": "📺小橙子电视",
-            "url": "https://live.iptv365.org/live.txt",
+            "url": "https://xcz.funly.us/live.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
         },
@@ -344,14 +344,44 @@
             "remark": "本源由小橙子维护"
         },
 	{
+            "name": "📺小橙子台湾",
+            "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺优质央卫视",
+            "url": "https://xcz.funly.us/优质央卫视.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺可欣电视1",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺可欣电视2",
+            "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
             "name": "📺AKTV",
-            "url": "http://aktv.space/live.m3u",
+            "url": "https://aktv.space/live.m3u",
             "type": 10,
             "remark": "本源由小橙子维护"
         },
 	{
             "name": "📺AKTV1",
             "url": "http://wx.thego.cn/ak.m3u",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺AKTV4GTW",
+            "url": "http://205.185.123.236:50089/?type=m3u",
             "type": 10,
             "remark": "本源由小橙子维护"
         },
