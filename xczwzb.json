@@ -1,15 +1,31 @@
 {
  "urls":[
   {
-   "url": "https://xcz.funly.us/xczwzx.json",
+   "url": "https://xcz.funly.us/wkx.json",
    "name": "小橙子影视🍊小橙子仓库"
   }, 
   {
-   "url": "https://xcz.iptv365.org/xczwzx.json",
+   "url": "https://xcz.iptv365.org/wkx.json",
    "name": "小橙子影视备🍊小橙子仓库"
+  },
+  {
+   "url": "https://xcz.funly.us/xczpg.json",
+   "name": "小橙子影视OK🍊小橙子仓库"
   }, 
   {
-   "url": "https://123.yy.nxog.top/1/1.php?ou=https://www.饭太硬.com/tv/",
+   "url": "https://xcz.iptv365.org/xczpg.json",
+   "name": "小橙子影OK视备🍊小橙子仓库"
+  }, 
+  {
+   "url": "https://xcz.funly.us/小橙子.json",
+   "name": "小橙子老人影视OK🍊小橙子仓库"
+  }, 
+  {
+   "url": "https://xcz.iptv365.org/小橙子.json",
+   "name": "小橙子老人影视OK备🍊小橙子仓库"
+  }, 
+  {
+   "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=1",
    "name": "饭太硬🍊小橙子仓库"
   }, 
   {
@@ -17,11 +33,11 @@
    "name": "王二小放牛娃🍊小橙子仓库"
   },
   {
-   "url": "https://mpanso.me/DEMO.json",
+   "url": "http://miqk.cc/%E5%B0%8F%E7%B1%B3/DEMO.json",
    "name": "小米🍊小橙子仓库"
   },
   {
-   "url": "https://123.yy.nxog.top/1/4.php?ou=http://ceshi.xn--z7x900a.com/PandaQ",
+   "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=4",
    "name": "肥猫🍊小橙子仓库"
   },
   {
@@ -37,7 +53,11 @@
    "name": "摸鱼儿🍊小橙子仓库"
   },
   {
-   "url": "http://11.yy.xn--dkw.xn--6qq986b3xl/1/3.php?ou=https://盒子迷.top/禁止贩卖",
+      "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=2",
+      "name": "光歌线路🍊小橙子仓库"
+   },
+  {
+   "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=3",
    "name": "盒子迷🍊小橙子仓库"
   },
   {
@@ -57,6 +77,38 @@
    "name": "PG同步更新4🍊小橙子仓库"
   },
   {
+   "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=5",
+   "name": "潇洒线路🍊小橙子仓库"
+  },
+  {
+   "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=9",
+   "name": "花生线路🍊小橙子仓库"
+  },
+  {
+   "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=10",
+   "name": "蜗牛线路🍊小橙子仓库"
+  },
+  {
+   "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=12",
+   "name": "多多线路🍊小橙子仓库"
+  },
+  {
+   "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=15",
+   "name": "影仓线路🍊小橙子仓库"
+  },
+  {
+   "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=16",
+   "name": "菜妮丝线路🍊小橙子仓库"
+  },
+  {
+   "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=17",
+   "name": "巧技线路🍊小橙子仓库"
+  },
+  {
+   "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=21",
+   "name": "杰歌线路🍊小橙子仓库"
+  },
+  {
    "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin",
    "name": "网盘线路🍊小橙子仓库"
   },
@@ -69,7 +121,7 @@
    "name": "香雅情线路🍊小橙子仓库"
   },
   {
-   "url": "http://tv.laohu.cool/tvbox.json",
+   "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=14",
    "name": "老虎线路🍊小橙子仓库"
   },
   {
@@ -85,7 +137,7 @@
    "name": "懒人线路🍊小橙子仓库"
   },
   {
-   "url": "http://fmys.top/fmys.json",
+   "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=11",
    "name": "驸马线路🍊小橙子仓库"
   },
   {
@@ -101,7 +153,7 @@
    "name": "T4线路🍊小橙子仓库"
   },
   {
-   "url": "https://毒盒.com/tv",
+   "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=6",
    "name": "毒盒线路🍊小橙子仓库"
   },
   {
@@ -116,9 +168,17 @@
    "url": "http://110.42.45.218:520/yunfensi/yunfensi4k.json",
    "name": "奇迹云线路🍊小橙子仓库"
   },
- {
+  {
+   "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=13",
+   "name": "短剧线路🍊小橙子仓库"
+  },
+  {
    "url": "https://xn--dkw0c.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌",
    "name": "幼小初高🍊小橙子仓库"
+  },
+ {
+   "url": "https://xcz.funly.us/xczss.json",
+   "name": "道长线路🍊小橙子仓库"
   }]}
    
    
