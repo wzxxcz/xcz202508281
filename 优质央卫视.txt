@@ -1,3 +1,4 @@
+小橙子直播1,#genre#
 CCTV-1高清,http://tv.dahaili.cn:4022/udp/239.93.0.184:5140
 CCTV-2高清,http://tv.dahaili.cn:4022/udp/239.93.1.23:6000
 CCTV-3高清,http://tv.dahaili.cn:4022/udp/239.93.1.11:2223
@@ -1378,6 +1379,7 @@ IPTV经典电影,http://tv.dahailisea.cn:4022/udp/239.10.0.122:5140
 
 
 
+小橙子直播2,#genre#
 CCTV1,http://183.186.89.226:8899/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://124.94.193.238:9902/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1596,6 +1598,7 @@ CCTV风云音乐,http://119.125.134.161:9901/tsfile/live/1039_1.m3u8?key=txiptv&
 
 
 
+小橙子直播3,#genre#
 重温经典,http://148.135.93.213/live.php?id=重温经典
 CHC家庭影院,http://148.135.93.213/live.php?id=CHC家庭影院
 CHC动作电影,http://148.135.93.213/live.php?id=CHC动作电影
