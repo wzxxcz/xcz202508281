@@ -442,6 +442,14 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1
+},、
+{
+  "key": "步步",
+  "name": "👟步步1080P",
+  "type": 3,
+  "api": "https://weixine.net/js/lib/drpy2.min.js",
+  "jar": "https://xcz.funly.us/wzxm20250416.jar",
+  "ext": "https://gitee.com/smallmi1007/mimi/raw/master/ceshi.js"
 },
 {
   "key":"格格影视",
