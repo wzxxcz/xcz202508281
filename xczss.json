@@ -322,10 +322,10 @@
             "filterable": 1
         }, 
 	{
-            "key": "avtop10",
-            "name": "avtop10",
+            "key": "asoikazy",
+            "name": "asoikazy",
             "type": 1,
-            "api": "https://avtop10.com/api.php/provide/vod/",
+            "api": "https://asoikazy.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
