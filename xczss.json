@@ -250,10 +250,10 @@
             "filterable": 1
         },
 	{
-            "key": "葡萄资源",
-            "name": "葡萄资源",
+            "key": "玉兔资源",
+            "name": "玉兔资源",
             "type": 1,
-            "api": "https://caiji.putaozy.net/inc/apijson_vod.php",
+            "api": "https://apiyutu.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
