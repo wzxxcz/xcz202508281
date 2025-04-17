@@ -302,6 +302,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        }, 
+	{
+            "key": "apilsbzy1",
+            "name": "apilsbzy1",
+            "type": 1,
+            "api": "https://apilsbzy1.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },   
 	{
             "key": "粉B幺女",
