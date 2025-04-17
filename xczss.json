@@ -259,10 +259,10 @@
             "filterable": 1
         }, 
 	{
-            "key": "奥斯卡资源",
-            "name": "奥斯卡资源",
+            "key": "酷豆2资源",
+            "name": "酷豆2资源",
             "type": 1,
-            "api": "https://aosikazy.com/api.php/provide/vod/",
+            "api": "https://api.kdapi.info/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
