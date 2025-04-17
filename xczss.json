@@ -313,10 +313,10 @@
             "filterable": 1
         }, 
 	{
-            "key": "jk1",
-            "name": "jk1",
+            "key": "thzy1",
+            "name": "thzy1",
             "type": 1,
-            "api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/",
+            "api": "https://thzy1.me/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
