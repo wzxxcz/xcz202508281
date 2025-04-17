@@ -259,10 +259,10 @@
             "filterable": 1
         }, 
 	{
-            "key": "影库资源",
-            "name": "影库资源",
+            "key": "佳丽资源",
+            "name": "佳丽资源",
             "type": 1,
-            "api": "https://api.ykapi.net/api.php/provide/vod/",
+            "api": "https://jializyzapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
