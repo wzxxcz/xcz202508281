@@ -322,10 +322,10 @@
             "filterable": 1
         }, 
 	{
-            "key": "asoikazy",
-            "name": "asoikazy",
+            "key": "色戒18+",
+            "name": "色戒18+",
             "type": 1,
-            "api": "https://asoikazy.com/api.php/provide/vod/",
+            "api": "https://sjzy.tv/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
