@@ -259,10 +259,10 @@
             "filterable": 1
         }, 
 	{
-            "key": "芒果资源",
-            "name": "芒果资源",
+            "key": "色猫资源",
+            "name": "色猫资源",
             "type": 1,
-            "api": "https://mgzyz10.com/api.php/provide/vod/",
+            "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
