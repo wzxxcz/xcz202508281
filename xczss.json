@@ -313,10 +313,10 @@
             "filterable": 1
         }, 
 	{
-            "key": "thzy1",
-            "name": "thzy1",
+            "key": "gayapi",
+            "name": "gayapi",
             "type": 1,
-            "api": "https://thzy1.me/api.php/provide/vod/",
+            "api": "https://gayapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
