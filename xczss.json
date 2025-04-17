@@ -250,10 +250,10 @@
             "filterable": 1
         },
 	{
-            "key": "丝袜资源",
-            "name": "丝袜资源",
+            "key": "葡萄资源",
+            "name": "葡萄资源",
             "type": 1,
-            "api": "https://siwazyw.cc/api.php/provide/vod/at/json/",
+            "api": "https://caiji.putaozy.net/inc/apijson_vod.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
