@@ -268,10 +268,10 @@
             "filterable": 1
         }, 
 	{
-            "key": "香蕉资源",
-            "name": "香蕉资源",
+            "key": "花魁资源",
+            "name": "花魁资源",
             "type": 1,
-            "api": "https://xjzyapi.com/api.php/provide/vod/",
+            "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
