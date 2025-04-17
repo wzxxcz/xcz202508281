@@ -268,10 +268,10 @@
             "filterable": 1
         }, 
 	{
-            "key": "KK资源",
-            "name": "KK资源",
+            "key": "老鸭资源",
+            "name": "老鸭资源",
             "type": 1,
-            "api": "https://kkzy.me/api.php/provide/vod/",
+            "api": "https://api.apilyzy.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
