@@ -268,10 +268,10 @@
             "filterable": 1
         }, 
 	{
-            "key": "色窝资源",
-            "name": "色窝资源",
+            "key": "百万资源",
+            "name": "百万资源",
             "type": 1,
-            "api": "https://sewozyapi.com/api.php/provide/vod/",
+            "api": "https://api.bwzym3u8.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
