@@ -320,6 +320,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        }, 
+	{
+            "key": "avtop10",
+            "name": "avtop10",
+            "type": 1,
+            "api": "https://avtop10.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },   
 	{
             "key": "粉B幺女",
