@@ -286,10 +286,10 @@
             "filterable": 1
         },  
 	{
-            "key": "极品资源",
-            "name": "极品资源",
+            "key": "jkun资源",
+            "name": "jkun资源",
             "type": 1,
-            "api": "https://jipinzyapi.com/api.php/provide/vod/",
+            "api": "https://jkunzyapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
