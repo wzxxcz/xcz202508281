@@ -250,6 +250,15 @@
             "filterable": 1
         },
 	{
+            "key": "丝袜资源",
+            "name": "丝袜资源",
+            "type": 1,
+            "api": "https://siwazyw.cc/api.php/provide/vod/at/json/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },   
+	{
             "key": "粉B幺女",
             "name": "粉B幺女",
             "type": 3,
