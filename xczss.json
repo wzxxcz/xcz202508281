@@ -293,6 +293,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        }, 
+	{
+            "key": "豪华资源",
+            "name": "https://hhzyapi.com/api.php/provide/vod",
+            "type": 1,
+            "api": "https://jkunzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },   
 	{
             "key": "粉B幺女",
