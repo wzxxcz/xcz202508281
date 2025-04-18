@@ -1535,7 +1535,8 @@
   "name": "🍎苹果不卡",
   "type": 3,
   "api": "csp_LiteAppleGuard",
-  "jar": "https://xcz.funly.us/wzxf.txt",
+  "jar": "https://xcz.funly.us/wzxf20250415.txt",
+  "timeout": 10,
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1
@@ -1639,7 +1640,8 @@
   "name": "🍓糯米秒播",
   "type": 3,
   "api": "csp_NmyswvGuard",
-  "jar": "https://xcz.funly.us/wzxf.txt",	
+  "jar": "https://xcz.funly.us/wzxf20250415.txt",
+  "timeout": 10,
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1
@@ -1717,7 +1719,8 @@
   "name": "📺热播多线",
   "type": 3,
   "api": "csp_AppTTGuard",
-  "jar": "https://xcz.funly.us/wzxf.txt",
+  "jar": "https://xcz.funly.us/wzxf20250415.txt",
+  "timeout": 10,
   "playerType": 2,
   "searchable": 1,
   "quickSearch": 1,
@@ -1755,12 +1758,12 @@
   "name": "📔厂长不卡",
   "type": 3,
   "api": "csp_NewCzGuard",
-  "jar": "https://xcz.funly.us/wzxf.txt",
+  "jar": "https://xcz.funly.us/wzxf20250415.txt",
+  "timeout": 10,
   "playerType": 2,
   "searchable": 1,
   "quickSearch": 1,
-  "changeable": 1,
-  "ext": "https://www.czzyvideo.com/"
+  "changeable": 1
 },
 {
   "key": "樱花影视",
