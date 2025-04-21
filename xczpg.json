@@ -3531,6 +3531,14 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
+				"name": "🍊可欣电视3",
+				"type": 0,
+				"url": "https://gh.qninq.cn/https://raw.githubusercontent.com/moonkeyhoo/iptv-api/master/output/result.txt",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
 				"name": "🍊AKTV",
 				"type": 0,
 				"url": "https://aktv.space/live.m3u",
