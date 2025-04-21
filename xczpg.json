@@ -233,14 +233,15 @@
   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/虎斑.json?"
 },
 {
-  "key": "蜡笔",
+  "key":"蜡笔",
   "name": "👠蜡笔在线",
-  "type": 3,
-  "api": "csp_PanWebShare",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/蜡笔.json?"
+  "type":3,
+  "api":"csp_PanWebShare",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "changeable":1,
+  "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/json/lb.json?"
 },
 {
   "key":"搜索弹幕",
