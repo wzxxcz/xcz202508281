@@ -3141,7 +3141,15 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "🍊小橙子体育频道备1",
+				"name": "🍊小橙子体育频道",
+				"type": 0,
+				"url": "http://xg.52sw.top/play/kzb/ty.php",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "🍊小橙子体育频道1",
 				"type": 0,
 				"url": "https://live.zbds.top/tv/iptv4.txt",
 				"ua": "okhttp/3.15",
