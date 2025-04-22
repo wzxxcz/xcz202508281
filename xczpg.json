@@ -1885,15 +1885,12 @@
          }
 },
 {
-  "key": "雪糕影视",
+  "key":"雪糕影视",
   "name": "🍨雪糕影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/雪糕.json"
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
+  "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/XBPQ/雪糕影视.json"
 },
 {
   "key": "hipy_js_巨人影院",
