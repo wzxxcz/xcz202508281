@@ -473,7 +473,7 @@
   "quickSearch":1,
   "filterable":1,
   "style":{"type":"list","ratio":1.433},
-  "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/aliyunpansearch.json"
+  "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/json/aliyunpansearch.json"
 },
 {
   "key": "雷鲸",
