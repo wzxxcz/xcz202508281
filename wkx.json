@@ -2068,8 +2068,8 @@
   "key":"爱看机器人",
   "name":"💡爱看影视",
   "type":3,
-  "api":"csp_IkanBot",
-  "jar": "https://xcz.funly.us/wzxo.php",
+  "api":"csp_Ikanbot",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
   "searchable":1,
   "quickSearch":1,
   "filterable":1
