@@ -1472,18 +1472,7 @@
            "Cloud-drive": "tvfan/Cloud-drive.txt",
            "from": "4k|auto"
          }
-},
-{
-  "key": "影探影视",
-  "name": "🍊影探影视",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "jar": "https://xcz.funly.us/xczsvip.jar",	
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://csjt.lyyytv.cn/api.php/app/"
-},	  	  
+},  
 {
   "key": "夸搜",
   "name": "😻夸搜夸父",
@@ -1569,6 +1558,17 @@
            "from": "4k|auto"
          }
 },
+{
+  "key": "影探影视",
+  "name": "🍊影探影视",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "jar": "https://xcz.funly.us/xczsvip.jar",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://csjt.lyyytv.cn/api.php/app/"
+},	  		  
 {
   "key":"黑木影视",
   "name":"🍊黑木影视",
