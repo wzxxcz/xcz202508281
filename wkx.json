@@ -817,6 +817,13 @@
   "searchable": 0
 },
 {
+  "key": "本地",
+  "name": "🍊本地视频",
+  "type": 3,
+  "api": "csp_LocalFile",
+  "jar": "https://xcz.funly.us/xczsvip.jar"
+},	  
+{
   "key": "配置中心",
   "name": "🍊配置中心",
   "type": 3,
