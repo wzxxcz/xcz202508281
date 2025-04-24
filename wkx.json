@@ -809,6 +809,14 @@
   "searchable": 0
 },
 {
+  "key": "预告",
+  "name": "🍊新片预告",
+  "type": 3,
+  "api": "csp_DouBan",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "searchable": 0
+},
+{
   "key": "配置中心",
   "name": "🍊配置中心",
   "type": 3,
