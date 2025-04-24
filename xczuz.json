@@ -350,8 +350,74 @@
             "remark": "本源由小橙子维护"
         },
 	{
+            "name": "📺小橙子台湾1",
+            "url": "http://free.cnlive.club/litv.m3u",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺小橙子台湾2",
+            "url": "https://epg.pw/test_channels_taiwan.m3u",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺小橙子看电视",
+            "url": "http://211.154.28.50:5898/2025.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺小橙子AIGuovin",
+            "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺小橙子高速",
+            "url": "http://api.mytv666.top/lives/free.php?type=txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺小橙子wwb521",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        }, 
+	{
+            "name": "📺小橙子v12",
+            "url": "http://8.138.7.223/v12.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        }, 
+	{
+            "name": "📺小橙子综合",
+            "url": "http://8.138.7.223/live.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        }, 
+	{
+            "name": "📺小橙子TV",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        }, 
+	{
             "name": "📺优质央卫视",
             "url": "https://xcz.funly.us/优质央卫视.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺小橙子IPV4",
+            "url": "https://gitee.com/jin-xueling/lingl/raw/master/hu.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺可欣电视",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
         },
@@ -368,6 +434,18 @@
             "remark": "本源由小橙子维护"
         },
 	{
+            "name": "📺可欣电视3",
+            "url": "https://gh.qninq.cn/https://raw.githubusercontent.com/moonkeyhoo/iptv-api/master/output/result.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺小橙子讴歌",
+            "url": "https://xn--dkw0c.v.nxog.top/m//tv/",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },      
+	{
             "name": "📺AKTV",
             "url": "https://aktv.space/live.m3u",
             "type": 10,
@@ -376,6 +454,18 @@
 	{
             "name": "📺AKTV1",
             "url": "http://wx.thego.cn/ak.m3u",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺AKTVfe",
+            "url": "https://fel.forxhr.top:2022/down.php/554d49b4beb024a1c32d7cf11906c3f5.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺小橙子GAT",
+            "url": "https://fel.forxhr.top:2022/down.php/2a295525d70cfc8430749aca104fc9aa.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
         },
@@ -441,36 +531,18 @@
         },  
 	{
             "name": "📺小橙子体育频道",
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
+            "url": "http://xg.52sw.top/play/kzb/ty.php",
             "type": 10,
             "remark": "本源由小橙子维护"
         },
 	{
-            "name": "📺小橙子体育频道备1",
+            "name": "📺小橙子体育频道1",
             "url": "https://live.zbds.top/tv/iptv4.txt",
-            "type": 10,
-            "remark": "本源由小橙子维护"
-        },
-	{
-            "name": "📺小橙子体育频道备2",
-            "url": "https://live.zbds.top/tv/iptv6.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
         }, 
 	{
-            "name": "📺小橙子伟来体育",
-            "url": "https://gitee.com/jin-xueling/lingl/raw/master/hu.txt",
-            "type": 10,
-            "remark": "本源由小橙子维护"
-        },
-	{
             "name": "📺小橙子湖北经视",
-            "url": "http://123.iptv6.icu/view.php/5e20d696c3b4315c6ca06c45f0d930a0.txt",
-            "type": 10,
-            "remark": "本源由小橙子维护"
-        },
-	{
-            "name": "📺小橙子湖北经视1",
             "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
@@ -494,14 +566,8 @@
             "remark": "本源由小橙子维护"
         }, 
 	{
-            "name": "📺小橙子肥羊",
-            "url": "http://nas.suntao.online:35455/tv.m3u",
-            "type": 10,
-            "remark": "本源由小橙子维护"
-        }, 
-	{
-            "name": "📺小橙子综合",
-            "url": "http://8.138.7.223/live.txt",
+            "name": "📺小橙子yoursmile66",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
         }, 
@@ -536,12 +602,6 @@
             "remark": "本源由小橙子维护"
         }, 
 	{
-            "name": "📺小橙子v12",
-            "url": "http://8.138.7.223/v12.txt",
-            "type": 10,
-            "remark": "本源由小橙子维护"
-        }, 
-	{
             "name": "📺小橙子国内",
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%B5%8B%E8%AF%95/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/kk.txt",
             "type": 10,
@@ -550,12 +610,6 @@
 	{
             "name": "📺小橙子国内1",
             "url": "https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
-            "type": 10,
-            "remark": "本源由小橙子维护"
-        }, 
-	{
-            "name": "📺小橙子wwb521",
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
         }, 
@@ -679,12 +733,6 @@
             "type": 10,
             "remark": "本源由小橙子维护"
         },     
-	{
-            "name": "📺小橙子讴歌",
-            "url": "https://xn--dkw0c.v.nxog.top/m//tv/",
-            "type": 10,
-            "remark": "本源由小橙子维护"
-        },      
 	{
             "name": "📺小橙子电视11",
             "url": "http://wx.thego.cn/df.txt",
