@@ -3209,6 +3209,21 @@
       ]
 },
 {
+  "key": "天涯资源网",
+  "name": "🍊天涯采集",
+  "type": 1,
+  "api": "https://tyyszyapi.com/api.php/provide/vod/",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "quickSearch": 1,
+  "searchable": 1,
+  "changeable": 1,
+  "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "国产剧"
+      ]
+},
+{
   "key": "四个圈采集",
   "name": "🍊四圈采集",
   "type": 1,
