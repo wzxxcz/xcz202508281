@@ -279,51 +279,6 @@
             }
         },
         {
-            "key": "快快逍遥",
-            "name": "快快逍遥",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://m.kuaiys.com/search.php?searchtype=5&tid=28",
-                "跳转播放链接": "var now=\"&&\"",
-                "分类url": "https://m.kuaiys.com/search.php?page={catePg}&searchtype=5&tid=28&area={cateId}",
-                "分类": "大陆&香港&台湾&韩国&日本&美国&印度&英国&法国&泰国&新加坡&马来西亚&加拿大&西班牙&俄罗斯",
-                "分类值": "*"
-            }
-        },
-        {
-            "key": "爱看4K逍遥",
-            "name": "爱看4K逍遥",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://wo.ikan4k.com/index.php/vod/show/class/%E4%BC%A6%E7%90%86/id/1.html",
-                "二次截取": "module-items\"&&id=\"page[替换:module-footer>>module-item]",
-                "数组": "module-item-pic&&module-item\"",
-                "标题": "title=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "副标题": "🍊+item-text\">&&<",
-                "线路数组": "dropdown&&</div>",
-                "线路标题": "🍊+<span>&&</+【共+<small>&&<+集】",
-                "播放数组": "id=\"sort-item&&</div>",
-                "播放列表": "<a&&a>",
-                "播放链接": "href=\"&&\"",
-                "播放标题": "🍊+<span>&&</",
-                "搜索模式": "1",
-                "搜索url": "https://wo.ikan4k.com/index.php/vod/search/page/{pg}/wd/{wd}.html",
-                "简介": "🍊+vod_content\">&&</span>",
-                "分类url": "https://wo.ikan4k.com/index.php/vod/show/area/{cateId}/class/%E4%BC%A6%E7%90%86/id/1/page/{catePg}.html",
-                "分类": "大陆&香港&台湾&韩国&日本&美国&印度&英国&法国&泰国&新加坡&马来西亚&加拿大&西班牙&俄罗斯"
-            }
-        },
-        {
             "key": "安迪逍遥",
             "name": "安迪逍遥",
             "type": 3,
@@ -415,26 +370,6 @@
             }
         },
         {
-            "key": "✨大尺度逍遥✨",
-            "name": "大尺度逍遥",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "图片代理": "0",
-                "主页url": "http://dachidz.com/vodshow/1-%E4%BC%A6%E7%90%86-----.html",
-                "首页": "120",
-                "起始页": "1",
-                "分类url": "http://dachidz.com/vodshow/1-%E4%BC%A6%E7%90%86-{cateId}----{catePg}.html",
-                "分类": "大陆&香港&台湾&韩国&日本&美国&印度&英国&法国&泰国&新加坡&马来西亚&加拿大&西班牙&俄罗斯",
-                "分类值": "*"
-            }
-        },
-        {
             "key": "椰子逍遥",
             "name": "椰子逍遥",
             "type": 3,
@@ -501,43 +436,6 @@
                 "搜索图片": "data-original=\"&&\"",
                 "搜索副标题": "remarks\">&&</span>",
                 "搜索链接": "href=\"&&\""
-            }
-        },
-        {
-            "key": "✨宇逍遥✨",
-            "name": "宇逍遥",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://www.yumv.cn/vodshow/dianying---%E4%BC%A6%E7%90%86--------.html",
-                "分类url": "https://www.yumv.cn/vodshow/dianying-{cateId}--%E4%BC%A6%E7%90%86-----{catePg}---.html",
-                "分类": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他",
-                "分类值": "*",
-                "数组": "默认--wrapper-pic\"&&</li>||搜索--wrapper-pic\"&&</li>",
-                "标题": "title=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "副标题": "🍊+overflow\">&&</",
-                "链接": "href=\"&&\"",
-                "状态": "状态：&&</span>",
-                "导演": "🍊+导演：&&</span>",
-                "主演": "🍊+主演：&&</span>",
-                "简介": "🍊+简介：&&</div>",
-                "线路数组": "swiper-slide ewave-tab&&</li>",
-                "线路标题": "🍊+>&&<",
-                "播放二次截取": "",
-                "播放数组": "playlist-sort-content\"&&</ul>",
-                "倒序": "0",
-                "播放列表": "<a&&/a>",
-                "播放标题": "🍊+>&&<",
-                "播放链接": "href=\"&&\"",
-                "跳转播放链接": "var player_*\"url\":\"&&\"",
-                "搜索请求头": "User-Agent$MOBILE_UA",
-                "搜索url": "/vodsearch/{wd}----------{pg}---.html"
             }
         },
         {
@@ -623,15 +521,6 @@
       "filterable": 0
        },
            {
-      "key":"*黄AV资源",
-      "name":"黄AV",
-      "type":0,
-      "api":"https://www.pgxdy.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-       },
-           {
       "key":"*乐播资源",
       "name":"乐播资源",
       "type":1,
@@ -645,15 +534,6 @@
       "name":"番号资源",
       "type":1,
       "api":"http://fhapi9.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-       },
-        {
-      "key":"*探探资源",
-      "name":"探探资源",
-      "type":1,
-      "api":"https://apittzy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -681,15 +561,6 @@
       "name":"玉兔资源",
       "type":1,
       "api":"https://apiyutu.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-       },
-        {
-      "key":"*AV资源",
-      "name":"AV资源",
-      "type":0,
-      "api":"https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -773,7 +644,7 @@
         },
 	{
             "key": "森林资源",
-            "name": "森林资源",
+            "name": "森林资源1",
             "type": 1,
             "api": "https://slapibf.com/api.php/provide/vod/",
             "searchable": 1,
@@ -791,7 +662,7 @@
         },
 	{
             "key": "玉兔资源",
-            "name": "玉兔资源",
+            "name": "玉兔资源1",
             "type": 1,
             "api": "https://apiyutu.com/api.php/provide/vod/",
             "searchable": 1,
@@ -816,15 +687,6 @@
             "quickSearch": 1,
             "filterable": 1
         }, 
-	{
-            "key": "丫丫资源",
-            "name": "丫丫资源",
-            "type": 1,
-            "api": "https://cj.yayazy.net/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },  
 	{
             "key": "jkun资源",
             "name": "jkun资源",
@@ -879,27 +741,6 @@
                 "分类值": "287&185&296&177&178&179&180&181&182&183&184&186&187&188&189&190&191&192&193&194&325&327&328&329&330&331&332&295&297&298&299&300&301&302&303&304&305&306&309&310&311&312&313&314&315&316&317&224&225&227&229&231&233&235&237&239&241&243&245&247&249&251&253&255&257&259&261&263&265&267&269&271&273&275&276&277&278&279&280&281&282&283&284&285&286&288&289&290"
             }
         },
-	{
-	  "key":"++教师妈妈",
-	  "name":"教师妈妈",
-	  "type":3,
-	  "api":"csp_XBPQ",
-	  "jar": "https://xcz.funly.us/xyqxbpq.jar",
-	  "searchable":1,
-	  "quickSearch":1,
-	  "filterable":1,
-	  "ext":{
-		  "请求头":"User-Agent$MOBILE_UA",
-		  "编码":"UTF-8",
-		  "主页url":"https://m.jsmm70.buzz/welcome/?https://w8psobw8jp8zq2b.52crs264.xyz/",
-		  "数组":"thumb\">&&</time>","图片":"src=\"&&\"","标题":"title=\"&&\"","副标题":"red\">&&</font>",
-		  "链接":"默认--href=\"&&\"||首页--https://m.jsmm70.buzz/+href=\"&&\"",
-		  "简介":"description\" content=\"&&\"","跳转播放链接":"var player_*\"url\":\"&&\"",
-		  "搜索url":"https://m.jsmm70.buzz/welcome/index.php/vod/search/page/{pg}/wd/{wd}.html",
-		  "分类url":"https://m.jsmm70.buzz/welcome/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
-		  "分类数组":"<li&&li>","分类标题":">&&</a >[不包含:黄色仓库]","分类ID":"/welcome/index.php/vod/type/id/&&.html"
-	        }
-	},
 	{
             "key": "free18",
             "name": "free18影视",
@@ -1160,52 +1001,6 @@
             }
     },
     {
-        "key": "91精品🔞",
-        "name": "91精品",
-        "type": 3,
-        "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xyqxbpq.jar",
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "主页url": "https://fyu.lmt4.monster/cn/home/web/",
-                "数组": "<article>&&</article>",
-                "标题": "alt=\"&&\"",
-                "图片": "<img src=\"&&\"",
-                "链接": "href=\"&&\"",
-                "简介": "description\" content=\"&&\"",
-                "分类url": "https://fyu.lmt4.monster/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
-                "分类数组": "<a&&/a>",
-                "分类标题": ">&&<",
-                "分类ID": "/cn/home/web/index.php/vod/type/id/&&.html"
-            }
-    },
-    {
-        "key": "飞机视频🔞",
-        "name": "飞机影视",
-        "type": 3,
-        "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xyqxbpq.jar",
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "主页url": "https://zvz.gdpjb8.work/cn/home/web/",
-                "数组": "well well-sm&&/a>",
-                "标题": "m-t-5\">&&<",
-                "图片": "<img src=\"&&\"",
-                "链接": "href=\"&&\"",
-                "简介": "description\" content=\"&&\"",
-                "分类url": "https://zvz.gdpjb8.work/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
-                "分类数组": "<a&&/a>",
-                "分类标题": "title=\"&&\"",
-                "分类ID": "/cn/home/web/index.php/vod/type/id/&&.html"
-            }
-    },
-    {
         "key": "望春视频🔞",
         "name": "望春影视",
         "type": 3,
@@ -1410,25 +1205,6 @@
 	"filterable":1
     },
     {
-	"key":"学习至上",
-	"name":"LBA学习",
-	"type":0,
-	"api":"https://slapibf.com/api.php/provide/vod//at/xml",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":1
-    },
-    {
-      "key": "13av",
-      "name": "13AV",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/13AV.json"
-    },
-    {
       "key": "纤纤福利",
       "name": "纤纤仙术",
       "type": 3,
@@ -1464,7 +1240,7 @@
     },
     {
       "key": "ms4nii",
-      "name": "美少女",
+      "name": "美少女1",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
@@ -1473,7 +1249,7 @@
     },
     {
       "key": "淫水机",
-      "name": "淫水机",
+      "name": "淫水机1",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 1,
@@ -1482,7 +1258,7 @@
     },
         {
             "key": "香奶儿",
-            "name": "香奶儿",
+            "name": "香奶儿1",
             "type": 0,
             "api": "https://www.gdlsp.com/api/xml.php",
             "searchable": 1,
@@ -1629,13 +1405,6 @@
         "api":"https://api.ddapi.cc/api.php/provide/vod/at/json",
         "searchable":1,
         "quickSearch":1
-    },
-    {
-        "key":"沙咖影院",
-        "name":"沙咖影院",
-        "type":3,
-        "api":"csp_XBPQ",
-        "jar":"https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://sar.sarga.cc/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://sar.sarga.cc/vodsearch/{wd}----------{pg}---.html","分类url":"https://sar.sarga.cc/vodtype/{cateId}-{catePg}.html;;z","分类":"中文新作$20#国语视频$21#有码精品$24#动漫专场$23#经典伦理$25#欧美性爱$22"}
     },
     {
         "key":"didizy.com",
