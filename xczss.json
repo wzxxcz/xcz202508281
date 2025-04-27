@@ -353,7 +353,7 @@
 	  "name":"教师妈妈",
 	  "type":3,
 	  "api":"csp_XBPQ",
-	  "jar": "./xbpq.jar",
+	  "jar": "https://xcz.funly.us/xyqxbpq.jar",
 	  "searchable":1,
 	  "quickSearch":1,
 	  "filterable":1,
