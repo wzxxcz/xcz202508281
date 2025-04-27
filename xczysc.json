@@ -1938,6 +1938,18 @@
   "ext": "rfOb1uAWbkRHp7hdxprG9un3+SLP183q3ik3cJDiAwlFdF8L6SIvrvc9LrpTyIg76T7QJZdEkWNj43wiSaA0TJyQpu2IF2jsSLWFx7WkAmG40hFxJ1tI+Jf+EVG8DtoDRcNi+TtVGULnWrSz3EWnVcxR3EJhXnrwYWe1kJtNW5txuHAO"
 },
 {
+  "key": "即看",
+  "name": "🐻即看多线",
+  "type": 3,
+  "api": "csp_AppSxGuard",
+  "jar": "https://xcz.funly.us/wzxf20250425.txt",
+  "timeout": 10,
+  "searchable": 1,
+  "quickSearch": 0,
+  "changeable": 0,
+  "ext": "rfOX1voDIQhH8epBwtCFsub1+2maloq8lmJuL821WUsZJAZft2UtrrwhKK5Zxt1toWyFctBUmThhuDAjVuU="
+},
+{
   "key": "热播",
   "name": "📺热播多线",
   "type": 3,
