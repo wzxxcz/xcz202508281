@@ -265,6 +265,24 @@
             }
         },
 	{
+            "key": "皮皮逍遥",
+            "name": "皮皮逍遥",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.xzweiheng.com/vodshow/33-----------.html",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "分类url": "https://www.xzweiheng.com/vodshow/33-{cateId}-------{catePg}---.html",
+                "分类": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他",
+                "分类值": "*"
+            }
+        },
+	{
             "key": "森林资源",
             "name": "森林资源",
             "type": 1,
