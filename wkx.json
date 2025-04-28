@@ -1720,7 +1720,7 @@
   "type":1,
   "api":"https://huaren.live/api.php/tvbox",
   "jar": "https://github.com/wzxxcz/CatVodSpider/raw/7b76dc4523bd01cc1459c3de588de233f0aa2e6a/jar/custom_spider.jar",
-  "playUrl":"json:https://parse.okhuaren.com/?url=",
+  "playUrl":"json:https://e.okhuaren.com/?url=",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
