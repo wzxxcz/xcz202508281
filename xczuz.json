@@ -374,6 +374,12 @@
             "remark": "本源由小橙子维护"
         },
 	{
+            "name": "📺小橙子看体育",
+            "url": "http://tv.cqshushu.ggff.net:2086/fm/yoozb.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
             "name": "📺小橙子AIGuovin",
             "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
             "type": 10,
