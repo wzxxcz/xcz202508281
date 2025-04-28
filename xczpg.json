@@ -3491,6 +3491,14 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
+				"name": "🍊小橙子西柚",
+				"type": 0,
+				"url": "http://zozo.vmhost.cc/zx/i/1745668499.txt",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
 				"name": "🍊小橙子IPV4",
 				"type": 0,
 				"url": "https://gitee.com/jin-xueling/lingl/raw/master/hu.txt",
