@@ -2806,6 +2806,14 @@
 			{
 				"name": "🍊小橙子看体育",
 				"type": 0,
+				"url": "http://xg.52sw.top/play/kzb/ty.php",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "🍊小橙子看体育1",
+				"type": 0,
 				"url": "http://tv.cqshushu.ggff.net:2086/fm/yoozb.txt",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
@@ -3039,14 +3047,6 @@
 				"name": "🍊港澳台研究所备",
 				"type": 0,
 				"url": "http://205.185.123.236:50089/?type=m3u",
-				"ua": "okhttp/3.15",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-			},
-			{
-				"name": "🍊小橙子体育频道",
-				"type": 0,
-				"url": "http://xg.52sw.top/play/kzb/ty.php",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
