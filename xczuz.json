@@ -440,6 +440,12 @@
             "remark": "本源由小橙子维护"
         },
 	{
+            "name": "📺小橙子其它",
+            "url": "http://docker.livednow.dpdns.org/?type=m3u&proxy=true",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
             "name": "📺小橙子IPV4",
             "url": "https://gitee.com/jin-xueling/lingl/raw/master/hu.txt",
             "type": 10,
