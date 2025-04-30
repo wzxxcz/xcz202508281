@@ -399,7 +399,7 @@
         },
 	{
             "name": "📺小橙子AIGuovin",
-            "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
+            "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
         },
