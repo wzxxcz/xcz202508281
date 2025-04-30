@@ -357,12 +357,18 @@
         },
 	{
             "name": "📺小橙子台湾1",
-            "url": "http://free.cnlive.club/litv.m3u",
+            "url": "https://14479.kstore.space/%E6%B9%BE%E6%B9%BE.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
         },
 	{
             "name": "📺小橙子台湾2",
+            "url": "http://free.cnlive.club/litv.m3u",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺小橙子台湾3",
             "url": "https://epg.pw/test_channels_taiwan.m3u",
             "type": 10,
             "remark": "本源由小橙子维护"
