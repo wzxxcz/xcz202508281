@@ -3,7 +3,7 @@
     {
       "name": "快直播体育(python)",
       "type": 3,
-      "api": "file://Download/kzbty.py",
+      "api": "https://xcz.funly.us/Download/kzbty.py",
       "ext": {}
     }
   ]
