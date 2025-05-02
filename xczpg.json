@@ -3315,13 +3315,21 @@
 			{
 				"name": "🍊小橙子看体育",
 				"type": 0,
-				"url": "http://xg.52sw.top/play/kzb/ty.php",
+				"url": "http://tv.cqshushu.ggff.net:2086/360pai.php",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
 				"name": "🍊小橙子看体育1",
+				"type": 0,
+				"url": "http://xg.52sw.top/play/kzb/ty.php",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "🍊小橙子看体育2",
 				"type": 0,
 				"url": "http://tv.cqshushu.ggff.net:2086/fm/yoozb.txt",
 				"ua": "okhttp/3.15",
