@@ -1045,7 +1045,17 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1
-},	  
+},
+{
+  "key": "nk",
+  "name": "🍊耐看蓝光",
+  "type": 3,
+  "api": "csp_WebNK",
+  "jar": "https://xcz.funly.us/moyuer.php",
+  "searchable": 0,
+  "changeable": 0,
+  "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKewpvDncOpw57Cp8OnwphXXFDCoMOnw6PDqcKhbVBXwovlh77phZvmkJ/lkZzCpuWGn+S9h+WQp2rlv6roqLnotr7mvInnrZPCkFdcUMKgw5fDn8Ocw6zCrMKgwqR7w57DrMKhwrPCmlrCp8KlwqnDosKpwrDCr8KhwrA="
+},
 {
   "key": "步步",
   "name": "👟步步1080P",
