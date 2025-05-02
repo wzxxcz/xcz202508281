@@ -393,12 +393,18 @@
         },
 	{
             "name": "📺小橙子看体育",
-            "url": "http://xg.52sw.top/play/kzb/ty.php",
+            "url": "http://tv.cqshushu.ggff.net:2086/360pai.php",
             "type": 10,
             "remark": "本源由小橙子维护"
         },
 	{
             "name": "📺小橙子看体育1",
+            "url": "http://xg.52sw.top/play/kzb/ty.php",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺小橙子看体育2",
             "url": "http://tv.cqshushu.ggff.net:2086/fm/yoozb.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
