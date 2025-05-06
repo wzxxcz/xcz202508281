@@ -402,6 +402,12 @@
         },
 	{
             "name": "📺小橙子看电视2",
+            "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺小橙子看电视2",
             "url": "http://iptv.diyp.site/diyp.php",
             "type": 10,
             "remark": "本源由小橙子维护"
