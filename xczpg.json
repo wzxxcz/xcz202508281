@@ -3452,14 +3452,6 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "🍊小橙子综合",
-				"type": 0,
-				"url": "http://8.138.7.223/live.txt",
-				"ua": "okhttp/3.15",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-			},
-			{
 				"name": "🍊小橙子TV",
 				"type": 0,
 				"url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt",
