@@ -449,6 +449,12 @@
             "remark": "本源由小橙子维护"
         },
 	{
+            "name": "📺小橙子讴歌",
+            "url": "https://xn--dkw0c.v.nxog.top/m//tv/?tv.m3u",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },      
+	{
             "name": "📺V6范明明（需开启V6网络）",
             "url": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250425-868403-298462cec53c48439a5765ceaca3c67f.m3u",
             "type": 10,
@@ -550,12 +556,6 @@
             "type": 10,
             "remark": "本源由小橙子维护"
         },
-	{
-            "name": "📺小橙子讴歌",
-            "url": "https://xn--dkw0c.v.nxog.top/m//tv/",
-            "type": 10,
-            "remark": "本源由小橙子维护"
-        },      
 	{
             "name": "📺AKTV",
             "url": "https://aktv.space/live.m3u",
