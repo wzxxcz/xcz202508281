@@ -491,12 +491,6 @@
             "remark": "本源由小橙子维护"
         }, 
 	{
-            "name": "📺小橙子综合",
-            "url": "http://8.138.7.223/live.txt",
-            "type": 10,
-            "remark": "本源由小橙子维护"
-        }, 
-	{
             "name": "📺小橙子TV",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt",
             "type": 10,
