@@ -389,19 +389,19 @@ http://home.kuaidi521.com:35455/itv/3000000010000027691.m3u8
 #EXTINF:-1 tvg-id="咪视通-45" tvg-name="咪视通-45" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-45
 http://home.kuaidi521.com:35455/itv/3000000010000031669.m3u8
 
-#EXTINF:-1  group-title="咪咕体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png", [NBA]05/08 07:00 -季后赛-尼克斯VS凯尔特人-蔡凯臣 刘铁 秋童
-https://migu.188766.xyz/play?migutoken=88e38d2de3b90b0167dd3e5da08c1272&id=rDJXO09tL5yJTbv%2FU8qHCwqBkATEA3xpeDnXkpLT3R8DBq9a1ZBhOf%2FJLhCMzgeM&name=M%2F6b%2F5Ml%2F6%2FPLIlWX2rrWhXa1wRPtm5l6kaHqTAhyyiWKlRKDJkTbVbMjEVRddtf%2BhZHiPX8Qbs%2F0h6iQx3XlUDY%2FZmZZJVtkxs0AbrAGZ557Vmo6%2By8wIuadOYNkwNa
-#EXTINF:-1  group-title="咪咕体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png", [NBA]05/08 07:00 -季后赛-尼克斯VS凯尔特人-英文原声
-https://migu.188766.xyz/play?migutoken=84e0e11807fee301544854a2e03c98e0&id=8CxYefgdj0zbqsgMUSYGXJ9e2KMvlnpLWjdVRkhSMp94mMUKid1biL0xCPZtj9iB&name=d24o8yuXIdoYNMj98XiCJ7CXZZ%2FLVpMIplz%2BZxVscHrLM%2FS5tbS%2Bkd6dgum4O2B3I6mY2S1SrgQGyD9IjJVepKjeVnoSp%2FnjBYampWAqA7lqOjrBgnqbVwgUrfUhKlmr
-#EXTINF:-1  group-title="咪咕体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png", [NBA]05/08 09:30 -季后赛-掘金VS雷霆-王晓晨 孔德昕 闫宇峰
-https://migu.188766.xyz/play?migutoken=04fd96d9ca7afc10b3b01660732b69e0&id=3TXDsjzVXIQiuxhBj%2Fe7xXqSCUKSvSilQvK5TnI1K6CSEb%2BQu3w%2FksZirzB4B5FH&name=1ibuetOvzdJ%2B2gjLHPvxfIeHUpDtAn0jxhF1OsouOY1ai73UFuXPvD8ty4BV%2BquoJzN3e3avbuMn8SB2MyZZob7acKfri7SFCs4USRsVxFrsVOik1LdbRn47bQwLyO8K
-#EXTINF:-1  group-title="咪咕体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png", [NBA]05/08 09:30 -季后赛-掘金VS雷霆-英文原声
-https://migu.188766.xyz/play?migutoken=91b8425aa08251a13c330852f248f546&id=NXTQYPkCourkTgrYagoOJK7TMVPD3sNC4A0wWhoVr88tnfsm%2BIkooAPWCsu2fqiK&name=HTsrhh76Yg8Ln4a5cwDO09XrlD4ihxxa7YS%2BaZCt%2FM4cAYxeNwGAtsM9St%2BdzGF7dbgjj8i%2BmPILL3kiXhijQjIXm3x5DAvJJjK85%2B23vOQ%3D
-#EXTINF:-1  group-title="咪咕体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png", [斯诺克]05/08 02:00 -斯诺克元老世锦赛Day1：菲格雷多、卡纳万出战-菲格雷多、卡纳万出战-清流播出
-https://migu.188766.xyz/play?migutoken=5595e28b42c71ad80d2c96414f04c6eb&id=0yPXySTkA8c0Uluhp8pSjeFNYVSLuMfpUhHFzaJqT1j9JVcSSyDi0fdYn4ffH1yv&name=B5VthmvhnQa6lJYqSGDIc9UGud8Ply4FAPupUQhs8lWA9FXAc0kXuMc%2FiLg6MrSgjQ4wwEvc5M4k30FM5cCY3QFHzq2N0Kuwdla5ScaEjzaRjShZA%2FCxQhDvK97OfOtpkTBuCEMti5C2%2F%2FtM4OR%2FytyZMrSWcsEzeezGj2V697YoeFgrnk6nsPZRN3jLI7SmoEj1gAueedmon6wq6oEAjw%3D%3D
-#EXTINF:-1  group-title="咪咕体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png", [LPL]05/08 16:30 -TT vs FPX-TT vs FPX-官方解说
-https://migu.188766.xyz/play?migutoken=8f62151c2462038400b14cb728d757ac&id=KcEkXf36lUjzu84kM53OP4O1C8rcS%2FvYFy3Sv7yVaOOS9c%2BQmwp3pIqXHoyoO4pp&name=zCDOp06QZKJqPg1yvrlhqWFE8WHuhIjI5S6W6tv%2Bc9rQvjO617QYgGTmqN7wRLkxgTCbWm6UiF7oAIuv0CkrRdjfZ2auRMZmPSVLXovMEkg%3D
-#EXTINF:-1  group-title="咪咕体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png", [WTA]05/08 17:00 -WTA罗马站第三日-WTA罗马站第三日-清流播出
-https://migu.188766.xyz/play?migutoken=a7e6a43608747020604a53ab0fb09b6d&id=9H%2F9EkKPS1pDrhh1xKz2yrlZxKFQPawDcKnSOj%2B4YuJAjZlWjE96V%2FIf6bPaNGsp&name=3Ax4yuYUiBytZjEtO5TQci%2BJRzhoqnFUranNj9SwvjuHG1uVow82wXJGizRX9LY2gMfQKL3JtgeXB2P%2Fmn0pvRzOPTKCk%2FBcSvYL5zdXMysyUSeHqJQ1NPgiUaa5N388
-#EXTINF:-1  group-title="咪咕体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png", [LPL]05/08 20:00 -TES vs NIP-TES vs NIP-官方解说
-https://migu.188766.xyz/play?migutoken=9ca8f5fe31814619ae919aca6c3a67ac&id=2SteEaZXi4jMFf%2FoR2VG4PdSsbfaTVXJHTpqf01NMiWgcBEXDlffYgX8hgXfhybX&name=rcxc%2FPlZIm1guumLDf7uqGj56wC6%2FTSkOABCqG1BtkdiL%2BSGXv1dApxB74KHwOdrialITipz%2BJcpuJV5AggU3AyHj3HGjOLz8OL4iptSHuA%3D
+#EXTINF:-1  group-title="咪咕体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png", [NBA]07:00 -季后赛-尼克斯VS凯尔特人-蔡凯臣 刘铁 秋童
+https://migu.188766.xyz/play?migutoken=88e38d2de3b90b0167dd3e5da08c1272&id=93NcoR3M88467AAlLtTRGYzSMNP5%2F54ZE%2FRF4XMuh4CnjkSFni3opIYqxwBcOC53&name=WR2ofqlhWZmreKMnwtqMrR3hLcjhYFR9kd5k3w032rIw8s1Lla%2Bc%2B%2BDHzKmg2G4djPO5S4HVNihc7yGQTC00JYG2yrtKz%2Fm1wFVPKKUySBkn8f4Noc8adWnTm5eWgFUs
+#EXTINF:-1  group-title="咪咕体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png", [NBA]07:00 -季后赛-尼克斯VS凯尔特人-英文原声
+https://migu.188766.xyz/play?migutoken=84e0e11807fee301544854a2e03c98e0&id=Mzwncim53JJj3PjzKGtB25YrfW4OXliCU3pY2Ct0Hy29wTGaUkK1%2BBI1eStgjdO%2B&name=kLk2%2BnYmwqWLgwcqGV7%2F6%2BrF1yHEgdhpJFWC3KGCS4lDM4iS4ERKkShFeQWRZsBOV6oVvhUa0oiWMOfVEgDdKA7Dv0ZlTnv83MyRwmNrkSk%3D
+#EXTINF:-1  group-title="咪咕体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png", [NBA]09:30 -季后赛-掘金VS雷霆-王晓晨 孔德昕 闫宇峰
+https://migu.188766.xyz/play?migutoken=04fd96d9ca7afc10b3b01660732b69e0&id=hxYHpOd1m9d3sImGvVDgOrSTW0EsyMLwvJiy0yZUDU2UX4qj6XdYSdlo7%2Fno%2FD5k&name=9mh66yihJiUhNDKFQ%2FFV5uAJVz0pjka3J32O2OVfgQjRhXGdiOgZcm4QR4xCFD3tQUbBR2dahGX6yEwF8aHaXsNSHu7bxSHSya35ODOkunPd%2BIanJllF%2Ba9cmsENqUsT
+#EXTINF:-1  group-title="咪咕体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png", [NBA]09:30 -季后赛-掘金VS雷霆-英文原声
+https://migu.188766.xyz/play?migutoken=91b8425aa08251a13c330852f248f546&id=8BlEty4IrBcreKXJjwfu8mEV%2F5AhXycQKK8KC0MvnweeVKNfeovEt4z4Hknu1NCN&name=ySJ2OFRWKQnIvkCxwHr8J8DOW3MzhH%2BpjNF1iEGha3Lmv0YfVG2THVubYV%2BGxQ4cPtZUaIXUht9FdKe4YrAJZwRXjwA473jyTATLSutBMOY%3D
+#EXTINF:-1  group-title="咪咕体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png", [斯诺克]02:00 -斯诺克元老世锦赛Day1：菲格雷多、卡纳万出战-菲格雷多、卡纳万出战-清流播出
+https://migu.188766.xyz/play?migutoken=5595e28b42c71ad80d2c96414f04c6eb&id=WeO3FIaKfUzDuML1NwRq4FmqxJL%2FMPipKmld%2BCjBycftSv%2Ba6m6zRO1f5GWr2ixL&name=%2BrehWRBWJVS%2BcjNGhkjVz61%2FgBi7FEaY7C%2F7%2BXm7FyBFYn%2BBr46G9mjHAo%2F%2FLNLAbQpPt0yTGnc534e34L0PKMz9OEPewuRXk8KUtVBHOJNfksV3iSwmQfpEhHrGseo71O2sALgPLNAKH0ZQEcTKXaMrV%2FzVa%2F%2FOeEyg%2F8LJTWu8bgtl66sqX%2BqHNC4Yt1hU
+#EXTINF:-1  group-title="咪咕体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png", [LPL]16:30 -TT vs FPX-TT vs FPX-官方解说
+https://migu.188766.xyz/play?migutoken=8f62151c2462038400b14cb728d757ac&id=jI2DmfLyn5niC66cnKZWfPM7Fbt%2By9DnZOeY9vEfyTZpoGaMJ3MgdHk7IVTJ1V4q&name=Kzj32VZO3yV9IlWtzQbIFEnlU7D4w5I1ER5AJ7Leb%2F8Cq4V2LeM1fbxIWLN%2FkewhZbezHvQOCSGnGhjfsTzZKw%3D%3D
+#EXTINF:-1  group-title="咪咕体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png", [WTA]17:00 -WTA罗马站第三日-WTA罗马站第三日-清流播出
+https://migu.188766.xyz/play?migutoken=a7e6a43608747020604a53ab0fb09b6d&id=jYqJHDVyrYYLkT%2FEUxbgeNil3MA4W2P3O54WZ8Xehg9Jw954KquD4M4zCzyqhn7H&name=HlFNgolpFIgXSMg1Z8OpP5wDDVQAEwVXaWK3QN1XQV9Slz1wdk2EAOX3B3pgpUTCeZZDs139xkGMhf%2FHOs0Xvf8OjDOX05Q29Or4fbSLVirZeSvHlYSI%2B5GilwOvdKXD
+#EXTINF:-1  group-title="咪咕体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png", [LPL]20:00 -TES vs NIP-TES vs NIP-官方解说
+https://migu.188766.xyz/play?migutoken=9ca8f5fe31814619ae919aca6c3a67ac&id=GoqcoqmaimMnyuA72%2FX5PiTS%2FA%2Bje5%2Fhrl4%2FTQ6t0jcSWoHqI8YuqZ2NqLmiJEks&name=Xt48xxRZKsoRKD9zXI2OlHNGQa5SAXfm%2BU8SahWbi7fP3X06XbcigBOtJ1OeRjoEJudbVKCFLLT04oL3L47LiA%3D%3D
