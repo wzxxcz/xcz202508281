@@ -32,6 +32,15 @@
      		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
                },
 	       {
+                "name": "小橙子4",
+                "type": 0,
+                "url": "http://tv-api.22ba6.top/live/xiangjiao.txt",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+               },
+	       {
         "name": "天美传媒816",
         "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/天美传媒816.txt"
     },
