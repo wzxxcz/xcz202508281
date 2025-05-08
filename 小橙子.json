@@ -2860,6 +2860,14 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
+				"name": "🍊小橙子hlw（密码8888）",
+				"type": 0,
+				"url": "https://codeberg.org/ghbzhx/qfbl/raw/branch/main/hlw.txt",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
 				"name": "🍊小橙子看电视1",
 				"type": 0,
 				"url": "https://ghproxy.net/https://raw.githubusercontent.com/seadai794/tv/main/itvlist.txt",
