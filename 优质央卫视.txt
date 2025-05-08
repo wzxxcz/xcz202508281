@@ -1,4 +1,4 @@
-央视,#genre#
+央视频道,#genre#
 
 CCTV1,http://171.124.47.175:8899/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -120,7 +120,7 @@ CCTV风云足球,http://58.19.38.162:9901/tsfile/live/1003_1.m3u8?key=txiptv&pla
 CCTV风云音乐,http://106.46.147.56:10443/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV高尔夫网球,http://59.32.97.183:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 
-卫视,#genre#
+卫视频道,#genre#
 
 东南卫视,http://1.197.127.166:10443/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://171.124.47.175:8899/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
