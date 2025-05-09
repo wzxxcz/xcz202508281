@@ -531,6 +531,12 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺自动采集",
+            "url": "https://live.izbds.com/tv/iptv4.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
         }, 
 	{
             "name": "📺优质央卫视",
