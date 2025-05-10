@@ -3421,6 +3421,14 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
+				"name": "🍊小橙子Cx4x",
+				"type": 0,
+				"url": "https://gh-proxy.com/https://raw.githubusercontent.com/Cx4x/xd/refs/heads/master/output/ipv4/result.txt",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
 				"name": "🍊小橙子hlw（密码8888）",
 				"type": 0,
 				"url": "https://codeberg.org/ghbzhx/qfbl/raw/branch/main/hlw.txt",
@@ -3592,6 +3600,14 @@
 				"name": "🍊优质央卫视",
 				"type": 0,
 				"url": "https://xcz.funly.us/优质央卫视.txt",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "🍊小橙子fhtv6",
+				"type": 0,
+				"url": "https://ltjm.37o.cc/jm/fhtv6.php",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
