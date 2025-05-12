@@ -3049,9 +3049,9 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "🍊小橙子v12",
+				"name": "🍊小橙子v25",
 				"type": 0,
-				"url": "http://8.138.7.223/v12.txt",
+				"url": "http://8.138.7.223/v25.txt",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -3076,6 +3076,14 @@
 				"name": "🍊小橙子alfy",
 				"type": 0,
 				"url": "http://alfy.djian.top/tv.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "🍊研究所体育(需梯子)",
+				"type": 0,
+				"url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
