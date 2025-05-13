@@ -419,6 +419,12 @@
             "remark": "本源由小橙子维护"
         },
 	{
+            "name": "📺小橙子APTV",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/refs/heads/master/m3u/iptv.m3u",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        }, 
+	{
             "name": "📺小橙子Cx4x",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Cx4x/xd/refs/heads/master/output/ipv4/result.txt",
             "type": 10,
@@ -727,12 +733,6 @@
 	{
             "name": "📺小橙子yoursmile66",
             "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt",
-            "type": 10,
-            "remark": "本源由小橙子维护"
-        }, 
-	{
-            "name": "📺小橙子APTV",
-            "url": "https://wget.la/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
             "type": 10,
             "remark": "本源由小橙子维护"
         }, 
