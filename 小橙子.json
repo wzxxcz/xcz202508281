@@ -1955,12 +1955,12 @@
   "filterable":1
 },
 {
-  "key": "悠悠",
+  "key": "大梦",
   "name": "🏆悠悠1080P",
   "type": 3,
   "api": "csp_AppGet",
   "jar": "https://xcz.funly.us/wzxm20250513.txt",
-  "ext": "sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKyisRVD3dX3O6Gp6eI50QK/b1ljvOYBDl+JqRwVQfcUQSM8vrh+mlBcTrvwF+gVaAWsvNW8jQQZf0K3/I/qJXQPUWmGE4fM0JKlDhFBVtEDYzfWMzOu40lTr/+guo8bJ6smivOCC7uQ2MArjDOj/vOScvoWqmIM2eesFSyClC/Qp9bCMZd4OOyCoe9MTI3RaBZE/IObZ0dMZZ6JgS5S5yal"
+  "ext": "sHR2rlsfjI4L3t4RXQMkn9QhUgBx3GxtTiVGKW2EUdoznFA44qgk+2UMgFRBsVPTy5Vuu99xqFetKxAP1cesStoS652zBvk45bfssFJss98/ortS2qhr2lA1mE/gUFVzB1F/NCkbvR04HM6/elu1JXMu1pzEwvZMFtqUQNyun+OtDwbiiVo1zTHngiWb/vgE"
 },
 {
   "key": "彼岸",
@@ -1974,9 +1974,10 @@
   "key": "再看",
   "name": "🔭再看1080P",
   "type": 3,
+  "quickSearch": 1,
   "api": "csp_AppGet",
   "jar": "https://xcz.funly.us/wzxm20250513.txt",
-  "ext": "sHR2rlsfjI4L3t4RXQMknz+i4ffRorIRZjjcJiBr38z7bvJQDA/gj8tVTCLdlHvgssqNDyUkkSbMM+DLFI84xCpUE24hJxHHQxh/6e5bg7jQ0uWTdELk4IH4xxKtfyyKWbccPYruj7hX+lPSpaWNjk1ibLuC4+KKQSKp68VHdSOka6yGYqgO2DLVooXxfsgtQ79Hg5Uc8KtD5/Oa6cAfcQ=="
+  "ext": "sHR2rlsfjI4L3t4RXQMknz+i4ffRorIRZjjcJiBr38wb5nwBciO6ms6RNqBIVi1QB7PRspm4f6MrvIOTd++7FMqkk2yG1eGTUUzyqIbYT58chQYyOMy+COm7unddRux9fFr5h0OEYTptHw9PnRiTV+JAXmIsIgUDKAamVsoOxAyhlMsA0WCzqY0OMMVhCnjjZNeioODGEF/HaKVwMC7i7GkxX/1SkEhN54oZYjGADVp/JQD55mycg7C8p5BmUHb0"
 },
 {
   "key": "巧技",
@@ -2113,7 +2114,6 @@
   "type": 3,
   "quickSearch": 1,
   "api": "csp_AppGet",
-  "jar": "https://xcz.funly.us/wzxm20250513.txt",
   "ext": "sHR2rlsfjI4L3t4RXQMknxNA7c6hcC3VanmE12u0Xu3CTtFtxRELPpvYrBPoXSST9rM4/zqxtg1ZlYdAfbBcu8j2ixF3Zl35t0r1NRL4FKDRtJIzUE6I7MVJAA2Q7brwZK+MVlV3Ya12XCFMmiAzIuP0q31Q3cWJWeBlJ/HkevUD3YrCzVx/d7ctov8ddn/OUS1xjTCIpJ+asEfpCWB+DTxkjbl8kfze+MSaichpJzQDMK2bWUphsOPryk49lVX7Gnm5A77V9sipi2ia5fPcYACDcbL9VXi31e2BvqNcvmE="
 },
 { 
