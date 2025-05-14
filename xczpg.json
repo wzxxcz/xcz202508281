@@ -3426,6 +3426,14 @@
                            }
                         },
 			{
+				"name": "🍊中天港澳体育",
+				"type": 0,
+				"url": "http://cccccccoccccccc.ccccocccc.cc/uploads/%E6%8A%AC%E6%89%9B_1.txt",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
 				"name": "🍊小橙子看电视",
 				"type": 0,
 				"url": "http://211.154.28.50:5898/2025.txt",
@@ -3637,6 +3645,14 @@
 				"name": "🍊优质央卫视",
 				"type": 0,
 				"url": "https://xcz.funly.us/优质央卫视.txt",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "🍊小橙子ipv4",
+				"type": 0,
+				"url": "https://www.iyouhun.com/tv/ipv4.txt",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
