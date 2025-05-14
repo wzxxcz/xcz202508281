@@ -17,8 +17,8 @@ CCTV-14 少儿,http://home.kuaidi521.com:35455/bptv/1000010000000005000000000387
 CCTV-15 音乐,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870757.m3u8
 CCTV-16 奥林匹克,http://home.kuaidi521.com:35455/bptv/10000100000000050000000004972604.m3u8
 CCTV-17 农业农村,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870758.m3u8
-CCTV-4 中文国际 欧洲,https://migu.188766.xyz/?migutoken=59d5663aeea41744db79eb178043a629&id=cctv4o&type=yy
-CCTV-4 中文国际 美洲,https://migu.188766.xyz/?migutoken=9aa0b0b9d23f64739841f1ba01d3a556&id=cctv4m&type=yy
+CCTV-4 中文国际 欧洲,https://migu1.188766.xyz/?migutoken=692f69aad40859676a360322ef8f6e64&id=cctv4o&type=yy
+CCTV-4 中文国际 美洲,https://migu1.188766.xyz/?migutoken=d2da1dada6a5da789fbfcee30887a9a0&id=cctv4m&type=yy
 卫视频道,#genre#
 湖南卫视,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873458.m3u8
 浙江卫视,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873464.m3u8
@@ -58,11 +58,12 @@ CCTV-4 中文国际 美洲,https://migu.188766.xyz/?migutoken=9aa0b0b9d23f647398
 厦门卫视,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887454.m3u8
 数字频道,#genre#
 BTV-重温经典,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887494.m3u8
-重温经典,https://migu.188766.xyz/?migutoken=d4899cf85ed0d342554e58851c2800cc&id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8
+重温经典,https://migu1.188766.xyz/?migutoken=47e1f27c713e7d8ce93171e55017fdc4&id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-CHC家庭影院,https://migu.188766.xyz/?migutoken=ff714842dd22536c9dec7233456b0199&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2
-CHC动作电影,https://migu.188766.xyz/?migutoken=e569c99436286603ac1517997f81d359&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
-东方影视,https://migu.188766.xyz/?migutoken=d8cab1e935e472789074ee8c198806b2&id=shys&type=yy
+CHC家庭影院,https://migu1.188766.xyz/?migutoken=ee63044606955784956af5849b6eb4f6&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2
+CHC动作电影,https://migu1.188766.xyz/?migutoken=0310607a892a8daa17634593943c0b98&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
+CHC影迷电影,https://migu1.188766.xyz/?migutoken=6107918f69622fa1994f54dffc739323&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1
+东方影视,https://migu1.188766.xyz/?migutoken=b5b6f774d679b6fda89d6b66fa1b8072&id=shys&type=yy
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
@@ -81,11 +82,11 @@ CHC动作电影,https://migu.188766.xyz/?migutoken=e569c99436286603ac1517997f81d
 淘娱乐,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887499.m3u8
 北京体育休闲,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870779.m3u8
 北京新闻,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870780.m3u8
-NBA经典,https://migu.188766.xyz/?migutoken=0bf14026a5d8704257df30ae17f3e2bd&id=nba&type=yy
-咪咕24小时体育台,https://migu.188766.xyz/?migutoken=68689c7922fd87711bac8937f22896ae&id=mgty&type=yy
-CETV-1,https://migu.188766.xyz/?migutoken=f9f2075f7fc51145761a63eb64320836&id=cetv1&type=yy
-CETV-2,https://migu.188766.xyz/?migutoken=3583862f6c2676030e2ed619327b33b5&id=cetv2&type=yy
-CETV-4,https://migu.188766.xyz/?migutoken=4998890eb626480cd97a58c5f42837e6&id=cetv4&type=yy
+NBA经典,https://migu1.188766.xyz/?migutoken=920c495c995ff0ca6e9de75e8a2833a2&id=nba&type=yy
+咪咕24小时体育台,https://migu1.188766.xyz/?migutoken=9eee317c8077af1be13a1246f8d3cf31&id=mgty&type=yy
+CETV-1,https://migu1.188766.xyz/?migutoken=5d0197e73942b6328314da12a59e6173&id=cetv1&type=yy
+CETV-2,https://migu1.188766.xyz/?migutoken=cd67a06f75003730668142d7749decc4&id=cetv2&type=yy
+CETV-4,https://migu1.188766.xyz/?migutoken=5e44774525b3ef9960c98fdfbcc022f5&id=cetv4&type=yy
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
@@ -94,7 +95,7 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 4K频道,#genre#
 北京IPTV4K,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887500.m3u8
-北京卫视4K,https://migu.188766.xyz/?migutoken=8cd732e22c6595fb35d8dfcac8bf4a61&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
+北京卫视4K,https://migu1.188766.xyz/?migutoken=9c4e43c8f682763928933269c3fb5d29&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
 咪咕体育-1,http://home.kuaidi521.com:35455/itv/3000000010000005180.m3u8
 咪咕国际4K-2,http://home.kuaidi521.com:35455/itv/3000000010000015686.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -231,19 +232,3 @@ NewTV超级综艺,http://39.137.75.234/000000001000/1000000004000023658/index.m3
 咪视通-43,http://home.kuaidi521.com:35455/itv/3000000010000025380.m3u8
 咪视通-44,http://home.kuaidi521.com:35455/itv/3000000010000027691.m3u8
 咪视通-45,http://home.kuaidi521.com:35455/itv/3000000010000031669.m3u8
-咪咕体育,#genre#
-[意甲]00:30 -联赛-威尼斯 vs 佛罗伦萨-张昊泽,https://migu1.188766.xyz/play?migutoken=a1727367589f5de30ed69887951a2a64&id=UtLeH2vlNwNMNwarEWXJqNcKIdoOBZU6C0WCgthitz6TevscXCK3vLnNbUnIURb2&name=OavNYFowLcrZdcZMTQeYY80mfQ%2BHZbsf0ka19IxNtYU%2B9TZtFf1C3y0ENylR2q%2BMXPjhiN02SZO1KnKvlLjmF2T0ItchTAzHi%2Fndisb3XzE%3D
-[意甲]00:30 -联赛-威尼斯 vs 佛罗伦萨-张昊泽,https://migu1.188766.xyz/play?migutoken=6158ce416ddcceb6e19b5ffefa70fdf4&id=YXqHDvfPZ21he3Icj7KLh46O9nUsscwPEVIpVJvkOJc5TOmaVJkBI8CNdl3idQKV&name=4gNRW01khagBwoJ%2Fof8pULQQ0M6%2BbHUfzAEH9sjRx0MdGibPicb6M2w09w%2B1qzNR7BnRSoaQhoADrchVuNU5QS16srtpxILgGvxQb7zRfd4%3D
-[意甲]02:45 -联赛-亚特兰大 vs 罗马-谭逸雄,https://migu1.188766.xyz/play?migutoken=620c50ee6dc6147fd5da85338853555a&id=s67Ue9CODITKC7v1sKJfNQdEbdqamBj47aGC5m7kKdLSOgK4ylQp1zSFD7Edh6hv&name=TYnlJXShzz6vzLaWWvn9UWwl19YBTW3Y4gMv5iDtZ6vdHgBaJWnVcvFXNfdY6%2FeoIjOMgt%2FARf9FYqCmo6PKglette%2Fu%2F1e39X4Y5K9NJI0%3D
-[NBA]07:30 -季后赛-凯尔特人VS尼克斯-蔡凯臣 季孟年 佳依,https://migu1.188766.xyz/play?migutoken=fdc7d65ad3cd2cbc284bcd9ece2b16ed&id=KNxzfDX1oLP1uMU7WZi4TJwyKnRA3bOwnrCQogna1M1w6BUADeRgpgwPcQSIUJnq&name=l3FVVQ71filPal52D21bypOFqYvQKtbch7vlL4TWQ%2FNSqVIphY%2Fn%2BGsxEi0ZoJ978vSze0qiQIF%2Blojv3zywL6D1c9QTWsR%2FR1Vgi6edTgM66IrwGfAtAZbX8LXaw%2F2K
-[NBA]07:30 -季后赛-凯尔特人VS尼克斯-英文原声,https://migu1.188766.xyz/play?migutoken=225f9e8643ac0640cb27193cbcaa098b&id=qk%2BErzRQG1ws%2BbHcTa0nEpBTmjLYT7ZhjXNXqGJcDzCGnlDRUyvx0jklXRKGPIp3&name=8H1SaHJGmMhSAj6hlGmr32Y7sBYEcSG65wKDQ3d7Zt42mLbHTBGcloYGaInNrLg0v%2B9IHqVLVjlFbGPBrZXu9LwUni77oPv%2BhJV50gaJ%2FA0%3D
-[NBA]10:00 -季后赛-森林狼VS勇士-连睿 李根 马健,https://migu1.188766.xyz/play?migutoken=396648e8a0ae0548b94eb98e57918315&id=0memhG%2FlFjjGdX5KSH9vpa4%2Fn0cFKNJySDwGo7eA0ZshbsVweIbF9Ax2hoIaxsZS&name=VapettbzWsKv0ZOJuD192BTXv%2Fq1JVQ1bL0nkVNAYk5EsV06s4FF%2BdxGF2uLCcLBqwcHGKaidA0v%2BRbjXco71xxCFp%2BsAUKSO%2BvAuU9g92U%3D
-[NBA]10:00 -季后赛-森林狼VS勇士-拜月宁,https://migu1.188766.xyz/play?migutoken=1013602982710da1b700a3b631392103&id=bCMN%2Bf22u6kxjwOnOCjSAG502LB09ptg1nSygjW5QmWveTLO8bhOj6Xc99pXkqJZ&name=gkdwONwZ878vH76RRpjGH3cnqjXbYgqK8SiKw2pLmfxAfz%2Bf6T1RRz7U6FaLLyc3q7Cc6oY9407B1VgW1EkYkYz2MW15NvNbeX%2FyzTfR58Q%3D
-[NBA]10:00 -季后赛-森林狼VS勇士-邢晨,https://migu1.188766.xyz/play?migutoken=83a1546cdafd6b833e40041948e419bb&id=GdKphnRzvkh7vIZolM9al3PUOws%2F02eLqeBswK9vG4%2F8dnxyVFrn4Vi1aGlgBrgp&name=EElyPXQ8704babblg6O%2BbbTlXVdVatvmDAI5TvqcEuIHvK8HtBgRrUq5il6qUOyuZDdUFZdMBufG0r%2BjaLaItQ%3D%3D
-[NBA]10:00 -季后赛-森林狼VS勇士-英文原声,https://migu1.188766.xyz/play?migutoken=dde8d3b264d5857cf16f110399c9ae0d&id=jUlAkLDBMkXduAeFH%2F2xosYKaoiNxPeF8XSM%2Ff6pe8lzE840avgknPnJi%2BvDy8lj&name=5hL0caUEFU191D5I52EpcpssacdZoKsb4f8KLxLS%2BbmjvPf7jIX6gZJbVfhFOkrPWvgJAFDtxP5u8dtIo5ef6P%2FDv7piXtyRD9BD8XT96gg%3D
-[多哈世乒赛]14:00 -【重温经典】世乒赛拾忆盲盒-重温世乒赛经典：焦灼日-重温经典,https://migu1.188766.xyz/play?migutoken=ab3475365cf650406eb1df4bc1ec2af7&id=CWHvq1mvtdkWVcm4AJNBgwdof7LPHIMV86%2Fti5Y8PTI5x4x29sNjoQx0HTKzNPxu&name=aSPO9OOSD5Yo%2BFW2iNkZ1e9r54tUevNmaMp6S34cghubXSG8E05dcbTzT7MjHvPeETlNF1pPntPSOI8qmjnOPXKdo12F0hZu%2BK1VWScAesGhMojaZFnHHXcziutou7XU9Q%2BUr4AZOBjWeA2TRv8k%2BSMNnbJ6DN9pZkt7rV6MVEw%3D
-[中乙]16:00 -联赛-广东铭途vs赣州瑞狮-解说,https://migu1.188766.xyz/play?migutoken=8827dd82f067b98a1a39f4f646da9895&id=8e1d3UlDyj59AWcgDeWhxDcACQnSxmZE8Uc7uCmC%2F9Xyz5HObracppH9CTS3ebk2&name=O0KbphtL35nF0gsF2Axm4RJ23MM3ZlEpngYCxL1YeRmgoi4lU%2Bi3bUlRKbtc8KISfaLjqeOBMfT3xMn8M7Hd91w%2B55P7DDhzet%2FbWGm6Bzk%3D
-[LPL]16:30 -BLG vs NIP-BLG vs NIP-官方解说,https://migu1.188766.xyz/play?migutoken=ad695f2b364a3d3ad3ed442b7e8a2e86&id=ECTbyo7uoDUBPWgWHlEMZ7jz4IVdLqz7YPJu7D8ipkl12KiN32g8%2F4EZzolCE6fr&name=HkCJV%2Bc9DyITAkIl3LeOY63zAAEYRunmp7UW8UN%2Bx8ja06WdJMajAadRPI5X9Kgg1kqWPwmwfXOINpeFbqNJSg%3D%3D
-[WTA]19:00 -罗马站1/4决赛第一日-罗马站1/4决赛第一日-清流播出,https://migu1.188766.xyz/play?migutoken=f6d2b8281d870dd51718b6c02fb0a57c&id=qbf6dSYfrR5bze%2BwhXqwOFd6SiQ075kU1pmzeXHgU20HiS0iOAN8SgMqcvmh3RD%2F&name=EUe07BStkulbrTfLV5Mv%2Bq2VrRUVN3z4BUH5%2ByOuWZo8Jn68c6WkTsUQ7kv45TeYk9D5BIh%2B4FLi7njtkxsV5JuvPQp3uIZ6VYgegHXtTFOX3nLUbwro44XUJoXAQhxcuTbgspYtVO7%2FM30jgfiiQw%3D%3D
-[WTA]19:00 -罗马站1/4决赛第一日-罗马站1/4决赛第一日-邱超,https://migu1.188766.xyz/play?migutoken=10dd38797e37a13e618cd44c2172d75e&id=YT8Re%2Fr96wUUz%2F5dU8KdY%2F2Lj2Tuhax0r6tjoIQ7lDonSM%2FcMK5WAjnlY4zED9n%2F&name=quDJ9ITI5BKNT3yx7tf%2FUdQhCTSQdGtiRO5gCgfRVERy9z3CzD3JZ0Rr2LnHF9NDIORBczaZYO2HK3FWdt0FwzWrOS2e1VVr8%2F4f%2FLvLJ7egzig3Nx9EHRO9GtmPd5bm
-[LPL]20:00 -JDG vs IG-JDG vs IG-官方解说,https://migu1.188766.xyz/play?migutoken=29087ca7ddaf1ec401fd239da8a30bc1&id=qUMYQgnaJ4fL4U%2Ff1pzdj%2BlqbluCFmoa9TvLkx7XLvhPTWGb%2FQBmMY2uHDF3hgkz&name=4H%2BowTqe%2B520oXce2oRHFQyqW%2B%2FQkUdlMab9o5qq%2BC5xzPfFzke5u7UoFS3KfCjdztjDsLWHClFYVv4gsTs%2B8w%3D%3D
