@@ -2417,9 +2417,9 @@
   "name":"🧿海纳影视",
   "type":3,
   "api":"csp_XBPQ",
-  "jar": "https://xcz.funly.us/wzxo20250512.php",	
+  "jar": "https://xcz.funly.us/wzxo20250512.php",
   "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/XBPQ/海纳影视.json"
-},	  
+},
 {
   "key": "csp_Gz360",
   "name": "🍉瓜子1080P",
@@ -2433,7 +2433,7 @@
   "name":"💡瓜子影视",
   "type":3,
   "api":"csp_Gz360",
-  "jar": "https://xcz.funly.us/wzxo20250512.php",	
+  "jar": "https://xcz.funly.us/wzxo20250512.php",
   "searchable":1,
   "quickSearch":1,
   "filterable":1
@@ -2468,10 +2468,16 @@
   "key":"格格",
   "name":"💡格格影视",
   "type":3,
-  "api":"csp_Xdai",
-  "jar": "https://xcz.funly.us/wzxo20250512.php",	
-  "playerType":2,
-  "ext":"jaHR0cDovLzExMS4xODAuMTk4LjQwOjExMTAvYXBpLnBocHxhc2djeGhqa3RzMTI0NTczfGFzZ2N4aGprdHMxMjQ1NzN8MTE5"
+  "quickSearch":1,
+  "api":"csp_AppGet",
+  "jar": "https://xcz.funly.us/wzxo20250512.php",
+  "ext":{
+	  "url":"http://111.180.198.40:1110",
+	  "dataKey":"asgcxhjkts124573",
+	  "dataIv":"asgcxhjkts124573",
+	  "deviceId":"",
+	  "version":"119"
+        }
 },
 {
   "key":"晴天",
@@ -2489,19 +2495,55 @@
         }
 },
 {
+  "key":"在看",
+  "name":"💡在看影视",
+  "type":3,
+  "quickSearch":1,
+  "api":"csp_AppGet",
+  "jar": "https://xcz.funly.us/wzxo20250512.php",
+  "ext":{
+	  "url":"http://149.88.64.161:9525",
+	  "dataKey":"123456789ABCDEFG",
+	  "dataIv":"123456789ABCDEFG",
+	  "deviceId":"","version":""
+        }
+},
+{
+  "key":"星河",
+  "name":"💡星河影视",
+  "type":3,
+  "quickSearch":1,
+  "api":"csp_AppGet",
+  "jar": "https://xcz.funly.us/wzxo20250512.php",
+  "ext":{
+	  "url":"http://121.62.22.204:9876",
+	  "dataKey":"f5e2tx53ykp6s2c9",
+	  "dataIv":"f5e2tx53ykp6s2c9",
+	  "deviceId":"",
+	  "version":"361"
+        }
+},
+{
   "key":"追忆",
   "name":"💡追忆影视",
   "type":3,
   "quickSearch":0,
   "api":"csp_AppMiTo",
-  "jar": "https://xcz.funly.us/wzxo20250512.php",	
+  "jar": "https://xcz.funly.us/wzxo20250512.php",
   "ext":{
 	  "url":"http://110.42.7.130:1866",
 	  "dataKey":"aassddwwxxllsx1x",
 	  "playKey":"1bada76e67e1e7f9",
 	  "version":"1.2.0"
         }
-},	  
+},
+{
+  "key":"三六零",
+  "name":"💡三六零视频",
+  "type":3,
+  "api":"csp_SP360",
+  "jar": "https://xcz.funly.us/wzxo20250512.php"
+},  
 {
   "key":"优质",
   "name":"💡优质影视",
@@ -2602,7 +2644,7 @@
   "type":3,
   "quickSearch":1,
   "api":"csp_AppGet",
-  "jar": "https://xcz.funly.us/wzxo20250512.php",	
+  "jar": "https://xcz.funly.us/wzxo20250512.php",
   "ext":{
 	  "url":"http://59.153.167.137:8899",
 	  "dataKey":"4d83b87c4c5ea111",
@@ -2680,6 +2722,17 @@
   "api": "csp_Wwys",
   "jar": "https://xcz.funly.us/wzxm20250513.txt",
   "ext": "https://www.wwgz.cn"
+},
+{
+  "key":"八号影视",
+  "name":"🧿八号影视",
+  "type":3,
+  "api":"csp_XYQHiker",
+  "jar": "https://xcz.funly.us/wzxo20250512.php",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/XYQHiker/八号影视.json"
 },
 {
   "key": "csp_Lgyy",
@@ -2821,7 +2874,7 @@
 },
 {
   "key":"猎手影视",
-  "name":"💡猎手影视",
+  "name":"🧡猎手影视",
   "type":3,
   "api":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/PY/猎手影视.py",
   "jar": "https://xcz.funly.us/wzxo20250512.php",
@@ -2833,7 +2886,7 @@
 },
 {
   "key":"火车影视",
-  "name":"💡火车影视",
+  "name":"🧡火车影视",
   "type":3,
   "api":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/PY/plugin/app/火车太顺APP.py",
   "jar": "https://xcz.funly.us/wzxo20250512.php",
@@ -3155,9 +3208,9 @@
   "name":"🍨雪糕影视",
   "type":3,
   "api":"csp_XBPQ",
-  "jar": "https://xcz.funly.us/wzxo20250512.php",	
+  "jar": "https://xcz.funly.us/wzxo20250512.php",
   "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/XBPQ/雪糕影视.json"
-},	  
+},
 {
   "key": "hipy_js_巨人影院",
   "name": "🍊巨人影视",
@@ -3537,7 +3590,7 @@
   "name":"🧿永乐影视",
   "type":3,
   "api":"csp_XBPQ",
-  "jar": "https://xcz.funly.us/wzxo20250512.php",	
+  "jar": "https://xcz.funly.us/wzxo20250512.php",
   "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/XBPQ/永乐影视.json"
 },
 {
@@ -3549,14 +3602,14 @@
   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/XBPQ/随客影视.json"
 },
 {
-  "key": "1905",
-  "name": "🍊1905影视",
-  "type": 3,
-  "api": "csp_Web1905",
-  "jar": "https://xcz.funly.us/xczsvip.jar",
-  "searchable": 1,
-  "quickSearch": 0,
-  "filterable": 0
+  "key":"1905",
+  "name":"💡1905影视",
+  "type":3,
+  "api":"csp_Web1905",
+  "jar": "https://xcz.funly.us/wzxo20250512.php",
+  "searchable":1,
+  "quickSearch":0,
+  "filterable":0
 },
 {
   "key": "极速资源",
