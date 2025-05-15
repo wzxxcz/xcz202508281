@@ -425,6 +425,12 @@
             "remark": "本源由小橙子维护"
         },
 	{
+            "name": "📺小橙子chuxinya",
+            "url": "https://chuxinya.top/f/jRjJHR/live.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
             "name": "📺小橙子APTV",
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/refs/heads/master/m3u/iptv.m3u",
             "type": 10,
@@ -623,6 +629,12 @@
             "remark": "本源由小橙子维护"
         },
 	{
+            "name": "📺小橙子zbds",
+            "url": "https://live.zbds.top/tv/iptv4.m3u",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
             "name": "📺小橙子IPV4",
             "url": "https://gitee.com/jin-xueling/lingl/raw/master/hu.txt",
             "type": 10,
@@ -721,6 +733,12 @@
 	{
             "name": "📺小橙子湖北经视",
             "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺小橙子湖北经视1",
+            "url": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
         },
