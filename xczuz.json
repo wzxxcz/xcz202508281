@@ -431,6 +431,18 @@
             "remark": "本源由小橙子维护"
         },
 	{
+            "name": "📺小橙子2025live",
+            "url": "http://211.154.28.50:5898/2025live.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺小橙子512",
+            "url": "http://tvbox.bplaced.net/index.php?key=512",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
             "name": "📺小橙子APTV",
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/refs/heads/master/m3u/iptv.m3u",
             "type": 10,
@@ -481,6 +493,12 @@
 	{
             "name": "📺小橙子咪咕体育",
             "url": "https://smart.pendy.dpdns.org/m3u/judy.m3u",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺小橙子咪咕体育1",
+            "url": "https://qu.ax/JtvsG.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
         },
@@ -595,6 +613,12 @@
 	{
             "name": "📺小橙子ipv4",
             "url": "https://www.iyouhun.com/tv/ipv4.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺小橙子繁华线",
+            "url": "https://gitee.com/qqyywb/250321/raw/master/123.json",
             "type": 10,
             "remark": "本源由小橙子维护"
         },
