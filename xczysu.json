@@ -389,12 +389,6 @@
             "remark": "本源由小橙子维护"
         },
 	{
-            "name": "📺Gather电视直播1",
-            "url": "https://tv.iill.top/json/Gather",
-            "type": 10,
-            "remark": "本源由小橙子维护"
-        },
-	{
             "name": "📺小橙子台湾",
             "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
             "type": 10,
