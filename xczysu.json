@@ -558,16 +558,10 @@
         },
 	{
             "name": "📺小橙子讴歌",
-            "url": "https://xn--dkw0c.v.nxog.top/m/tv/?tv.m3u",
+            "url": "https://xn--dkw0c.v.nxog.top/m/tv/?ou=207",
             "type": 10,
             "remark": "本源由小橙子维护"
         },
-	{
-            "name": "📺小橙子讴歌IPV6",
-            "url": "https://xn--dkw0c.v.nxog.top/m//tv/bjyd.php?tv.m3u",
-            "type": 10,
-            "remark": "本源由小橙子维护"
-        },      
 	{
             "name": "📺V6范明明（需开启V6网络）",
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
