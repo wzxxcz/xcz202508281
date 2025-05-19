@@ -389,6 +389,12 @@
             "remark": "本源由小橙子维护"
         },
 	{
+            "name": "📺Gather电视直播1",
+            "url": "https://tv.iill.top/json/Gather",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
             "name": "📺小橙子台湾",
             "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
             "type": 10,
@@ -469,6 +475,12 @@
 	{
             "name": "📺小橙子hlw（密码8888）",
             "url": "https://codeberg.org/ghbzhx/qfbl/raw/branch/main/hlw.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺小橙子pan",
+            "url": "http://pan.aa53.cn/down.php/5d88e3b534a976e9a95c39d7c5f2eec1.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
         },
@@ -731,14 +743,14 @@
             "remark": "本源由小橙子维护"
         },
 	{
-            "name": "📺AKTV",
-            "url": "https://aktv.space/live.m3u",
+            "name": "📺AKTV港台",
+            "url": "http://cccccccoccccccc.ccccocccc.cc/uploads/2_%E6%89%B9%E9%87%8F%E6%B8%AF%E5%8F%B0.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
         },
 	{
-            "name": "📺AKTV1",
-            "url": "http://wx.thego.cn/ak.m3u",
+            "name": "📺AKTV港台1",
+            "url": "https://www.lichenggang.asia/f/lg3ie/%E7%94%9F%E6%B4%BB.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
         },
@@ -787,6 +799,12 @@
 	{
             "name": "📺AKTV密码6688",
             "url": "https://11344.kstore.space/dd.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },  
+	{
+            "name": "📺AKTV123",
+            "url": "http://123.iptv6.icu/view.php/825c7e86e090bd17a6448db7d858281b.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
         },  
