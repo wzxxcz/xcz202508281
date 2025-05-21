@@ -353,8 +353,14 @@
             "remark": "本源由小橙子维护"
         }, 
 	{
-            "name": "📺小橙子专线",
+            "name": "📺小橙子专用电视",
             "url": "https://xcz.funly.us/xczzx.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        }, 
+	{
+            "name": "📺小橙子专用电视1",
+            "url": "https://www.iyouhun.com/tv/myIPTV/ipv4.m3u",
             "type": 10,
             "remark": "本源由小橙子维护"
         }, 
@@ -677,6 +683,12 @@
             "remark": "本源由小橙子维护"
         },
 	{
+            "name": "📺小橙子iptv",
+            "url": "https://www.iyouhun.com/tv/iptv-api/result.m3u",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
             "name": "📺小橙子国内fm",
             "url": "http://fmys.top/lib/xinghuo1.0.txt",
             "type": 10,
@@ -767,12 +779,6 @@
             "remark": "本源由小橙子维护"
         }, 
 	{
-            "name": "📺AKTV4",
-            "url": "http://123.iptv6.icu/view.php/825c7e86e090bd17a6448db7d858281b.txt",
-            "type": 10,
-            "remark": "本源由小橙子维护"
-        }, 
-	{
             "name": "📺AKTV6",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/cqshushu/tvjk/refs/heads/main/gt.txt",
             "type": 10,
@@ -793,6 +799,18 @@
 	{
             "name": "📺AKTV123",
             "url": "http://123.iptv6.icu/view.php/825c7e86e090bd17a6448db7d858281b.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        }, 
+	{
+            "name": "📺HK秒播",
+            "url": "http://is.is-great.org//ii/1747785577.txt",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },  
+	{
+            "name": "📺HK秒播1",
+            "url": "http://is.is-great.org//ii/1747666300.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
         },  
