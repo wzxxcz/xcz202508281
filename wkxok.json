@@ -112,6 +112,24 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
              },
 	     {
+                "name": "小橙子咪咕央卫视",
+                "type": 0,
+                "url": "http://gg.7749.org/z/i/赛事.txt",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+             },
+	     {
+                "name": "小橙子咪咕央卫视1",
+                "type": 0,
+                "url": "http://gg.7749.org/z/i/咪咕.txt",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+             },
+	     {
                 "name": "小橙子台湾",
                 "type": 0,
                 "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
@@ -384,15 +402,6 @@
 	        "name": "中天港澳体育",
                 "type":0,
  	        "url": "http://cccccccoccccccc.ccccocccc.cc/uploads/%E6%8A%AC%E6%89%9B_1.txt",
-                "ua": "okhttp/3.15",
-                "playerType": 1,
-                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
-	    },
-	    {
-	        "name": "小橙子看电视",
-                "type":0,
- 	        "url": "http://211.154.28.50:5898/2025.txt",
                 "ua": "okhttp/3.15",
                 "playerType": 1,
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -3357,6 +3366,20 @@
   "type": 3,
   "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
+},
+{
+  "key": "樱花影视",
+  "name": "🌸樱花影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+  "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://www.mydangao.com/vodshow/{cateId}//page/{catePg}.html",
+                "分类": "电影$dianying#电视剧$dsj#综艺$zongyi#动漫$dongman#爽文短剧$shuangwenduanju#4k电影$4kdianying#体育赛事$tiyusaishi",
+                "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
+        }
 },
 {
   "key": "可可影视",
