@@ -5,9 +5,9 @@
     "lives": [
 	     
 	      {
-                "name": "小橙子1",
+                "name": "小橙子1(密码188452)",
                 "type": 0,
-                "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/18资源丰富.txt",
+                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ZTHA000/tvbox/refs/heads/main/69/6fulibaxian.txt",
                 "playerType": 1,
                 "ua": "okhttp/3",
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -16,7 +16,7 @@
 	      {
                 "name": "小橙子2",
                 "type": 0,
-                "url": "https://git.acwing.com/Mix2025/0/-/raw/0/Mix1.txt",
+                "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/18资源丰富.txt",
                 "playerType": 1,
                 "ua": "okhttp/3",
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -25,7 +25,7 @@
 	      {
                 "name": "小橙子3",
                 "type": 0,
-                "url": "http://atryffad.usa3.345123.xyz/12.php",
+                "url": "https://git.acwing.com/Mix2025/0/-/raw/0/Mix1.txt",
                 "playerType": 1,
                 "ua": "okhttp/3",
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -34,6 +34,15 @@
 	      {
                 "name": "小橙子4",
                 "type": 0,
+                "url": "http://atryffad.usa3.345123.xyz/12.php",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+              },
+	      {
+                "name": "小橙子5",
+                "type": 0,
                 "url": "https://xcz.funly.us/sslivev.txt",
                 "playerType": 1,
                 "ua": "okhttp/3",
@@ -41,7 +50,7 @@
      		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
                },
 	       {
-                "name": "小橙子5",
+                "name": "小橙子6",
                 "type": 0,
                 "url": "https://xcz.funly.us/sslive.txt",
                 "playerType": 1,
@@ -50,7 +59,7 @@
      		    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
                },
 	       {
-                "name": "小橙子6",
+                "name": "小橙子7",
                 "type": 0,
                 "url": "http://tv-api.22ba6.top/live/xiangjiao.txt",
                 "playerType": 1,
