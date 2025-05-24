@@ -3576,11 +3576,11 @@
          }
 },
 {
-    "key": "🐷🐷【如意影院Pro",
-    "name": "🐷🐷┃如意影院3.0",
+    "key": "如意影院Pro",
+    "name": "🍊如意影院",
     "type": 3,
-    "api": "csp_RYV3",
-    "jar": "./lib/xyqxbpq_ryencrypt.jar",
+    "api": "csp_XBPQ",
+    "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
     "ext": {
         "请求头": "User-Agent$MOBILE_UA&X-Request-Sign=ry2024&Origin=https://m.hyfzt.com",
         "编码": "GBK",
