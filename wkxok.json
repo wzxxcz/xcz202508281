@@ -2698,7 +2698,7 @@
   "changeable": 1
 },
 {
-  "key": "兄弟",
+  "key": "",
   "name": "🍊水星多线",
   "type": 3,
   "api": "csp_AppSxGuard",
@@ -3608,11 +3608,11 @@
                 "播放标题": "✨+>&&</",
                 "简介": "✨乐哥为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text cor3\">&&</div>",
                 "搜索模式": "1",
-                "搜索url": "https://brovod.com/vod/{wd}----------{pg}---/",
+                "搜索url": "https://brovod.com/ss/{wd}----------{pg}---/",
                 "搜索数组": "list-exp&&</a",
                 "搜索标题": "alt=\"&&封面图",
                 "搜索图片": "data-src=\"&&\"",
-                "分类url": "https://brovod.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类url": "https://brovod.com/vod/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影$movie#电视剧$tv#综艺$show#动漫$cartoon#纪录片$documentary"
             }
         },
