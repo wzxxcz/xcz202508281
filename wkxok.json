@@ -3491,7 +3491,7 @@
          }
 },
 {
-  "key": "腾讯弹幕",
+  "key": "弹幕",
   "name": "🐧腾讯(官)",
   "type": 3,
   "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
