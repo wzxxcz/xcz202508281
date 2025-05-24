@@ -3591,17 +3591,7 @@
         "标题": "<h3@decode>",
         "副标题": "badge\">&&</span>@replace(热播->🔥)",
         "播放数组": "player-matrix&&</nav>",
-        "线路规则": "data-source=\"&&\"&filter=aliyun|aws",
-        "智能参数": "catePg=currentPage&year=pub_year",
-        "反爬策略": [
-            "img@replace(hyfzt.com->rycdn.vip)",
-            "!text@replace(免费->会员)",
-            "js@inject(RYAntiSpider.js)"
-        ],
-        "解析引擎": "@js:java.decryptSource(html)",
-        "播放预载": "preload=3&buffer=1.5",
-        "安全声明": "🚨如意安全中心：所有资源已启用DRM加密，禁止非法录屏！+tips-box\">&&</aside>",
-        "多CDN切换": "cdn1.ryvod.com|cdn2.rybak.com|cdn-eu.ryglobal.net"
+        "线路规则": "data-source=\"&&\"&filter=aliyun|aws"
     }
 },
 {
