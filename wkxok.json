@@ -3585,7 +3585,7 @@
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
         "图片": "src*src=\"&&\"",
-        "分类url": "https://www.hyfzt.com/vodshow/{cateId}/sort_{sort}/area_{area}/year_{year}/page_{catePg}.html",
+        "分类url": "https://www.hyfzt.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
         "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$5#蓝光$1-9#",
         "数组": "grid-module&&</article>",
         "标题": "<h3@decode>",
