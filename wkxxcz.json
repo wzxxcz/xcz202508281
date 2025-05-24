@@ -3019,6 +3019,17 @@
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742350342316/0319.jar;md5;b73ed98a0a285189794be3c8d9c3a335"
 },
 {
+  "key":"骚火影视",
+  "name":"🧿骚火影视",
+  "type":3,
+  "api":"csp_XYQHiker",
+  "jar": "https://xcz.iptv365.org/wzxo20250523.php",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/XYQHiker/骚火影视.json"
+},
+{
   "key": "米兔",
   "name": "🐰米兔1080P",
   "type": 3,
