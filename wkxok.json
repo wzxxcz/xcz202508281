@@ -3576,6 +3576,34 @@
          }
 },
 {
+    "key": "如意影院Pro",
+    "name": "🍊如意影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+    "ext": {
+        "请求头": "User-Agent$MOBILE_UA&X-Request-Sign=ry2024&Origin=https://m.hyfzt.com",
+        "编码": "GBK",
+        "图片": "_src=\"&&\"@replace(600x400->800x1200)",
+        "分类url": "https://www.hyfzt.com/vodshow/{cateId}/sort_{sort}/area_{area}/year_{year}/page_{catePg}.html",
+        "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$5#蓝光$1-9#",
+        "数组": "grid-module&&</article>",
+        "标题": "<h3@decode>",
+        "副标题": "badge\">&&</span>@replace(热播->🔥)",
+        "播放数组": "player-matrix&&</nav>",
+        "线路规则": "data-source=\"&&\"&filter=aliyun|aws",
+        "智能参数": "catePg=currentPage&year=pub_year",
+        "反爬策略": [
+            "img@replace(hyfzt.com->rycdn.vip)",
+            "!text@replace(免费->会员)",
+            "js@inject(RYAntiSpider.js)"
+        ],
+        "解析引擎": "@js:java.decryptSource(html)",
+        "播放预载": "preload=3&buffer=1.5",
+        "安全声明": "🚨如意安全中心：所有资源已启用DRM加密，禁止非法录屏！+tips-box\">&&</aside>",
+        "多CDN切换": "cdn1.ryvod.com|cdn2.rybak.com|cdn-eu.ryglobal.net"
+    },
+{
   "key": "可可影视",
   "name": "🍊可可影视",
   "type": 3,
