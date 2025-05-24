@@ -365,6 +365,18 @@
             "remark": "本源由小橙子维护"
         }, 
 	{
+            "name": "📺小橙子专用电视1备",
+            "url": "https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        }, 
+	{
+            "name": "📺小橙子专用电视备1",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        }, 
+	{
             "name": "📺小橙子专用电视2",
             "url": "http://live.nctv.top/x.txt",
             "type": 10,
