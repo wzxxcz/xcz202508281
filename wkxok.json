@@ -3591,20 +3591,6 @@
            }
 },
 {
-    "key": "海TV57",
-    "name": "🍊海TV57",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-             "请求头": "User-Agent$MOBILE_UA",
-             "编码": "UTF-8",
-             "图片": "src*src=\"&&\"",
-             "分类url": "https://brovod.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-             "分类": "电影$1#剧集$2#动漫$3#综艺$4#短剧$5#4K臻享$1-8#纪录片$6",
-             "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊+vod_content\">&&</div>"
-          }
-},
-{
   "key": "可可影视",
   "name": "🍊可可影视",
   "type": 3,
