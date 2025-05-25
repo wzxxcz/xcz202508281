@@ -3600,10 +3600,8 @@
               "请求头": "User-Agent$MOBILE_UA",
               "编码": "UTF-8",
               "图片": "data-original=\"&&\"",
-              "分类url": "https://www.bnjxjd.com/movie/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+              "分类url": "https://www.bnjxjd.com/vodshow/id/{cateId}/page/{catePg}.html",
               "分类": "电影$1#电视剧$2#综艺$3#动漫$4#",
-	      "数组":"stui-vodlist__thumb lazyload&&</a >",
-              "标题":"title=\"&&\"",
 	      "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
            }
 },
