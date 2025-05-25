@@ -3619,6 +3619,19 @@
              }
 },
 {
+      "key": "阳光影院",
+      "name": "🍊阳光影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+      "ext": {
+               "请求头": "User-Agent$MOBILE_UA",
+               "编码": "UTF-8",
+               "分类url": "https://www.m.yjbzh.com/zixun/{cateId}--------{catePg}---/",
+               "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+             }
+},
+{
   "key": "可可影视",
   "name": "🍊可可影视",
   "type": 3,
