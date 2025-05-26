@@ -3788,7 +3788,22 @@
                 "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
           }
 },
-
+{
+  "key": "兔兔影视",
+  "name": "🐇兔兔影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+  "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+	        "数组": "/tcv/&&</div>",
+	        "图片": "data-original=\"&&\"",
+                "分类url": "http://www.zjtccd.com/show/{cateId}--------{catePg}---.html",
+	        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$36",
+                "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
+          }
+},
 {
   "key": "可可影视",
   "name": "🍊可可影视",
