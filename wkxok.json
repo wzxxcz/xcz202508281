@@ -3766,7 +3766,8 @@
   "api": "csp_XBPQ",
   "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
   "ext": {
-                "编码": "UTF-8",
+                "请求头": "User-Agent$MOBILE_UA",
+	        "编码": "UTF-8",
 	        "线路数组": "fed-part-rows\">&&</ul>",
 	        "图片": "data-original=\"&&\"",
                 "分类url": "https://www.sm06.com/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}",
