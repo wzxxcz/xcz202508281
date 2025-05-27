@@ -3542,7 +3542,6 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组": "class=\"module-item-pic\"&&</a",
 	        "图片": "data-original=\"&&\"",
                 "分类url": "https://www.mydangao.com/vodshow/{cateId}//page/{catePg}.html",
                 "分类": "电影$dianying#电视剧$dsj#综艺$zongyi#动漫$dongman#爽文短剧$shuangwenduanju#4k电影$4kdianying#体育赛事$tiyusaishi",
