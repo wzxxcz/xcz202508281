@@ -3725,7 +3725,7 @@
               "编码": "UTF-8",
 	      "数组": "class=\"myui-vodlist__box\"&&</a",
 	      "图片": "data-original=\"&&\"",
-              "分类url": "https://www.kanying.pro/so/{cateId}-{area}-{by}--{lang}----{catePg}---{year}",
+              "分类url": "https://www.kanying.pro/so/{cateId}/{area}---{lang}----{catePg}---{year}/",
               "分类": "电影$movie#电视剧$tv#综艺$variety#动漫画$anime频道直播$live",
               "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
            }
