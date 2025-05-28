@@ -3206,7 +3206,7 @@
   "name": "🐌蜗牛影院",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -3278,7 +3278,7 @@
   "name": "🌸樱花影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -3295,7 +3295,7 @@
   "name": "🍊8号TV影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -3311,7 +3311,7 @@
   "name": "🍊乾坤影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
   "ext": {
 	        "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -3328,7 +3328,7 @@
     "name": "🍊我闲的追剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+    "jar": "https://xcz.iptv365.org/xczzx.jar",
     "ext": {
               "请求头": "User-Agent$MOBILE_UA",
               "编码": "UTF-8",
@@ -3345,7 +3345,7 @@
     "name": "🍊茶杯狐",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+    "jar": "https://xcz.iptv365.org/xczzx.jar",
     "ext": {
               "请求头": "User-Agent$MOBILE_UA",
               "编码": "UTF-8",
@@ -3364,7 +3364,7 @@
     "name": "🍊4KLIVE",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+    "jar": "https://xcz.iptv365.org/xczzx.jar",
     "ext": {
               "请求头": "User-Agent$MOBILE_UA",
               "编码": "UTF-8",
@@ -3381,7 +3381,7 @@
     "name": "🍊5点电影",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+    "jar": "https://xcz.iptv365.org/xczzx.jar",
     "ext": {
               "请求头": "User-Agent$MOBILE_UA",
               "编码": "UTF-8",
@@ -3404,7 +3404,7 @@
     "name": "🍊88影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+    "jar": "https://xcz.iptv365.org/xczzx.jar",
     "ext": {
               "请求头": "User-Agent$MOBILE_UA",
               "编码": "UTF-8",
@@ -3420,7 +3420,7 @@
     "name": "🍊看影网",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+    "jar": "https://xcz.iptv365.org/xczzx.jar",
     "ext": {
               "请求头": "User-Agent$MOBILE_UA",
               "编码": "UTF-8",
@@ -3439,7 +3439,7 @@
   "name": "🍊1817影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -3458,7 +3458,7 @@
   "name": "🦊红狐狸影院",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -3509,7 +3509,7 @@
   "name": "🍊天空影院",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -3523,7 +3523,7 @@
   "name": "🍉西瓜影院",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
   "ext": {
             "请求头": "User-Agent$MOBILE_UA",
             "编码": "UTF-8",
@@ -3540,7 +3540,7 @@
   "filterable": 1,
   "searchable": 1,
   "quickSearch": 1,
-  "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
   "ext":{
 	  "请求头": "User-Agent$MOBILE_UA",
          "编码": "UTF-8",
@@ -3553,7 +3553,7 @@
   "name": "🕊️火鸟影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
   "ext": {
 	  "请求头": "User-Agent$MOBILE_UA",
           "编码": "UTF-8",
@@ -3567,7 +3567,7 @@
   "name": "🤡大师兄影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
   "ext": {
            "请求头": "User-Agent$MOBILE_UA",
            "编码": "UTF-8",
@@ -3581,7 +3581,7 @@
   "name": "🍊光棍影院",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
   "ext": {
             "请求头": "User-Agent$MOBILE_UA",
             "编码": "UTF-8",
@@ -3786,7 +3786,7 @@
   "name": "🍊星空影院",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xyqxbpq.jar",
+  "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xczzx.jar",
   "ext": {
             "请求头": "User-Agent$MOBILE_UA",
             "编码": "UTF-8",
@@ -3800,7 +3800,7 @@
   "name": "🍊星河影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xyqxbpq.jar",
+  "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xczzx.jar",
   "ext": {
            "请求头": "User-Agent$MOBILE_UA",
            "编码": "UTF-8",
@@ -3862,7 +3862,7 @@
   "name":"🍊天堂影视",
   "type":3,
   "api":"csp_XBPQ",
-  "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xyqxbpq.jar",
+  "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xczzx.jar",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
@@ -3920,7 +3920,7 @@
   "key": "星云影视",
   "name": "🍊星云影视",
   "type": 3,
-  "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xyqxbpq.jar",
+  "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xczzx.jar",
   "api": "csp_XBPQ",
   "searchable": 1,
   "quickSearch": 1,
@@ -4055,7 +4055,7 @@
   "filterable": 1,
   "quickSearch": 1,        
   "api": "csp_XBPQ", 
-  "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xyqxbpq.jar",      
+  "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xczzx.jar",      
   "ext": {
            "请求头": "User-Agent$MOBILE_UA",
            "编码": "UTF-8",
@@ -4662,7 +4662,7 @@
   "name": "🍊短剧屋",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xyqxbpq.jar",
+  "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xczzx.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
