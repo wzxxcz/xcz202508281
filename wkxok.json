@@ -3695,7 +3695,8 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组":"/detail/&&</a>",
+	        "数组":"class=\"item\">&&</a>",
+	        "标题":"title=\"&&\"",
 	        "图片": "data-original=\"&&\"",
                 "分类url": "https://honghuli.com/show/{cateId}----{lang}----{catePg}---{year}.html",
 	        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#",
