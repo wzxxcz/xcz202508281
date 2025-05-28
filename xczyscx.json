@@ -105,7 +105,7 @@
 	     {
                 "name": "小橙子专线港澳",
                 "type": 0,
-                "url": "https://pan.baidu.re/down.php/6a4917f92a37099ec24394d1e76ff7ba.txt",
+                "url": "http://zozo8.tbit.top//i/?T=ww",
                 "playerType": 1,
                 "ua": "okhttp/3",
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -115,6 +115,24 @@
                 "name": "小橙子专线港澳1",
                 "type": 0,
                 "url": "http://zozo.work.gd/ys/i/?QQ=100",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+             },
+	     {
+                "name": "小橙子专线港澳2",
+                "type": 0,
+                "url": "http://zozo8.tbit.top//i/?T=oo",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+             },
+	     {
+                "name": "小橙子专线港澳3",
+                "type": 0,
+                "url": "http://zozo8.tbit.top//i/?T=dd",
                 "playerType": 1,
                 "ua": "okhttp/3",
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -2698,7 +2716,7 @@
   "api": "csp_AppGet",
   "jar": "https://xcz.iptv365.org/wzxm20250513.txt",
   "ext": "sHR2rlsfjI4L3t4RXQMkn97DqO5wP33F1y10iaPo6JFu7Gir00j3R0d6YiQaenvx6EGiBJ/LlFQxikHgxre5aUQs2IWp/rVBIYH9Z5N2lw6Wr6XNDhBuprneT4IeVDEibuFC81JN91ioyOFhZ0Eay51Y9BbamMP6wCWeW6UKiIOLLKTzVCa8r7ptIZGmX6oDimujZatCIppyCf81QNmW2g=="
-},	  
+},
 {
   "key": "再看",
   "name": "🔭再看1080P",
@@ -3264,11 +3282,14 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-                "分类url": "https://www.mydangao.com/vodshow/{cateId}//page/{catePg}.html",
+	        "数组":"/voddetail/&&</a>",
+	        "图片":"data-original=\"&&\"",
+	        "链接":"/voddetail/+&&\"",
+                "分类url": "https://www.mydangao.com/vodshow/{cateId}/area/{area}/lang/{lang}/page/{catePg}/year/{year}.html",
                 "分类": "电影$dianying#电视剧$dsj#综艺$zongyi#动漫$dongman#爽文短剧$shuangwenduanju#4k电影$4kdianying#体育赛事$tiyusaishi",
-                "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
+                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
         }
-},
+},  
 {
   "key": "8号TV影视",
   "name": "🍊8号TV影视",
@@ -3278,9 +3299,11 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-                "分类url": "https://www.8haotv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+	        "数组": "class=\"stui-vodlist__box\"&&</a",
+	        "图片": "data-original=\"&&\"",
+                "分类url": "https://www.8haotv.com/vodshow/{cateId}-{area}-------{catePg}---{year}/",
                 "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman#爽文短剧$shuangwenduanju#",
-                "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
+                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
         }
 },
 {
@@ -3292,9 +3315,12 @@
   "ext": {
 	        "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-                "分类url": "https://www.qiankun.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+	        "数组":"/voddetail/&&</a>",
+	        "图片": "data-original=\"&&\"",
+	        "链接":"/voddetail/+&&\"",
+                "分类url": "https://www.qiankun.tv/vodshow/{cateId}--------{catePg}---{year}.html",
                 "分类": "电影$movie#电视$tv#综艺$variety#动漫$anime#短剧$playlet#",
-                "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
+                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
          }
 },
 {
@@ -3306,10 +3332,12 @@
     "ext": {
               "请求头": "User-Agent$MOBILE_UA",
               "编码": "UTF-8",
+	      "数组":"/voddetail/&&</a>",
               "图片": "data-original=\"&&\"",
-              "分类url": "https://tv3.woxian.de/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}",
+	      "链接":"/voddetail/+&&\"",
+              "分类url": "https://tv3.woxian.de/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}/",
               "分类": "电影$1#连续剧$2#综艺$3#动漫$4#",
-	      "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
+	      "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
            }
 },
 {
@@ -3321,25 +3349,14 @@
     "ext": {
               "请求头": "User-Agent$MOBILE_UA",
               "编码": "UTF-8",
-              "图片": "data-original=\"&&\"",
-              "分类url": "https://www.bnjxjd.com/movie/{cateId}/page/{catePg}.html",
+	      "数组": "class=\"stui-vodlist__box\"&&</a",
+	      "图片": "data-original=\"&&\"",
+	      "标题": "title=\"&&\"",
+	      "链接": "href=\"&&\"",
+	      "副标题": "<span class=\"pic-text text-right\">&&</span>",
+              "分类url": "https://www.bnjxjd.com/vodshow/{cateId}/{area}/lang/{lang}/page/{catePg}/{year}/2023.html",
               "分类": "电影$1#电视剧$2#综艺$3#动漫$4#",
-	      "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
-           }
-},
-{
-    "key": "影视大全",
-    "name": "🍊影视大全",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
-    "ext": {
-              "请求头": "User-Agent$MOBILE_UA",
-              "编码": "UTF-8",
-              "图片": "data-original=\"&&\"",
-              "分类url": "https://www.bcaga.com/ysdqm/{cateId}-{area}-{by}--{lang}----{catePg}---{year}",
-              "分类": "电影$1#电视剧$2#综艺$3#动漫$4#专题$5#",
-	      "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
+	      "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
            }
 },
 {
@@ -3351,10 +3368,12 @@
     "ext": {
               "请求头": "User-Agent$MOBILE_UA",
               "编码": "UTF-8",
+	      "数组":"/voddetail/&&</a>",
               "图片": "data-original=\"&&\"",
-              "分类url": "https://www.4k4k.live/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}",
+	      "链接":"/voddetail/+&&\"",
+              "分类url": "https://www.4k4k.live/vodshow/{cateId}----{lang}----{catePg}---{year}/",
               "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-              "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
+              "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
            }
 },
 {
@@ -3366,40 +3385,18 @@
     "ext": {
               "请求头": "User-Agent$MOBILE_UA",
               "编码": "UTF-8",
-              "图片": "data-original=\"&&\"",
-              "分类url": "https://www.5.movie/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}",
-              "分类": "电影$1#剧集$2#短剧$3#动漫$4综艺$5",
-              "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
-           }
-},
-{
-    "key": "努努影院",
-    "name": "🍊努努影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
-    "ext": {
-              "请求头": "User-Agent$MOBILE_UA",
-              "编码": "UTF-8",
-              "图片": "data-original=\"&&\"",
-              "分类url": "http://www.njpengde.com/show/{cateId}-{area}-{by}--{lang}----{catePg}---{year}",
-              "分类": "电影$1#电视剧$2#综艺$3#动漫$4伦理片$5日韩$6",
-              "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
-           }
-},
-{
-    "key": "奈飞影视",
-    "name": "🍊奈飞影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
-    "ext": {
-              "请求头": "User-Agent$MOBILE_UA",
-              "编码": "UTF-8",
-              "图片": "data-original=\"&&\"",
-              "分类url": "https://www.naifei.wiki/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}",
-              "分类": "电影$1#电视剧$2#综艺$3#动漫$4短剧$5",
-              "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
+	      "数组":"/voddetail/&&</a>",
+              "图片": "data-original=\"&&\"[替换:amp;>>空]",
+	      "链接":"/voddetail/+&&\"",
+	      "线路数组":"\\#ewave-playlist&&</li>",
+              "线路标题":">&&<",
+	      "播放数组":"ewave-playlist-content&&</ul>",
+              "播放列表":"<a&&/a>",
+              "播放标题":">&&<",
+              "播放链接":"href=\"&&\"",
+              "分类url": "https://www.5.movie/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
+              "分类": "电影$20#剧集$21#短剧$24#动漫$22综艺$23资讯$26",
+              "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
            }
 },
 {
@@ -3411,12 +3408,69 @@
     "ext": {
               "请求头": "User-Agent$MOBILE_UA",
               "编码": "UTF-8",
+	      "数组": "class=\"ewave-vodlist__box\"&&</a",
 	      "图片": "data-original=\"&&\"",
-              "分类url": "https://m.libracarbon.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}",
-              "分类": "电影$1#电视剧$2#综艺$3#动漫$4短剧$5动漫片$6",
-              "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
+              "分类url": "https://m.libracarbon.com/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
+              "分类": "电影$1#电视剧$2#综艺$3#动漫$4短剧$31动漫片$25",
+              "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
            }
-},	  	  
+},	  
+{
+    "key": "看影网",
+    "name": "🍊看影网",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+    "ext": {
+              "请求头": "User-Agent$MOBILE_UA",
+              "编码": "UTF-8",
+	      "数组": "class=\"myui-vodlist__box\"&&</a",
+	      "图片": "data-original=\"&&\"",
+	      "标题": "title=\"&&\"",
+	      "链接": "href=\"&&\"",
+	      "副标题": "<span class=\"pic-text text-right\">&&</span>",
+              "分类url": "https://www.kanying.pro/so/{cateId}/{area}---{lang}----{catePg}---{year}/",
+              "分类": "电影$movie#电视剧$tv#综艺$variety#动漫画$anime频道直播$live",
+              "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
+           }
+},
+{
+  "key": "1817影视",
+  "name": "🍊1817影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+  "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+	        "数组":"hl-list-item&&</li>",
+	        "标题":"title=\"&&\"",
+	        "图片": "data-original=\"&&\"",
+	        "副标题":"remarks\">&&</span>",
+                "链接":"href=\"&&\"",
+                "分类url": "https://sn1817.com/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
+	        "分类": "电影$1#电视剧$2#动漫$3#综艺$4#番剧$66#",
+                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
+          }
+},
+{
+  "key": "红狐狸影院",
+  "name": "🦊红狐狸影院",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+  "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+	        "数组":"class=\"item\">&&</a>",
+	        "标题":"title=\"&&\"",
+	        "图片": "data-original=\"&&\"",
+	        "链接":"href=\"&&\"",
+                "分类url": "https://honghuli.com/show/{cateId}----{lang}----{catePg}---{year}.html",
+	        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#",
+                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
+          }
+},
 {
   "key": "可可影视",
   "name": "🍊可可影视",
