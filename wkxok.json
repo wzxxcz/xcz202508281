@@ -3705,28 +3705,22 @@
           }
 },
 {
-  "key": "兔兔影视",
-  "name": "🐇兔兔影视",
+  "key": "可可影视",
+  "name": "🍊可可影视",
   "type": 3,
   "api": "csp_XBPQ",
   "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组": "/tcv/&&</div>",
+	        "数组":"class=\"menu-item\">&&</a>",
+	        "标题":"title=\"&&\"",
 	        "图片": "data-original=\"&&\"",
-                "分类url": "http://www.zjtccd.com/show/{cateId}--------{catePg}---.html",
-	        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$36",
-                "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
+	        "链接":"href=\"&&\"",
+                "分类url": "https://www.kkys01.com/show/{cateId}--{area}-{lang}-{year}-page-{catePg}.html",
+	        "分类": "电影$1#连续剧$2#动漫$3#综艺纪录$4#短剧$6#",
+                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
           }
-},
-{
-  "key": "可可影视",
-  "name": "🍊可可影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.iptv365.org/xczsvip.jar",
-  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/XBPQ/可可影视.json"
 },
 {
   "key": "剧圈圈",
