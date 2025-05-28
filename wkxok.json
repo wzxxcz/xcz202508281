@@ -3676,7 +3676,7 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组":"/voddetail/&&</a>",
+	        "数组":"hl-list-item&&</li>",
 	        "图片": "data-original=\"&&\"",
                 "分类url": "https://sn1817.com/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
 	        "分类": "电影$1#电视剧$2#动漫$3#综艺$4#番剧$66#",
