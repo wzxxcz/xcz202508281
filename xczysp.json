@@ -3528,7 +3528,43 @@
 	        "分类": "电影$2#电视剧$3#动漫$4#综艺$5#体育$6#",
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
           }
-},	  
+},
+{
+  "key": "7点电影",
+  "name": "🍊7点电影",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
+  "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+	        "数组":"lazyload&&</li>", 
+	        "标题":"title=\"&&\"",
+	        "图片": "data-original=\"&&\"[替换:amp;>>空]",
+	        "链接":"href=\"&&\"",
+                "分类url": "https://www.7.movie/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
+	        "分类": "电影$20#剧集$21#短剧$24#动漫$22#综艺$23#",
+                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
+          }
+},
+{
+  "key": "星空影院",
+  "name": "🍊星空影院",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
+  "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+	        "数组":"class=\"stui-vodlist__box\">&&</a>",
+	        "标题":"title=\"&&\"",
+	        "图片": "data-original=\"&&\"",
+	        "链接":"href=\"&&\"",
+                "分类url": "https://jcc-mc.net/show/{cateId}--------{catePg}---.html",
+	        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#",
+                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
+          }
+},	  	  
 {
   "key": "可可影视",
   "name": "🍊可可影视",
