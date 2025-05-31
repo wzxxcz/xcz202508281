@@ -2953,11 +2953,12 @@
   "name": "🍊8号TV影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://xcz.iptv365.org/",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
 	        "数组": "class=\"stui-vodlist__box\"&&</a",
+	        "标题": "title=\"&&\"",
 	        "图片": "data-original=\"&&\"",
                 "分类url": "https://www.8haotv.com/vodshow/{cateId}-{area}-------{catePg}---{year}/",
                 "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman#爽文短剧$shuangwenduanju#",
