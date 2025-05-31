@@ -3264,7 +3264,7 @@
                 "编码": "UTF-8",
 	        "数组":"/detail/&&</a>",
 	        "标题":"title=\"&&\"",
-	        "图片": "data-original=\"&&\"[替换:amp;>>空]",
+	        "图片": "data-original=\"&&\"",
 	        "链接":"/detail/+&&\"",
                 "分类url": "http://v.tkbot.fun/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
 	        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$6#纪录片$7#体育赛事$8#",
