@@ -3257,19 +3257,16 @@
   "key": "米兔",
   "name": "🐰米兔1080P",
   "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.iptv365.org/xczzx.jar",
+  "quickSearch": 1,
+  "api": "csp_AppGet",
+  "jar": "https://xcz.iptv365.org/xczxs.jar",
   "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-	        "数组":"/detail/&&</a>",
-	        "标题":"title=\"&&\"",
-	        "图片": "data-original=\"&&\"",
-	        "链接":"/detail/+&&\"",
-                "分类url": "http://v.tkbot.fun/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-	        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$6#纪录片$7#体育赛事$8#",
-                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
-          }
+          "url": "http://v.tkbot.fun",
+          "dataKey": "d032c12876bc6848",
+          "dataIv": "d032c12876bc6848",
+          "deviceId": "",
+          "version": "200"
+        }
 },
 {
   "key": "玉米",
