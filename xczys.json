@@ -2935,11 +2935,12 @@
   "name": "🌸樱花影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://xcz.iptv365.org/",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
 	        "数组":"/voddetail/&&</a>",
+	        "标题": "title=\"&&\"",
 	        "图片":"data-original=\"&&\"",
 	        "链接":"/voddetail/+&&\"",
                 "分类url": "https://www.mydangao.com/vodshow/{cateId}/area/{area}/lang/{lang}/page/{catePg}/year/{year}.html",
