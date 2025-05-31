@@ -3618,7 +3618,7 @@
 	      "标题": "title=\"&&\"",
 	      "链接": "href=\"&&\"",
 	      "副标题": "<span class=\"pic-text text-right\">&&</span>",
-              "分类url": "https://www.bnjxjd.com/vodshow/{cateId}/{area}/lang/{lang}/page/{catePg}/year/{year}.html",
+              "分类url": "https://www.bnjxjd.com/movie/{cateId}-{year}.html",
               "分类": "电影$fenlei1#电视剧$fenlei2#综艺$fenlei3#动漫$fenlei4#",
 	      "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
            }
