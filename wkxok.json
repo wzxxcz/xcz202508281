@@ -4085,15 +4085,23 @@
         }
 }, 
 {
-            "key": "csp_appys_臻彩",
-            "name": "臻彩世界",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://cms.lygdyy.cn/api.php/app/"
-        },
+  "key": "糯米影视",
+  "name": "🍊糯米影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
+  "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+	        "数组":"class=\"li_li clearfix\">&&</a>",
+	        "标题":"title=\"&&\"",
+	        "图片": "src=\"&&\"",
+	        "链接":"href=\"&&\"",
+                "分类url": "https://www.nuomiysa.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+	        "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman#",
+                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
+          }
+},
 {
   "key": "可可影视",
   "name": "🍊可可影视",
