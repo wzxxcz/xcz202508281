@@ -4205,6 +4205,7 @@
 	    "图片":"data-original=\"&&\"",
 	    "链接":"href=\"&&\"",
 	    "线路数组": "<a class=\"titleName&&</a>",
+	    "线路标题": "swiper-slide\">&&<",
 	    "播放数组": "<ul class=\"content_playlist&&</ul>",
             "播放列表": "<li&&</li>",
             "播放标题": ">&&</a>",
