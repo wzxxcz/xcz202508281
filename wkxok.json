@@ -4193,7 +4193,7 @@
   "ext": {
             "请求头": "User-Agent$MOBILE_UA",
             "编码": "UTF-8",
-	    "数组":"class=\"movie-info\">&&</div>",
+	    "数组":"movie-info</div>",
 	    "标题": "title=\"&&\"",
 	    "图片":"data-original=\"&&\"",
 	    "链接":"href=\"&&\"",
