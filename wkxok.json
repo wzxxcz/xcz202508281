@@ -4195,7 +4195,7 @@
             "编码": "UTF-8",
 	    "数组":"lazyload&&</div>",
 	    "标题": "title=\"&&\"",
-	    "图片":"data-src=\"&&\"",
+	    "图片":"data-original=\"&&\"",
 	    "链接":"href=\"&&\"",
             "分类": "电影$20#连续剧$37#动漫$43#综艺$45#B站$47#体育$52",
             "分类url": "https://www.a6club.com/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
