@@ -4116,7 +4116,7 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组":"public-list-div&&</div>",
+	        "数组": "class=\"lazy lazy1&&/div></div>",
 	        "标题": "title=\"&&\"",
 	        "图片":"data-src=\"&&\"",
 	        "链接":"href=\"&&\"",
