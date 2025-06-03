@@ -3533,7 +3533,7 @@
 	        "标题": "title=\"&&\"",
 	        "图片":"data-original=\"&&\"",
 	        "链接":"/voddetail/+&&\"",
-	        "线路数组": "<a class=\"module-play-list-link&&</a>",
+	        "线路数组": "<div class=\"module-tab-item&&</div>",
 	        "播放数组": "<div class=\"module-play-list-content&&</div>",
                 "播放列表": "<a&&</a>",
                 "播放标题": ">&&</a>",
