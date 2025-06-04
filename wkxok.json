@@ -3558,6 +3558,13 @@
 	        "标题": "title=\"&&\"",
 	        "图片": "data-original=\"&&\"",
 	        "链接": "href=\"&&\"",
+	        "线路数组": "<h3 class=\"title&&</div>",
+	        "线路标题": "<h3>&&<",
+	        "播放数组": "<div class=\"module-play-list-content&&</div>",
+                "播放列表": "<a&&</a>",
+                "播放标题":"<span>&&<",
+                "播放链接": "href=\"&&\"",
+	        "跳转播放链接": "var player_*\"url\":\"&&\"",
                 "分类url": "https://www.8haotv.com/vodshow/{cateId}-{area}-------{catePg}---{year}/",
                 "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman#爽文短剧$shuangwenduanju#",
                 "简介": "🍊小橙子为您介绍剧情👉+left text-muted\">&&</p>"
