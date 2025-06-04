@@ -4239,7 +4239,6 @@
             "编码": "UTF-8",
 	    "数组": "class=\"movie-list-item\"&&</a",
 	    "标题": "title=*>&&<", 
-	    "副标题": "<div class=\"movie-title\">&&</div>",
 	    "图片":"data-original=\"&&\"",
 	    "链接":"href=\"&&\"",
 	    "线路数组": "<a class=\"titleName&&</a>",
