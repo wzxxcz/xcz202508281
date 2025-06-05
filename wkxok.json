@@ -3633,7 +3633,7 @@
 	        "副标题": "<span>&&</span>", 
 	        "图片":"data-src=\"&&\"",
 	        "链接": "href=\"&&\"",
-	        "线路数组": "<a class=\"module-tab-item tab-item/a>",
+	        "线路数组": "<a class=\"module-tab-item&&/a>",
 	        "线路标题": "</a>&&<",
 	        "播放数组": "<a onclick=\"topLine(event)&&</a>",
                 "播放列表": "<li&&</a>",
