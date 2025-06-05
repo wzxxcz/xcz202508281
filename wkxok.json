@@ -3600,7 +3600,7 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组":"<li class=\"hl-list-item hl-col-xs-4 hl-col-sm-3 hl-col-md-20w hl-col-lg-2&&</li>",
+	        "数组":"<a class=\"hl-item-thumb hl-lazy&&</a>",
 	        "标题": "title=\"&&\"",
 	        "副标题": "<span class=\"hl-lc-1 remarks\">&&</span>", 
 	        "图片":"data-original=\"&&\"",
