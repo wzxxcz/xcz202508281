@@ -3619,7 +3619,7 @@
                 "简介": "🍊小橙子为您介绍剧情👉+hl-text-muted\">&&</div>"
         }
 },  	  	  
-{
+ {
             "key": "第一剧场",
             "name": "🍊第一剧场",
             "type": 3,
@@ -3628,9 +3628,10 @@
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-                "数组": "<div class=\"module-item\"&&</div",
+                "二次截取": "module-items\"&&id=\"page[替换:module-footer>>module-item]",
+                "数组": "module-item-pic&&module-item\"",
                 "标题": "title=\"&&\"",
-                "副标题": "<span>&&</span>",
+                "副标题": "item-text\">&&<",
                 "图片": "data-src=\"&&\"",
                 "链接": "href=\"&&\"",
                 "线路数组": "data-dropdown&&</a>",
