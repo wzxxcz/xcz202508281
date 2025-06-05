@@ -3628,10 +3628,9 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组":"<div class=\"module-item-titlebox&&</div>",
+	        "数组": "class=\"module-item-cover\"&&</a",
 	        "标题": "title=\"&&\"",
-	        "副标题": "<span>&&</span>", 
-	        "图片":"src=\"&&\"",
+	        "图片":"data-src=\"&&\"",
 	        "链接": "href=\"&&\"",
 	        "线路数组": "<a class=\"module-tab-item tab-item&&/a>",
 	        "线路标题": "</a>&&<",
