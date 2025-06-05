@@ -3601,7 +3601,7 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组":"module-item-pic&&class=\"loading\"",
+	        "数组":"<a class=\"hl-item-thumb hl-lazy&&</a>",
 	        "标题": "title=\"&&\"",
 	        "副标题": "<span class=\"hl-lc-1 remarks\">&&</span>", 
 	        "图片":"data-original=\"&&\"",
@@ -3618,7 +3618,7 @@
                 "分类": "电影$1#电视剧$2#动漫$3#综艺$4#番剧$66#",
                 "简介": "🍊小橙子为您介绍剧情👉+hl-text-muted\">&&</div>"
         }
-},  
+},  	  	  
 {
   "key": "第一剧场",
   "name": "🍊第一剧场",
@@ -3628,9 +3628,8 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组":"<div class=\"module-item-content&&</a>",
+	        "数组":"module-item-pic&&class=\"loading\"",
 	        "标题": "title=\"&&\"",
-	        "副标题": "<span>&&</span>",
 	        "图片":"data-src=\"&&\"",
 	        "链接": "href=\"&&\"",
 	        "线路数组": "<a class=\"module-tab-item tab-item&&/a>",
