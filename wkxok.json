@@ -3752,7 +3752,7 @@
 	        "链接":"/voddetail/+&&\"",
                 "分类url": "https://www.qiankun.tv/vodshow/{cateId}--------{catePg}---{year}.html",
                 "分类": "电影$movie#电视$tv#综艺$variety#动漫$anime#短剧$playlet#",
-	        "简介": "🍊小橙子为您介绍剧情👉+"<p>&&</p>"
+	        "简介": "🍊小橙子为您介绍剧情👉+module-info-introduction-content\">&&</div>"
          }
 },
 {
