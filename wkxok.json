@@ -3647,30 +3647,29 @@
             }
 },
 {
-            "key": "飞飞影视",
-            "name": "🍊飞飞影视",
+            "key": "老鹰影院",
+            "name": "🦅老鹰影院",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://xcz.iptv365.org/xczzx.jar",
             "ext": {
                       "请求头": "User-Agent$MOBILE_UA",
                       "编码": "UTF-8",
-                      "数组": "<div class=\"module-item\"&&</div",
+                      "数组": "div class=\"rsveh916 myui-vodlist__box\"&&</div",
                       "标题": "title=\"&&\"",
-                      "副标题": "<span>&&</span>",
-                      "图片": "data-src=\"&&\"",
+                      "副标题": "<span class=\"lmshe916 pic-text text-right\">&&</span>", 
+                      "图片": "data-original=\"&&\"",
                       "链接": "href=\"&&\"",
-                      "线路数组": "data-dropdown&&</a>",
+                      "线路数组": "data-toggle&&</a>",
                       "线路标题": ">&&</",
-                      "播放数组": "sort-item\"&&</div>",
+                      "播放数组": "<ul class=\"tsgeb916 myui-content__list scrollbar&&</ul>",
                       "播放列表": "<a&&</a>",
-                      "播放标题": "<span>&&</span>",
+                      "播放标题": ">&&</a>",
                       "播放链接": "href=\"&&\"",
-                      "跳转播放链接": "var player_*\"url\":\"&&\"",
-                      "搜索url": "https://www.kaixinfang.com/vodsearch/{wd}----------{pg}---.html",
-                      "分类url": "https://www.kaixinfang.com/vodshow/{cateId}--------{catePg}---{year}.html",
-                      "分类": "线上影院$1#连续剧$2#综艺$3#动漫#",
-                      "简介": "🍊小橙子为您介绍剧情👉+module-item-style video-text\">&&</div>"
+                      "搜索url": "https://www.lmkz66.com/search.php?page={pg}&searchword={wd}&searchtype=",
+                      "分类url": "https://www.lmkz66.com/search.php?page={catePg}&searchtype=5&yuyan={lang}&tid={cateId}&jq={class}&area={area}&year={year}",
+                      "分类": "短剧$30#电影$1#电视剧$2#综艺$3#动漫$4#",
+                      "简介": "🍊小橙子为您介绍剧情👉+left text-muted\">&&</div>"
             }
 },	  
 {
