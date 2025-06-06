@@ -3687,7 +3687,7 @@
                       "副标题": "<span>&&</span>",
                       "图片": "data-original=\"&&\"",
                       "链接":"/voddetail/+&&\"",
-                      "线路数组": "data-linename&&</a>",
+                      "线路数组": "<a class=\"fed-btns-info fed-rims-info&&/a>",
                       "线路标题": ">&&</",
                       "播放数组": "<li class=\"fed-padding fed-col-xs3&&</li>",
                       "播放列表": "<a&&</a>",
