@@ -3777,7 +3777,7 @@
 	      "副标题": "<span class=\"hl-lc-1 remarks\">&&</span>",
               "图片": "data-original=\"&&\"",
 	      "链接":"/voddetail/+&&\"",
-	      "线路数组": "hl-text-site&&</span>",
+	      "线路数组": "hl-icon-shipin&&</span>",
 	      "线路标题": ">&&</",
 	      "播放数组": "<ul class=\"hl-plays-list hl-sort-list&&</ul>",
               "播放列表": "<li&&</li>",
@@ -3787,7 +3787,7 @@
 	      "搜索url": "https://tv3.woxian.de/vodsearch/{wd}----------{pg}---/",
               "分类url": "https://tv3.woxian.de/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}/",
               "分类": "电影$1#连续剧$2#综艺$3#动漫$4#",
-	      "简介": "🍊小橙子为您介绍剧情👉+hl-rb-title\">&&</li>"
+	      "简介": "🍊小橙子为您介绍剧情👉+hl-content-text\">&&</span>"
            }
 },
 {
