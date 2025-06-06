@@ -497,6 +497,18 @@
             "remark": "本源由小橙子维护"
         }, 
 	{
+            "name": "📺小橙子看球",
+            "url": "http://php.cqshushu.ggff.net/515001.php?公众号【医工学习日志】",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        }, 
+	{
+            "name": "📺咪咕体育",
+            "url": "http://ys.my.to/i/?T=mTV",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        }, 
+	{
             "name": "📺小橙子专用电视",
             "url": "https://xcz.funly.us/xczzx.txt",
             "type": 10,
@@ -829,6 +841,18 @@
 	{
             "name": "📺研究所体育(需梯子)",
             "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺小橙子ysmy",
+            "url": "http://ys.my.to//i/?T=TV",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
+            "name": "📺小橙子HKTV",
+            "url": "http://kkk.888.3116598.xyz//user/HKTV.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
         },
