@@ -3778,7 +3778,7 @@
               "图片": "data-original=\"&&\"",
 	      "链接":"/voddetail/+&&\"",
 	      "线路数组": "iconfont hl-icon-tongzhi&&</i>",
-	      "线路标题": "<span class="hl-text-site">&&</span>",
+	      "线路标题": "<span&&</span>",
 	      "播放数组": "<ul class=\"hl-plays-list hl-sort-list&&</ul>",
               "播放列表": "<li&&</li>",
               "播放标题": ">&&</a>",
