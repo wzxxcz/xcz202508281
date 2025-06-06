@@ -3655,11 +3655,11 @@
             "ext": {
                       "请求头": "User-Agent$MOBILE_UA",
                       "编码": "UTF-8",
-                      "数组": "<div class=\"module-item-titlebox\"&&</div",
+                      "数组":"/voddetail/&&</a>",
                       "标题": "title=\"&&\"",
                       "副标题": "<span>&&</span>",
                       "图片": "data-src=\"&&\"",
-                      "链接": "href=\"&&\"",
+                      "链接":"/voddetail/+&&\"",
                       "线路数组": "data-dropdown&&</div>",
                       "线路标题": ">&&</",
                       "播放数组": "sort-item\"&&</div>",
