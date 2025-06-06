@@ -3660,7 +3660,7 @@
                       "副标题": "<span>&&</span>",
                       "图片": "data-src=\"&&\"",
                       "链接": "href=\"&&\"",
-                      "线路数组": "data-dropdown&&</li>",
+                      "线路数组": "data-dropdown&&</span>",
                       "线路标题": ">&&</",
                       "播放数组": "<div class=\"module-blocklist&&</div>",
                       "播放列表": "<a&&</a>",
