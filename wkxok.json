@@ -3644,7 +3644,7 @@
 	        "副标题": "<span class=\"note text-bg-r\">&&</span>", 
 	        "图片":"data-original=\"&&\"",
 	        "链接": "href=\"&&\"",
-	        "线路数组": "<data-toggle=\"tab">&&</a>",
+	        "线路数组": "<a class=\"gico wolong&&/a>",
 	        "线路标题": ">&&</a",
 	        "播放数组": "<ul class=\"clearfix fade&&</ul>",
                 "播放列表": "<li&&</li>",
