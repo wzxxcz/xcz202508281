@@ -3614,7 +3614,7 @@
                 "编码": "UTF-8",
 	        "数组": "<div class=\"module-poster-item-info\"&&</div",
 	        "标题": "title=\"&&\"",
-	        "副标题": "<div class=\"module-item-note\">&&</div>", 
+	        "副标题": "<span>&&</span>", 
 	        "图片":"data-original=\"&&\"",
 	        "链接": "href=\"&&\"",
 	        "线路数组": "data-dropdown&&</span>",
