@@ -3612,7 +3612,7 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组": "div class=\"module-items\"&&</div",
+	        "数组": "div class=\"module-item\"&&</div",
 	        "标题": "title=\"&&\"",
 	        "副标题": "<span>&&</span>", 
 	        "图片":"data-src=\"&&\"",
@@ -3625,7 +3625,7 @@
                 "播放链接": "href=\"&&\"",
 	        "跳转播放链接": "var player_*\"url\":\"&&\"",
 	        "搜索url":"https://soupian.icu/movie/{wd}?page={pg}",
-                "分类url": "https://waipian30.com/show-{cateId}-{area}-------{catePg}---{year}/",
+                "分类url": "https://waipian30.com/show-{cateId}-{area}--{class}-----{catePg}---{year}/",
                 "分类": "电影$dianying#电视剧$juji#短剧$duanju#综艺$zongyi#动漫$dongman#纪录片$jilupian#",
                 "简介": "🍊小橙子为您介绍剧情👉+module-info-introduction-content\">&&</div>"
         }
