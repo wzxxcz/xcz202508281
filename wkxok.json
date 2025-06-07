@@ -3611,10 +3611,7 @@
   "jar": "https://xcz.iptv365.org/xczzx.jar",
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-	        "数组": "div class=\"myui-vodbox-content\"&&</div",
-	        "标题": "div class=\"&&\"",
-	        "副标题": "<span>&&</span>", 
+                "编码": "UTF-8", 
 	        "图片":"src=\"&&\"",
 	        "链接": "href=\"&&\"",
 	        "线路数组": "<ul class=\"nav nav-btn swiper-wrapper&&/ul>",
