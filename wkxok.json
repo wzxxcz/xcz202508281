@@ -3612,11 +3612,11 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组":"/voddetail/&&</a>",
+	        "数组": "class=\"module-items module-poster-items-base\"&&</a",
 	        "标题": "title=\"&&\"",
 	        "副标题": "<div class=\"module-item-note\">&&</div>", 
 	        "图片":"data-original=\"&&\"",
-	        "链接":"/voddetail/+&&\"",
+	        "链接": "href=\"&&\"",
 	        "线路数组": "data-dropdown&&</span>",
 	        "线路标题": "<span>&&<",
 	        "播放数组": "<div class=\"module-play-list-content&&</div>",
