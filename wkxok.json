@@ -3644,7 +3644,7 @@
 	        "副标题": "<span class=\"pic-text text-right\">&&</span>", 
 	        "图片":"data-original=\"&&\"",
 	        "链接": "href=\"&&\"",
-	        "线路数组": "<a>&&/a>",
+	        "线路数组": "data-toggle&&</a>",
 	        "线路标题": ">&&</a",
 	        "播放数组": "<ul class=\"stui-content__playlist&&</ul>",
                 "播放列表": "<li&&</li>",
@@ -3654,7 +3654,7 @@
 	        "搜索url":"https://www.kmxibanyayu.com/vso/{wd}----------{pg}---.html",
                 "分类url": "https://www.kmxibanyayu.com/vs/{cateId}-{area}---{lang}----{catePg}---{year}.html",
                 "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#电影解说$dianyingjieshuo#",
-                "简介": "🍊小橙子为您介绍剧情👉+text text-overflow text-muted hidden-xs\">&&</div>"
+                "简介": "🍊小橙子为您介绍剧情👉+left\">&&</div>"
         }
 },  
 {
