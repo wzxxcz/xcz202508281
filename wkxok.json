@@ -3617,7 +3617,7 @@
 	        "副标题": "<span>&&</span>", 
 	        "图片":"data-original=\"&&\"",
 	        "链接":"/iyftv/+&&\"",
-	        "线路数组": "<span>&&/span>",
+	        "线路数组": "data-dropdown&&</div>",
 	        "线路标题": "<span>&&<",
 	        "播放数组": "<div class=\"module-play-list-content&&</div>",
                 "播放列表": "<a&&</a>",
