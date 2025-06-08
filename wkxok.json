@@ -3646,7 +3646,7 @@
 	        "链接":"/voddetail/+&&\"",
 	        "线路数组": "<div class=\"swiper-wrapper&&/div>",
 	        "线路标题": "fa ds-dianying&&</span>",
-	        "播放数组": "<div class=\"anthology-list-play&&</div>",
+	        "播放数组": "<ul class=\"anthology-list-play&&</ul>",
                 "播放列表": "<li&&</li>",
                 "播放标题": ">&&</a>",
                 "播放链接": "href=\"&&\"",
