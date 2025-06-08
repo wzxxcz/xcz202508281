@@ -3776,7 +3776,7 @@
                 "编码": "UTF-8",
 	        "数组": "/detail/&&</a",
 	        "标题": "<div class="v-item-title">&&</div>",
-	        "副标题": "<v-item-bottom">&&<span>&&</span>", 
+	        "副标题": "<v-item-bottom\"><span>&&</span>",  
 	        "图片":"data-original=\"&&\"",
 	        "链接": "/detail/+&&\"",
 	        "线路数组": "source-item-label&&</span>",
