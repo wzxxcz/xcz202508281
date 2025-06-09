@@ -4021,7 +4021,7 @@
 	        "链接":"/voddetail/+&&\"",
 	        "线路数组": "data-lineid&&</a>",
 	        "线路标题": ">&&<",
-	        "播放数组": "<ul class=\"fed-part-rows&&</ul>",
+	        "播放数组": "<ul class=\"fed-drop-head fed-padding fed-part-rows&&</ul>",
                 "播放列表": "<li&&/li>",
                 "播放标题": ">&&</a>",
                 "播放链接": "href=\"&&\"",
