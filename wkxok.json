@@ -4032,23 +4032,24 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组": "stui-vodlist__box&&</a >[替换:url(\\&\\#39;>>图#\\&\\#39;);>>图]",
-                "图片": "图&&图",
+	        "数组": "class=\"stui-vodlist__box\"&&</a",
 	        "标题": "title=\"&&\"",
-	        "副标题": "<span>&&</span>",
+	        "副标题": "<span>&&</span>", 
+	        "图片":"url(&#39;&&&#39;)",
 	        "链接": "href=\"&&\"",
 	        "线路数组": "iconfontplay2\">&&</h4>",
-                "线路标题": "</i>&&<",
-	        "播放数组": "stui-content__playlist&&</ul>",
+	        "线路标题": "</i>&&<",
+	        "播放数组": "<ul class=\"stui-content__playlist&&</ul>",
                 "播放列表": "<li&&</li>",
                 "播放标题": ">&&</a>",
                 "播放链接": "href=\"&&\"",
 	        "跳转播放链接": "var player_*\"url\":\"&&\"",
-                "分类": "电影$movie#电视剧$juji#美剧$meiju#韩剧$hanju#日剧$riju#泰剧$taiju",
+	        "搜索url":"https://qingwa.org/search.html?key={wd}&page={pg}",
                 "分类url": "https://qingwa.org/{cateId}.html?page={catePg}&tag={class}&sort={by}&area={area}&year={year}",
-                "简介": "🍊小橙子为您介绍剧情👉+left data2\">&&</div>"
+                "分类": "电影$movie#电视剧$juji#美剧$meiju#韩剧$hanju#日剧$riju#泰剧$taiju",
+                "简介": "🍊小橙子为您介绍剧情👉+detail-content\">&&</div>"
         }
-}, 	  	  
+}, 
 {
     "key": "茶杯狐",
     "name": "🍵茶杯狐",
