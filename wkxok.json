@@ -3765,11 +3765,11 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组": "/voddetail/&&</a",
+	        "数组":"<a class=\"mo-situ-pics mo-situ-lazy mo-lazy-color mo-bord-round mo-cols-rows mo-lazy-highs mo-byxs-2by3&&</a>",
 	        "标题": "<a*>&&</a>",
 	        "副标题": "<span class=\"mo-situ-rema mo-part-ramp mo-fsxs-12px mo-text-white mo-coxs-center\">&&</span>",  
 	        "图片":"data-original=\"&&\"",
-	        "链接": "/voddetail/+&&\"",
+	        "链接": "href=\"&&\"",
 	        "线路数组": "mo-icon&&/a>",
 	        "线路标题": ">&&<",
 	        "播放数组": "<ul class=\"mo-movs-item mo-sort-boxs&&</ul>",
