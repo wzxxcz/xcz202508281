@@ -3772,7 +3772,7 @@
 	        "链接": "href=\"&&\"",
 	        "线路数组": "<a class=\"mo-movs-btns&&/a>",
 	        "线路标题": "</i>&&<",
-	        "播放数组": "<ul class=\"mo-cols-show&&</ul>",
+	        "播放数组": "<ul class=\"mo-movs-item mo-sort-boxs&&</ul>",
                 "播放列表": "<li&&</li>",
                 "播放标题": ">&&</a>",
                 "播放链接": "href=\"&&\"",
