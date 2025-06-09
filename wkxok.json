@@ -4032,10 +4032,10 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组": "class=\"stui-vodlist__box\"&&</a",
+	        "数组": "stui-vodlist__box&&</a >[替换:url(\\&\\#39;>>图#\\&\\#39;);>>图]",
+                "图片": "图&&图",
 	        "标题": "title=\"&&\"",
 	        "副标题": "<span>&&</span>",
-	        "图片": [替换:url(https://91dn.site/image/2024-11-26&&);>>图]",
 	        "链接": "href=\"&&\"",
 	        "线路数组": "iconfontplay2\">&&</h4>",
                 "线路标题": "</i>&&<",
