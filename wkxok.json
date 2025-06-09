@@ -4062,7 +4062,7 @@
 	        "数组":"/voddetail/&&</a>",
 	        "标题": "title=\"&&\"",
 	        "副标题": "<div class=\"module-item-text\">&&</div>", 
-	        "图片": "data-src=\"&&\"",
+	        "图片": "https://www.haitu.xyz/vodplay/+data-src=\"/&&\"",
 	        "链接":"/voddetail/+&&\"",
 	        "线路数组": "data-dropdown&&</div>",
 	        "线路标题": "<span>&&<",
