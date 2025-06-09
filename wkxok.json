@@ -3768,19 +3768,19 @@
 	        "数组": "/voddetail/&&</a",
 	        "标题": "<a*>&&</a>",
 	        "副标题": "<span class=\"mo-situ-rema mo-part-ramp mo-fsxs-12px mo-text-white mo-coxs-center\">&&</span>",  
-	        "图片": "https://vres.wxwoq.com/+data-original=\"/&&\"",
+	        "图片":"data-original=\"&&\"",
 	        "链接": "/voddetail/+&&\"",
-	        "线路数组": "source-item-label&&/span>",
+	        "线路数组": "mo-icon&&/a>",
 	        "线路标题": ">&&<",
-	        "播放数组": "episode-list&&</div>",
-                "播放列表": "<a&&</a>",
+	        "播放数组": "<ul class=\"mo-movs-item mo-sort-boxs&&</ul>",
+                "播放列表": "<li&&</li>",
                 "播放标题": ">&&</a>",
                 "播放链接": "href=\"&&\"",
 	        "跳转播放链接": "var player_*\"url\":\"&&\"",
-	        "搜索url":"https://www.dushe9.app/search?k={wd}&page={pg}&t=gvh6t8YRtIEfXu%2FjSdQL1w%3D%3D",
-                "分类url": "https://www.dushe9.app/show/{cateId}--{area}-{lang}-{year}-3-{catePg}.html",
-                "分类": "电影$1#连续剧$2#动漫$3#综艺纪录$4#短剧$6#",
-                "简介": "🍊小橙子为您介绍剧情👉+detail-desc\">&&</div>"
+	        "搜索url":"https://www.sanjiuyy.com/vodsearch/{wd}----------{pg}---.html",
+                "分类url": "https://www.sanjiuyy.com/vodshow/{cateId}--------{catePg}---{year}.html",
+                "分类": "电影$dianying#连续剧$lianxuju#综艺$zonyi#动漫$dongman#体育赛事$tiyusaishi#",
+                "简介": "🍊小橙子为您介绍剧情👉+mo-paxs-5px mo-ptxs-0px\">&&</div>"
         }
 }, 	  
 {
