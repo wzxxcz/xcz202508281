@@ -3767,7 +3767,7 @@
                 "编码": "UTF-8",
 	        "数组":"<li class=\"mo-paxs-5px mo-pamd-10px mo-cols-info mo-cols-xs4 mo-cols-sm3 mo-cols-lg2&&</li>",
 	        "标题": "<a*>&&</a>",
-	        "副标题": "<span class=\"mo-situ-rema mo-part-ramp mo-fsxs-12px mo-text-white mo-coxs-center\">&&</span>",  
+	        "副标题": "center\">&&</span>", 
 	        "图片":"data-original=\"&&\"",
 	        "链接": "href=\"&&\"",
 	        "线路数组": "<a class=\"mo-movs-btns&&/a>",
