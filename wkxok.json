@@ -4019,7 +4019,7 @@
 	        "副标题": "<span class=\"fed-list-remarks fed-font-xii fed-text-white fed-text-center uk-overlay uk-overlay-primary uk-position-bottom\">&&</span>", 
 	        "图片":"data-original=\"&&\"",
 	        "链接":"/voddetail/+&&\"",
-	        "线路数组": "data-linename&&</a>",
+	        "线路数组": "data-lineid&&</a>",
 	        "线路标题": ">&&</a",
 	        "播放数组": "<ul class=\"fed-part-rows&&</ul>",
                 "播放列表": "<li&&/li>",
