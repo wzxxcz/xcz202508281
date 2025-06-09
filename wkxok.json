@@ -4066,7 +4066,7 @@
 	        "链接":"/voddetail/+&&\"",
 	        "线路数组": "data-dropdown&&</div>",
 	        "线路标题": "<span>&&<",
-	        "播放数组": "<div class=\"sort-item&&</div>",
+	        "播放数组": "<div class=\"module-blocklist&&</div>",
                 "播放列表": "<a&&</a>",
                 "播放标题":"<span>&&<",
                 "播放链接": "href=\"&&\"",
