@@ -4128,7 +4128,7 @@
 	      "搜索url":"https://www.4k4k.live/vodsearch/{wd}----------{pg}---/",
               "分类url": "https://www.4k4k.live/vodshow/{cateId}----{lang}----{catePg}---{year}/",
               "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-              "简介": "🍊小橙子为您介绍剧情👉+module-info-introduction-content show-desc\">&&</div>"
+              "简介": "🍊小橙子为您介绍剧情👉+module-info-item module-info-introduction\">&&</div>"
            }
 },
 {
