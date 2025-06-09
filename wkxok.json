@@ -3997,33 +3997,6 @@
         }
 }, 
 {
-  "key": "看片狂人",
-  "name": "🍊看片狂人",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.iptv365.org/xczzx.jar",
-  "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-	        "数组":"/voddetail/&&</a>",
-	        "标题": "title=\"&&\"",
-	        "副标题": "<span class=\"fed-list-remarks fed-font-xii fed-text-white fed-text-center uk-overlay uk-overlay-primary uk-position-bottom\">&&</span>", 
-	        "图片":"data-original=\"&&\"",
-	        "链接":"/voddetail/+&&\"",
-	        "线路数组": "data-lineid&&</a>",
-	        "线路标题": ">&&<",
-	        "播放数组": "<ul class=\"fed-part-rows&&</ul>",
-                "播放列表": "<li&&/li>",
-                "播放标题": ">&&</a>",
-                "播放链接": "href=\"&&\"",
-	        "跳转播放链接": "var player_*\"url\":\"&&\"",
-	        "搜索url":"https://www.kpkuang.us/vodsearch/{wd}----------{pg}---.html",
-                "分类url": "https://www.kpkuang.us/vodshow/{cateId}-{area}-------{catePg}---{year}--.html",
-                "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$37#",
-                "简介": "🍊小橙子为您介绍剧情👉+fed-text-muted\">&&</span>"
-        }
-},	  	  
-{
     "key": "茶杯狐",
     "name": "🍵茶杯狐",
     "type": 3,
