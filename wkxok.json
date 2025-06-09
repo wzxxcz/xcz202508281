@@ -4047,7 +4047,7 @@
 	        "搜索url":"https://qingwa.org/search.html?key={wd}&page={pg}",
                 "分类url": "https://qingwa.org/{cateId}.html?page={catePg}&tag={class}&sort={by}&area={area}&year={year}",
                 "分类": "电影$movie#电视剧$juji#美剧$meiju#韩剧$hanju#日剧$riju#泰剧$taiju",
-                "简介": "🍊小橙子为您介绍剧情👉+detail-sketch\">&&</div>"
+                "简介": "🍊小橙子为您介绍剧情👉+left data2\">&&</div>"
         }
 }, 
 {
