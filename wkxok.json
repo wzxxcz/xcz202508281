@@ -4037,17 +4037,16 @@
 	        "副标题": "<span>&&</span>",
 	        "图片":"https://91dn.site/image/2024-11-26/=\"/&&\"",
 	        "链接": "href=\"&&\"",
-	        "线路数组": "data-toggle&&</a>",
-	        "线路标题": ">&&<",
-	        "播放数组": "<ul class=\"tsgeb916 myui-content__list&&</ul>",
+	        "线路数组": "icon-iconfontplay2</h4>",
+	        "线路标题": "</i>&&<",
+	        "播放数组": "stui-content__playlist&&</ul>",
                 "播放列表": "<li&&</li>",
                 "播放标题": ">&&</a>",
                 "播放链接": "href=\"&&\"",
 	        "跳转播放链接": "var player_*\"url\":\"&&\"",
-	        "搜索url":"https://www.lmkz66.com/search.php?page={pg}&searchword={wd}&searchtype=",
-                "分类url": "https://www.lmkz66.com/search.php?page={catePg}&searchtype=5&yuyan={lang}&tid={cateId}&jq={class}&area={area}&year={year}",
-                "分类": "短剧$30#电影$1#电视剧$2#综艺$3#动漫$4#",
-                "简介": "🍊小橙子为您介绍剧情👉+left text-muted\">&&</div>"
+                "分类": "电影$movie#电视剧$juji#美剧$meiju#韩剧$hanju#日剧$riju#泰剧$taiju",
+                "分类url": "https://qingwa.org/{cateId}.html?page={catePg}&tag={class}&sort={by}&area={area}&year={year}",
+                "简介": "🍊小橙子为您介绍剧情👉+left data2\">&&</div>"
         }
 }, 	  	  
 {
