@@ -4059,7 +4059,7 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组": "item-pic&&span></div>",
+	        "数组": "module-item-pic&&span></div>",
 	        "标题": "title=\"&&\"",
 	        "副标题": "<div class=\"module-item-text\">&&</div>", 
 	        "图片":"data-src=\"&&\"",
