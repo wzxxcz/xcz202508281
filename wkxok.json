@@ -3770,7 +3770,7 @@
 	        "副标题": "center\">&&</span>", 
 	        "图片":"data-original=\"&&\"",
 	        "链接": "href=\"&&\"",
-	        "线路数组": "mo-icon&&</i>",
+	        "线路数组": "mo-icon-play&&</a>",
 	        "线路标题": ">&&<",
 	        "播放数组": "<ul class=\"mo-movs-item mo-sort-boxs&&</ul>",
                 "播放列表": "<li&&</li>",
