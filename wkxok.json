@@ -4035,7 +4035,7 @@
 	        "数组": "class=\"stui-vodlist__box\"&&</a",
 	        "标题": "title=\"&&\"",
 	        "副标题": "<span>&&</span>",
-	        "图片": "https://91dn.site/+style=\"/&&\"",
+	        "图片": [替换:url(https://91dn.site/image/2024-11-26&&);>>图]",
 	        "链接": "href=\"&&\"",
 	        "线路数组": "iconfontplay2\">&&</h4>",
                 "线路标题": "</i>&&<",
