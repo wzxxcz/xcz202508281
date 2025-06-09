@@ -4034,7 +4034,7 @@
                 "编码": "UTF-8",
 	        "数组": "class=\"stui-vodlist__box\"&&</a",
 	        "标题": "title=\"&&\"",
-	        "副标题": "<span>&&</span>",
+	        "副标题": "text-left\">&&<",
 	        "图片":"https://91dn.site/image/2024-11-26/=\"/&&\"",
 	        "链接": "href=\"&&\"",
 	        "线路数组": "icon-iconfontplay2</h4>",
