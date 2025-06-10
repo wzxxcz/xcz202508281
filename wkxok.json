@@ -4140,7 +4140,7 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组": "lazyload&&</a>",
+	        "数组": "/lazyload&&</a>",
 	        "标题": "title=\"&&\"",
 	        "副标题": "<span class=\"pic-text text-right\">&&</span>", 
 	        "图片":"data-original=\"&&\"",
@@ -4153,8 +4153,8 @@
                 "播放链接": "href=\"&&\"",
 	        "跳转播放链接": "var player_*\"url\":\"&&\"",
 	        "搜索url":"https://www.xzyx168.com/xzyxvc/{wd}-wdyswzqun{pg}num.html",
-                "分类url": "https://www.xzyx168.com/xzyxvs/{cateId}spsxdqlx{catePg}zmn{year}.html",
-                "分类": "电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#短剧$duanju#",
+                "分类url": "https://www.xzyx168.com/xzyxvs/{cateId}spsxdqlx{catePg}zmn.html",
+                "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju",
                 "简介": "🍊小橙子为您介绍剧情👉+content\">&&</div>"
         }
 }, 	  
