@@ -4226,7 +4226,7 @@
 	        "副标题": "<span class=\"state\">&&</span>",
 	        "图片": "data-original=\"&&\"",
 	        "链接":"/detail/+&&\"",
-	        "线路数组": "<ul class=\"swiper-wrapper&&/ul>",
+	        "线路数组": "tab-nav&&</a>",
 	        "线路标题": ">&&</a",
 	        "播放数组": "<ul class=\"episodes-list&&</ul>",
                 "播放列表": "<li&&</li>",
