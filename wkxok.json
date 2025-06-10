@@ -4154,7 +4154,7 @@
 	        "跳转播放链接": "var player_*\"url\":\"&&\"",
 	        "搜索url":"https://www.xzyx168.com/xzyxvc/{wd}-wdyswzqun{pg}num.html",
                 "分类url": "https://www.xzyx168.com/xzyxvs/{cateId}spsxdqlx{catePg}zmn.html",
-                "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju",
+                "分类": "电影$dianyingn#电视剧$dianshijun#综艺$zongyin#动漫$dongmann#短剧$duanjun",
                 "简介": "🍊小橙子为您介绍剧情👉+left text-muted\">&&</div>"
         }
 }, 	  
