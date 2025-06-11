@@ -3622,6 +3622,33 @@
         }
 }, 
 {
+  "key": "饺子影院",
+  "name": "🥟饺子影院影院",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
+  "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+	        "数组": "class=\"myui-vodlist__box\"&&</a",
+	        "标题": "title=\"&&\"",
+	        "副标题": "<span class=\"pic-text text-right\">&&</span>",
+	        "图片":"data-original=\"&&\"",
+	        "链接": "href=\"&&\"",
+	        "线路数组": "#playlist&&</a>",
+	        "线路标题": ">&&</a",
+	        "播放数组": "<ul class=\"myui-content__list&&</ul>",
+                "播放列表": "<li&&</li>",
+                "播放标题": ">&&</a>",
+                "播放链接": "href=\"&&\"",
+	        "跳转播放链接": "var player_*\"url\":\"&&\"",
+	        "搜索url":"https://www.jiaozi.me/search.php?page={pg}&searchkey={wd}BF&searchtype=",
+                "分类url": "https://www.jiaozi.me/search.php?page={catePg}&searchtype={class}&tid={cateId}&area={area}",
+                "分类": "电影$1#剧集$2#动画$41#",
+                "简介": "🍊小橙子为您介绍剧情👉+text-muted col-pd\">&&</div>"
+        }
+}, 
+{
   "key": "看戏影院",
   "name": "🍊看戏影院",
   "type": 3,
