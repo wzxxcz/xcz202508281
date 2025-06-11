@@ -4440,7 +4440,7 @@
 	        "副标题": "<div class=\"v-item-bottom\">&&</div>", 
 	        "图片": "https://vres.wxwoq.com/vod1/+/vod1/&&\"",
 	        "链接":"href=\"&&\"",
-	        "线路数组": "swiper-wrapper&&</div>",
+	        "线路数组": "source-item-label&&</div>",
 	        "线路标题": "source-item\">&&<",
 	        "播放数组": "<div class=\"episode-list&&</div>",
                 "播放列表": "<a&&</a>",
