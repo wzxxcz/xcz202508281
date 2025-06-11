@@ -4422,7 +4422,7 @@
 	        "跳转播放链接": "var player_*\"url\":\"&&\"",
 	        "搜索url":"https://cqshine.com/vod/search/?wd={wd}&page={pg}",
                 "分类url": "https://cqshine.com/vod/{cateId}-{catePg}/",
-	        "分类": "电影片$sjdyp#连续剧$jlxj#综艺片$sjzyp#动漫片$sjdmp#短剧$sjdj#体育赛事$sjtyss#",
+	        "分类": "电影片$sjdyp#连续剧$sjlxj#综艺片$sjzyp#动漫片$sjdmp#短剧$sjdj#体育赛事$sjtyss#",
                 "简介": "🍊小橙子为您介绍剧情👉+detail-info mt-2 D1cXy\">&&</div>"
           }
 },
