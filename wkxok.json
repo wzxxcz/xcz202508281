@@ -4332,7 +4332,7 @@
 	        "副标题": "<span class=\"pic-text text-right\">&&</span>",
 	        "图片": "data-original=\"&&\"",
 	        "链接":"href=\"&&\"",
-	        "线路数组": "clearfix&&/h3>",
+	        "线路数组": "clearfix&&/div>",
 	        "线路标题": "title\">&&<[不包含:线路1]",
 	        "播放数组": "stui-content__playlist&&</ul>",
                 "播放列表": "<li&&li>",
