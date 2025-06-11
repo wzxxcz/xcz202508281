@@ -4342,7 +4342,7 @@
 	        "搜索url":"https://jcc-mc.net/search/{wd}----------{pg}---.html",
                 "分类url": "https://jcc-mc.net/show/{cateId}--------{catePg}---.html",
 	        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#",
-                "简介": "🍊小橙子为您介绍剧情👉+&&</span"
+                "简介": "🍊小橙子为您介绍剧情👉+detail-sketch\">&&</div>"
           }
 },
 {
@@ -4369,7 +4369,7 @@
 	        "搜索url":"https://www.hitv.app/search/{wd}----------{pg}---.html",
                 "分类url": "https://www.hitv.app/show/{cateId}----{lang}----{catePg}---{year}.html",
 	        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#儿童$58#",
-                "简介": "🍊小橙子为您介绍剧情👉+module-info-item-title\">&&</div>"
+                "简介": "🍊小橙子为您介绍剧情👉+&&</span"
           }
 },
 {
