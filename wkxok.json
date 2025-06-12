@@ -4480,7 +4480,7 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组":"lazyload&&</li>", 
+	        "数组":"x-thumbnail-play&&</a>", 
 	        "标题":"title=\"&&\"",
 	        "图片": "data-original=\"&&\"[替换:amp;>>空]",
 	        "链接":"href=\"&&\"",
