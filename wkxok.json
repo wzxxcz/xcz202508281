@@ -4488,7 +4488,7 @@
 	        "跳转播放链接": "var player_*\"url\":\"&&\"",
 	        "线路数组": "data-toggle&&</a>",
 	        "线路标题": "tab\">&&</a",
-	        "播放数组": "<ul class=\"detail-play-list clearfix tab-pane ff-playurl ff-playurl-tab-b active fade in&&</ul>",
+	        "播放数组": "<div class=\"detail-content tab-content ff-playurl-tab</div>",
                 "播放列表": "<li&&</li>",
                 "播放标题":">&&<",
                 "播放链接": "href=\"&&\"",
