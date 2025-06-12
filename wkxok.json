@@ -4536,7 +4536,7 @@
 	        "图片":"data-original=\"&&\"",
 	        "链接":"/voddetail/+&&\"",
 	        "线路数组": "data-dropdown&&</span>",
-                "线路标题": ">&&<",
+                "线路标题": "<span>&&</span>",
 	        "跳转播放链接": "var player_*\"url\":\"&&\"",
 	        "搜索url":"https://www.5ggtv.com/vodsearch/{wd}----------{pg}---.html",
                 "分类url": "https://www.5ggtv.com/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
