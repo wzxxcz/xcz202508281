@@ -4466,7 +4466,7 @@
 	        "副标题": "<span class=\"pic-text text-right\">&&</span>",
 	        "图片":"data-original=\"&&\"",
 	        "链接": "href=\"&&\"",
-	        "线路数组": "#playlist&&</a >",
+	        "线路数组": "#playlist&&</a>",
 	        "线路标题": ">&&</a",
 	        "播放数组": "<ul class=\"myui-content__list&&</ul>",
                 "播放列表": "<li&&</li>",
