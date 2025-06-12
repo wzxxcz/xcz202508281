@@ -4485,6 +4485,8 @@
 	        "副标题": "<span class=\"video-grade video-grade-right\">&&</span>",
 	        "图片":"data-original=\"&&\"",
 	        "链接":"href=\"&&\"",
+	        "跳转播放链接": "var player_*\"url\":\"&&\"",
+	        "搜索url":"https://777dramas.com/search?q={wd}&page={pg}",
                 "分类url": "https://777dramas.com/list-{cateId}/?page={catePg};;d1",
 	        "分类": "韩剧$tv-kr#台剧$tv-tw#陆剧$tv-cn#欧美剧$tv-west#日剧$tv-jp#港剧$tv-hk#动漫$anime#综艺$variety#纪录片$doc#",
                 "简介": "🍊小橙子为您介绍剧情👉+劇情：&&</p" 
