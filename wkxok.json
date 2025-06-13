@@ -4698,14 +4698,14 @@
 	        "链接": "href=\"&&\"",
 	        "线路数组": "data-toggle&&</a>",
 	        "线路标题": "tab\">&&</a",
-	        "播放数组": "<ul class=\"myui-content__list&&</ul>",
+	        "播放数组": "<ul class=\"myui-content__list sort-list clearfix&&</ul>",
                 "播放列表": "<li&&</li>",
                 "播放标题": ">&&</a>",
-                "播放链接": "href=\"&&\"",
+                "播放链接": "href='&&'",
 	        "跳转播放链接": "var player_*\"url\":\"&&\"",
                 "分类url": "https://www.kanjub.cc/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#",
-                "简介": "🍊小橙子为您介绍剧情👉+left text-muted\">&&</div>"
+                "简介": "🍊小橙子为您介绍剧情👉+简介：&&</p" 
         }
 }, 
 {
