@@ -4677,7 +4677,7 @@
 	        "搜索url":"https://www.xiuer.pro/vod/search/page/{pg}/wd/{wd}/",
                 "分类url": "https://www.xiuer.pro/show/{cateId}/page/{catePg}/year/{year}/",
                 "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#",
-                "简介": "🍊小橙子为您介绍剧情👉+module-item-style video-text\">&&</div>"
+                "简介": "🍊小橙子为您介绍剧情👉+剧情介绍：&&</p" 
         }
 }, 	  
 {
