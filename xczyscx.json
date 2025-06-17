@@ -1,5 +1,5 @@
 {
-    "spider": "./wzxxcz.jar",
+    "spider": "./xcz.jar",
     "wallpaper": "https://xcz.iptv365.org/xcz.php",
     "logo": "https://xcz.iptv365.org/logo.php",
     "lives": [
@@ -2188,6 +2188,32 @@
                      "简介": "🍊小橙子为您介绍剧情👉+left data2\">&&</div>"
                    }
         },
+	{
+            "key": "大师兄影视",
+            "name": "🤡大师兄影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                     "请求头": "User-Agent$MOBILE_UA",
+                     "编码": "UTF-8",
+	             "数组": "class=\"stui-vodlist__box\"&&</a",
+	             "标题": "title=\"&&\"",
+	             "副标题": "<span class=\"pic-text text-right\">&&</span>", 
+	             "图片":"data-original=\"&&\"",
+	             "链接": "href=\"&&\"",
+	             "线路数组": "<h3&&/h3>",
+	             "线路标题": "title\">&&<",
+	             "播放数组": "<ul class=\"stui-content__playlist&&</ul>",
+                     "播放列表": "<a&&</a>",
+                     "播放标题": ">&&<",
+                     "播放链接": "href=\"&&\"",
+	             "跳转播放链接": "var player_*\"url\":\"&&\"",
+	             "搜索url":"https://www.ruiding3bu.com/ruvodsearch/{wd}----------{pg}---.html",
+                     "分类url": "https://www.ruiding3bu.com/ruvodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                     "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#豆瓣电影Top250$42",
+                     "简介": "🍊小橙子为您介绍剧情👉+简介：&&</p"
+                   }
+        }, 
 	{
             "key": "泥巴影院",
             "name": "🍊泥巴影院",
