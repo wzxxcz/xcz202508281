@@ -2439,6 +2439,32 @@
                    }
         }, 
 	{
+            "key": "西瓜在线",
+            "name": "🍉西瓜在线",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                     "请求头": "User-Agent$MOBILE_UA",
+                     "编码": "UTF-8",
+	             "数组": "class=\"movie-list-item\"&&</a",
+	             "标题": "title=\"&&影片信息\"",
+	             "副标题": "<div class=\"movie-rating cor4\">&&</div>",
+	             "图片":"data-original=\"&&\"",
+	             "链接": "href=\"&&\"",
+	             "线路数组": "titleName&&</a>",
+	             "线路标题": "swiper-slide\">&&<",
+	             "播放数组": "<ul class=\"content_playlist&&</ul>",
+                     "播放列表": "<a&&</a>",
+                     "播放标题": ">&&<",
+                     "播放链接": "href=\"&&\"",
+	             "跳转播放链接": "var player_*\"url\":\"&&\"",
+	             "搜索url":"https://www.a6club.com/vod/search/page/{pg}/wd/{wd}.html",
+                     "分类": "电影$20#连续剧$37#动漫$43#综艺$45#B站$47#体育$52",
+                     "分类url": "https://www.a6club.com/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+                     "简介": "🍊小橙子为您介绍剧情👉+summary detailsTxt\">&&</div>"
+                   }
+        }, 
+	{
            "key": "可可影视",
            "name": "🍊可可影视",
            "type": 3,
