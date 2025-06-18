@@ -36,13 +36,6 @@
                 "timeout": 10
              },
 	     {
-                "name": "小橙子看球",
-                "type": 0,
-                "url": "http://php.cqshushu.ggff.net/515001.php?公众号【医工学习日志】",
-                "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-                "timeout": 10
-             },
-	     {
                 "name": "BeeSport直播(小橙子)",
                 "type": 3,
                 "api": "https://json.doube.eu.org/python/live_beesport.py",
