@@ -2544,6 +2544,32 @@
                    }
         },
 	{
+          "key": "速影TV",
+          "name": "📺速影TV",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "ext": {
+                   "请求头": "User-Agent$MOBILE_UA",
+                   "编码": "UTF-8",
+	           "数组": "class=\"stui-vodlist__box\"&&</a",
+	           "标题": "title=\"&&\"",
+	           "副标题": "<span class=\"pic-text text-right\">&&</span>", 
+	           "图片": "background-image: url('&&');",
+	           "链接": "href=\"&&\"",
+	           "线路数组": "playtitle&&/span>",
+		   "线路标题": "</i>&&<",
+	           "播放数组": "id=\"playlist&&</ul>", 
+                   "播放列表": "<a&&/a>",
+                   "播放标题": ">&&<",
+                   "播放链接": "href='&&'",
+	           "跳转播放链接": "var player_*\"url\":\"&&\"",
+		   "搜索url":"https://xn--x8vsuyingtvcom-2z4y408c5i8f.suyingt.com/movie-search-pg-{pg}-wd-{wd}.html",
+                   "分类url": "https://xn--x8vsuyingtvcom-2z4y408c5i8f.suyingt.com/movie-type-id-{cateId}-pg-{catePg}.html",
+                   "分类": "电影$1#连续剧$2#综艺$3#动漫$4#",
+                   "简介": "🍊小橙子为您介绍剧情👉+left text-muted\">&&</div>"
+                 }
+        },
+	{
             "key": "大师兄影视",
             "name": "🤡大师兄影视",
             "type": 3,
