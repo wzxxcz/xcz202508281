@@ -2216,12 +2216,12 @@
           "quickSearch": 1
         },
 	{
-            "key": "csp_Jpys",
-            "name": "🏅金牌影视",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_Jpys",
-	    "jar": "https://xcz.iptv365.org/wzxm.jpg"
+           "key": "csp_Jpys",
+           "name": "🏅金牌影视",
+           "type": 3,
+           "quickSearch": 1,
+           "api": "csp_Jpys",
+	   "jar": "https://xcz.iptv365.org/wzxm.jpg"
         },
 	{
            "key": "测试",
@@ -3209,32 +3209,6 @@
                    "简介": "🍊小橙子为您介绍剧情👉+module-info-introduction-content\">&&</div>"
                  }
         },
-	{
-          "key": "歪片星球",
-          "name": "🍛歪片星球",
-          "type": 3,
-          "api": "csp_XBPQ",
-          "ext": {
-                   "请求头": "User-Agent$MOBILE_UA",
-                   "编码": "UTF-8",
-	           "数组": "/video/&&</a",
-	           "标题": "title=\"&&\"",
-	           "副标题": "<span>&&</span>", 
-	           "图片":"data-src=\"&&\"",
-	           "链接": "/video/+&&\"",
-	           "线路数组": "data-dropdown&&</span>",
-	           "线路标题": ">&&</",
-	           "播放数组": "<div class=\"module-play-list&&</div>",
-                   "播放列表": "<a&&</a>",
-                   "播放标题":"<span>&&<",
-                   "播放链接": "href=\"&&\"",
-	           "跳转播放链接": "var player_*\"url\":\"&&\"",
-	           "搜索url":"https://soupian.icu/movie/{wd}?page={pg}",
-                   "分类url": "https://waipian30.com/show-{cateId}-{area}--{class}-----{catePg}---{year}/",
-                   "分类": "电影$dianying#电视剧$juji#短剧$duanju#综艺$zongyi#动漫$dongman#纪录片$jilupian#",
-                   "简介": "🍊小橙子为您介绍剧情👉+module-info-introduction-content\">&&</div>"
-                 }
-        }, 
 	{
            "key": "毒舌电影",
            "name": "🐍毒舌电影",
