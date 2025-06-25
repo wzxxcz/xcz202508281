@@ -462,12 +462,6 @@
             "remark": "本源由小橙子维护"
         }, 
 	{
-            "name": "📺咪咕体育",
-            "url": "http://ys.my.to/i/?T=mTV",
-            "type": 10,
-            "remark": "本源由小橙子维护"
-        }, 
-	{
             "name": "📺小橙子专用电视",
             "url": "https://xcz.funly.us/xczzx.txt",
             "type": 10,
@@ -488,12 +482,6 @@
 	{
             "name": "📺小橙子专用电视备1",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
-            "type": 10,
-            "remark": "本源由小橙子维护"
-        }, 
-	{
-            "name": "📺小橙子专用电视2",
-            "url": "http://live.nctv.top/x.txt",
             "type": 10,
             "remark": "本源由小橙子维护"
         }, 
@@ -521,12 +509,6 @@
             "type": 10,
             "remark": "本源由小橙子维护"
         }, 
-	{
-            "name": "📺小橙子专线高清",
-            "url": "http://go8.myartsonline.com/zx/2/%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A1.txt",
-            "type": 10,
-            "remark": "本源由小橙子维护"
-        },
 	{
             "name": "📺小橙子专线港澳",
             "url": "https://www.lichenggang.asia/f/4o0CD/%F0%9F%87%A8%F0%9F%87%B3GT.txt",
