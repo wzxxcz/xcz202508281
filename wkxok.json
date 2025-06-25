@@ -2475,6 +2475,31 @@
             }
         },
 	{
+          "key": "歪片星球",
+          "name": "🍛歪片星球",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "ext": {
+                   "请求头": "User-Agent$MOBILE_UA",
+                   "编码": "UTF-8",
+		   "嗅探词": ".mp4#.m3u8#.flv#hcts-m3u8#index.m3u8",
+	           "数组": "/video/&&</a",
+	           "标题": "title=\"&&\"",
+	           "副标题": "<div class=\"module-item-note\">&&</div>",
+	           "图片":"data-src=\"&&\"",
+	           "链接": "/video/+&&\"",
+	           "线路数组": "data-dropdown-value&&</div>",
+                   "线路标题": ">&&</span>",
+	           "播放数组": "<div class=\"module-play-list-content module-play-list-base&&</div>",
+                   "播放列表": "<a&&/a>",
+                   "播放标题":"<span>&&</span>",
+                   "播放链接": "href=\"&&\"",
+                   "分类url": "https://waipian30.com/show-{cateId}-{area}-------{catePg}---{year}/",
+                   "分类": "电影$dianying#电视剧$juji#短剧$duanju#综艺$zongyi#动漫$dongman#纪录片$jilupian#",
+                   "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+module-info-introduction-content\">&&</div>"
+                 }
+        },
+	{
             "key": "VS影院",
             "name": "🍊VS影院",
             "type": 3,
