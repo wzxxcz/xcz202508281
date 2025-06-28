@@ -5475,6 +5475,11 @@
                    "编码": "UTF-8",
                    "分类url": "http://sihai88.com/show/{cateId}-{area}---{lang}----{catePg}---.html",
                    "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman#",
+		   "数组": "li class=\"hl-list-item hl-col-xs-4 hl-col-sm-3 hl-col-md-20w hl-col-lg-2\"&&</li",
+                   "标题": "title=\"&&\"",
+                   "副标题": "<span class=\"hl-lc-1 remarks\">&&</span>",
+                   "图片":"data-original=\"&&\"",
+                   "链接": "href=\"&&\"",
                    "简介": "🍊小橙子为您介绍剧情👉+col-pd text-collapse content\">&&</div>"
                  }
           }, 
