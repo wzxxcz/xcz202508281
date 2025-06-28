@@ -5482,6 +5482,10 @@
                    "链接": "href=\"&&\"",
 		   "线路数组": "hl-plays-from hl-tabs swiper-wrapper clearfix&&</div>",
                    "线路标题": "</i>&&<",
+		   "播放数组": "<ul class=\"hl-plays-list hl-sort-list&&</ul>",
+                   "播放列表": "<a&&</a>",
+                   "播放标题": ">&&</a>",
+                   "播放链接": "href=\"&&\"",
                    "简介": "🍊小橙子为您介绍剧情👉+col-pd text-collapse content\">&&</div>"
                  }
           }, 
