@@ -5480,7 +5480,7 @@
                    "副标题": "hl-lc-1 remarks\">&&<",
                    "图片": "data-original=\"&&\"",
                    "链接": "href=\"&&\"",
-		   "线路数组": "laiyuan\"&&</a",
+		   "线路数组": "javascript:void(0);&&/a>",
                    "线路标题": "</i>&&<",
                    "播放数组": "id=\"hl-plays-list&&</ul>",
                    "播放列表": "<a&&/a>",
