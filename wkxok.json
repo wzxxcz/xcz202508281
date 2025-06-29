@@ -2575,7 +2575,7 @@
                 "播放链接后缀": ".html",
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+vod-blurb intro mt-4 text-break d-block\">&&</div>",
                 "分类url": "http://www.shuijingyy1.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
-                "分类": "电影$dianying#电视剧$lianxuju#动漫$dongman#综艺$zongyi"
+                "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman#"
             }
         },
 	{
