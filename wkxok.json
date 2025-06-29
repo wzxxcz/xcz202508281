@@ -2364,7 +2364,7 @@
                     "分类url": "https://www.mtvod.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
 		    "分类": "电影$dianying#剧集$juji#动漫$dongman#综艺$zongyi#纪录片$jilupian#爽剧$shuangju#",
 		    "二次截取": "",
-		    "数组": "lazyload&&</a>",
+		    "数组":"/vod/&&</a>",
                     "标题": "title=\"&&\"",
                     "图片": "data-original=\"&&\"",
                     "副标题": "<div class=\"module-item-note\">&&</div>", 
