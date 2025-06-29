@@ -1643,20 +1643,6 @@
             "ext": "./json/欧歌.json"
         },
 	{
-           "key": "盘Ta",
-           "name": "🍊盘Ta网盘免扫",
-           "type": 3,
-           "api": "csp_PanTa",
-           "searchable": 1,
-           "filterable": 0,
-           "switchable": 0,
-           "jar": "https://xcz.iptv365.org/wzxwkx.jar",
-           "ext": {
-                     "siteUrl": "https://www.91panta.cn/",
-                     "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
-                  }
-        },
-	{
             "key": "csp_Wogg",
             "name": "🧸玩偶4K弹幕",
             "type": 3,
