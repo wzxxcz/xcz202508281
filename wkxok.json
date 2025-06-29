@@ -5539,7 +5539,9 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
-                      "分类url": "http://www.btpxgl.com/show/{cateId}-{area}---{lang}----{catePg}---.html"
+                    "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",  
+		    "分类url": "http://www.btpxgl.com/show/{cateId}-{area}---{lang}----{catePg}---.html",
 		      "分类": "电影$1#电视剧$2#综艺$3#动漫$4#"
             }
         },
