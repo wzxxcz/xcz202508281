@@ -2578,7 +2578,7 @@
                      "分类url": "http://www.shuijingyy1.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
                      "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman#",
 		     "二次截取": "",
-		     "数组": "class=\"cover-wrapper\"&&</a",
+		     "数组": "cover\"&&/div>",
 	             "标题": "title=\"&&\"",
 		     "图片":"data-original=\"&&\"",
 	             "副标题": "<div class=\"cover-text\">&&</div>", 
