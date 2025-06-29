@@ -2597,7 +2597,6 @@
 		     "播放链接": "onclick=\"play&&)[替换:(>>-#,>>-]",
                      "播放链接前缀": "/p/+data-id=\"&&\"",
                      "播放链接后缀": ".html",
-		     "跳转播放链接": "var player_*\"url\":\"&&\"",
                      "搜索请求头": "User-Agent$MOBILE_UA",
 		     "搜索url": "http://www.kfdnm.cn/vodsearch/{wd}----------{pg}---.html",
                      "搜索模式": "1",
