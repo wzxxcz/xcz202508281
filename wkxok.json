@@ -3946,11 +3946,11 @@
            "ext": {
                     "请求头": "User-Agent@Mozilla/5.0 (Linux；； Android 14；； V2136A Build/UP1A.231005.007；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36&&Cookie@gg_iscookie=1；； PHPSESSID=dp6gqin4iogi9e3es10t347cfn；； __zdzu__c1-jf1fibMe=b157301d-a7ec-4f14-a2f4-77da3cba83bb；； __zdzf__c1-jf1fibMe=1750170471；； _ga=GA1.1.597734863.1750170471；； mx_style=black；； gg_iscookie=1；； mac_history_mxpro=%5B%7B%22vod_name%22%3A%22%E5%BD%BC%E5%B2%B8%E7%81%AF%E5%A1%94%22%2C%22vod_url%22%3A%22https%3A%2F%2Fwww.5o5k.com%2Fvodplay%2F250703-7-1.html%22%2C%22vod_part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%5D；； _ok1_=q2UYtDz0owcYjk576zwMWw2YcOJmKjJEQKMrjQOPE0S4g5RuPOlWfKqQ64ovOr1LCgv82jOLOAFIpUikMX1r2PQRa7HfR1DdrHUonhM5ondhnJz7HF/ElDFX02mdITXs；； _clck=skonx8%7C2%7Cfwv%7C0%7C1994；； gg_show_number6333=1；； __zdzs__c1-jf1fibMe=%7B%22sid%22%3A%22d92d78cb-a1e5-4bf8-8a17-b4d7c89f2ad3%22%2C%22vd%22%3A27%2C%22stt%22%3A38153%2C%22dr%22%3A3%2C%22expires%22%3A1752008624%2C%22ct%22%3A1750208624%7D；； __zdzv__c1-jf1fibMe=27；； _ga_C9CB9ZY4FS=GS2.1.s1750208584$o4$g1$t1750208624$j20$l0$h1991547924；； _clsk=1gauhhg%7C1750208625143%7C3%7C1%7Cq.clarity.ms%2Fcollect&&Accept@text/html,application/xhtml+xml,application/xml；；q=0.9,image/avif,image/webp,image/apng,*/*；；q=0.8,application/signed-exchange；；v=b3；；q=0.7&&Accept-Language@zh-CN,zh；；q=0.9",
                     "编码": "UTF-8",
-		    "数组":"/voddetail/&&</a>",
+		    "数组":"<li class=\"mo-paxs-5px mo-pamd-10px mo-cols-info mo-cols-xs4 mo-cols-sm3 mo-cols-lg2&&</li>",
 	            "标题": "mo-situ-name*>&&</a>",
 	            "副标题": "center\">&&</span>",
 	            "图片":"data-original=\"&&\"",
-	            "链接":"/voddetail/+&&\"",
+	            "链接": "href=\"&&\"",
                     "分类url":"https://www.sanjiuyy.com/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
                     "分类": "电影$dianying#连续剧$lianxuju#综艺$zonyi#动漫$dongman#体育赛事$tiyusaishi#",
                     "简介": "🍊小橙子为您介绍剧情👉+mo-paxs-5px mo-ptxs-0px\">&&</div>"
