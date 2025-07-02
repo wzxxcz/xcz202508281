@@ -5967,7 +5967,7 @@
 		"数组":"/voddetail/&&</a>",
 	        "标题": "title=\"&&\"",
 	        "副标题": "<div class=\"module-item-note\">&&</div>", 
-	        "图片":"data-original=\"&&\"",
+	        "图片":"data-original=\"&&\"[替换:amp;>>空]",
 	        "链接":"/voddetail/+&&\"",
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
                 "分类url": "https://www.tdgo.shop/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
