@@ -5964,6 +5964,11 @@
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
                 "主页url": "https://www.tdgo.shop/",
+		"数组":"/voddetail/&&</a>",
+	        "标题": "title=\"&&\"",
+	        "副标题": "<div class=\"module-item-note\">&&</div>", 
+	        "图片":"data-original=\"&&\"",
+	        "链接":"/voddetail/+&&\"",
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
                 "分类url": "https://www.tdgo.shop/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
                 "分类": "电影$20#剧集$21#短剧$24#动漫$22#综艺$23#"
