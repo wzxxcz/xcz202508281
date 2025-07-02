@@ -5895,6 +5895,10 @@
 	        "链接": "href=\"&&\"",
 		"线路数组": "javascript:void(0);&&/a>",
                 "线路标题": "</i>&&<",
+		"播放数组": "<ul class=\"content_playlist&&</ul>",
+                "播放列表": "<a&&</a>",
+                "播放标题": ">&&<",
+                "播放链接": "href=\"&&\"",
                 "分类url": "https://www.laodifang.tv/vodshow/{cateId}--{by}------{catePg}---{year}.html",
                 "分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$20#纪录片$5#"
             }
