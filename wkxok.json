@@ -6046,7 +6046,14 @@
 	        "副标题": "<div class=\"module-item-note\">&&</div>",
 	        "图片":"data-original=\"&&\"",
 	        "链接":"/voddetail/+&&\"",
-                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
+		"线路数组": "data-dropdown&&</div>",
+	        "线路标题": "<span>&&<",
+		"播放数组": "<div class=\"module-play-list-content&&</div>",
+		"倒序": "0",
+                "播放列表": "<a&&</a>",
+                "播放标题":"<span>&&<",
+                "播放链接": "href=\"&&\"",
+                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+module-info-introduction-content\">&&</div>",
                 "分类url": "https://www.voflix.fun/vodshow/{cateId}----{lang}----{catePg}---{year}.html",
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#国产剧$13#日韩剧$15#欧美剧$16#"
             }
