@@ -5432,7 +5432,7 @@
                 "编码": "UTF-8",
                 "主页url": "https://gqc7.top/",
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
-                "分类url": "https://gqc7.top/vodshow/mainland-{area}-------{catePg}---{year}.html",
+                "分类url": "https://gqc7.top/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
                 "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman#短剧$duanju#"
             }
         },
