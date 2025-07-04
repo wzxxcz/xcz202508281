@@ -5805,8 +5805,8 @@
             }
         },
 	{
-            "key": "4K在线",
-            "name": "⛱️4K在线",
+            "key": "光影迷",
+            "name": "🕵️光影迷",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
@@ -5814,8 +5814,8 @@
                 "编码": "UTF-8",
                 "主页url": "https://www.bbibi.cc/",
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
-                "分类url": "https://www.bbibi.cc/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}&yuyan={lang}&area={area}",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$37#"
+                "分类url": "https://www.guangyingmi.com/pianku-{cateId}-{area}---{lang}----{catePg}---{year}/",
+                "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman#短剧$duanju#"
             }
         },
 {
