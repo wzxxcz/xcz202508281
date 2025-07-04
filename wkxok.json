@@ -5814,7 +5814,7 @@
                 "编码": "UTF-8",
                 "主页url": "https://www.bbibi.cc/",
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
-                "分类url": "https://www.bbibi.cc/search.php?page=2&searchtype=5&tid={cateId}&year={year}&yuyan={lang}",
+                "分类url": "https://www.bbibi.cc/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}&yuyan={lang}&area={area}",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$37#"
             }
         },
