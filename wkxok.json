@@ -1349,6 +1349,13 @@
             "filterable": 1
         },
 	{
+	  "key":"采集之王",
+	  "name":"🐢采集搜索",
+	  "type":3,
+	  "api":"https://https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/main/js/drpy2.min.js",
+	  "ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/main/js/采集之王.js?type=url&params=https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/json/采集静态.json$1$1"
+	}, 
+	{
             "key": "瓜子影视",
             "name": "🍉瓜子影视",
             "type": 3,
