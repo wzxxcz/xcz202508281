@@ -839,12 +839,18 @@
           "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/央视综合.js"
         },
 	{
-            "key": "荐片",
-            "name": "🍊荐片磁力",
-            "api": "csp_Jianpian",
-            "type": 3,
-            "playerType": 1,
-            "ext": "http://api2.rinhome.com"
+           "key": "荐片",
+           "name": "🍊荐片磁力",
+           "quickSearch": 0,
+           "searchable": 1,
+           "type": 3,
+           "api": "csp_Jianpian",
+	   "jar": "https://xcz.iptv365.org/wzxm.png",
+           "style": {
+                      "type": "rect",
+                      "ratio": 1.333
+                   },
+           "ext": ""
         },
 	{
             "key": "修罗影视",
