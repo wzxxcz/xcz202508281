@@ -6112,63 +6112,6 @@
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
             }
           },
-	  {
-            "key": "宝片视频",
-            "name": "👶宝片视频",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://ibaopian.com/",
-		"二次截取": "",
-		"数组": "lazyload&&</a>",
-                "标题": "title=\"&&\"",
-		"图片": "data-original=\"&&\"",
-                "副标题": "<span class=\"pic-text text-right\">&&</span>",
-                "链接": "href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/&&.html]", 
-		"线路二次截取": "",
-		"线路数组": "data-toggle&&</a>",
-	        "线路标题": "tab\">&&</a",
-		"播放二次截取": "",
-		"播放数组": "<ul class=\"myui-content__list sort-list clearfix&&</ul>",
-		"倒序": "0",
-                "播放列表": "<a&&</a>",
-                "播放标题": ">&&</a>",
-                "播放链接": "href=\"&&\"",
-                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+电影简介：&&</p",
-                "分类url": "https://ibaopian.com/vod/show/area/{area}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#剧集$2#综艺$3#动漫$4#"
-            }
-          },
-	  {
-            "key": "吃瓜影视",
-            "name": "🥭吃瓜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://www.airuok.com/",
-		"数组": "lazyload&&</a>",
-                "标题": "title=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "副标题": "",
-                "链接": "href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html]", 
-                "线路二次截取": "id=\"NumTab&&</div>",
-                "线路数组": "<a&&/a>",
-                "线路标题": "</i>&&<",
-		"播放二次截取": "",
-		"播放数组": "<ul class=\"content_playlist&&</ul>",
-		"倒序": "0",
-                "播放列表": "<a&&</a>",
-                "播放标题": ">&&<",
-                "播放链接": "href=\"&&\"",
-                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+剧情介绍：&&</p",
-                "分类url": "https://www.airuok.com/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#连续剧$2#综艺$3#动漫$4#"
-            }
-          },
 {
   "key":"魔都资源",
   "name":"🤣魔都动漫",
