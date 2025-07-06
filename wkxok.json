@@ -6121,6 +6121,11 @@
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
                 "主页url": "https://www.airuok.com/",
+		"数组":"/vod/detail&&</a>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "副标题": "", 
+		"链接":"/index.php/vod/detail/id/+/id/&&\"",
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+yp_context\">&&</div>",
                 "分类url": "https://www.airuok.com/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#连续剧$2#综艺$3#动漫$4#"
