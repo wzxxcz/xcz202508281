@@ -6511,7 +6511,7 @@
 		"副标题": "<span>&&</span>",
 		"链接":"/movie/+&&\"",
 		"线路数组":"<div>&&</div>", 
-	        "线路标题":"<span>&&</span>", 
+	        "线路标题":"<div class=\"ypxingq_t\">&&<span>在线观看</span></div>", 
 		"播放数组": "<div class=\"paly_list_btn&&</div>",
                 "播放列表": "<a&&</a>",
                 "播放标题":">&&</a>",
