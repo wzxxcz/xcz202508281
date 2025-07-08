@@ -6812,6 +6812,12 @@
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
                 "主页url": "https://1080p.icu/",
+		"二次截取": "",
+		"数组":"/vod/play&&</div>",
+		"标题":"title=\"&&\"",
+		"图片":"data-src=\"&&\"",
+	        "副标题":"<div class=\"module-item-text\">&&</div>", 
+	        "链接":"/index.php/vod/play/id/+/id/&&\"",
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
                 "分类url": "https://1080p.icu/index.php/vod/show/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#连续剧$2#短剧$3#综艺$4#动漫$5#"
