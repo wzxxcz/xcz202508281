@@ -6504,6 +6504,12 @@
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
                 "主页url":"https://ibaopian.com/",
+		"二次截取": "",
+		"数组": "<div class=\"myui-vodlist__box\"&&</div",
+                "标题": "title=\"&&\"",
+		"图片": "data-original=\"&&\"",
+                "副标题": "<span class=\"pic-text text-right\">&&</span>",
+                "链接": "href=\"&&\"",
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
                 "分类url":"https://ibaopian.com/vod/show/area/{area}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
                 "分类":"电影$1#剧集$2#综艺$3#动漫$4#"
