@@ -6655,7 +6655,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
-                "请求头": "User-Agent@Mozilla/5.0 (Linux；； Android 14；； V2136A Build/UP1A.231005.007；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36&&Cookie@_ok1_=O/cy6XjbAtcfECqjg7U/5Jf6S+sglp7UwKFQFe/X2pVdai5hgC20CBg8KM+C2UOFOROiGZxTrWnC1gyuUwFcqXZ8/Jc4eVcVayfO95WSUbjxIR+B/CbCJMABZmByeptA",
+                "请求头":"User-Agent@Mozilla/5.0 (Linux；； Android 9；； ASUS_I005DA Build/PI；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.70 Mobile Safari/537.36&&Cookie@PHPSESSID=n5ugm7ismngd4stbct6eatslt2；； __51vcke__KIhvD3mx629bJx7W=ca8455af-cd44-5653-8f5c-5ee3b2b19e17；； __51vuft__KIhvD3mx629bJx7W=1751444022894；； _ok1_=Eie2Jh0S4a3z5yYE4ksxcQpfwVWJxkrXzABiO/wrghVrFsULxQSZkNdwyVjs1bm3cZ1BSs+1q6Tb36sbpstyPImLq65/NCuFvXA+FJrnG3Yrk2XakpVR/kbN7RQ/+SsD；； allpop=1；； __51uvsct__KIhvD3mx629bJx7W=3；； __vtins__KIhvD3mx629bJx7W=%7B%22sid%22%3A%20%2265b4f97a-ed7a-5d38-a2c2-987cc041d08e%22%2C%20%22vd%22%3A%202%2C%20%22stt%22%3A%2018338%2C%20%22dr%22%3A%2018338%2C%20%22expires%22%3A%201751951657332%2C%20%22ct%22%3A%201751949857332%7D&&Accept@text/html,application/xhtml+xml,application/xml；；q=0.9,image/avif,image/webp,image/apng,*/*；；q=0.8,application/signed-exchange；；v=b3；；q=0.7&&Accept-Language@zh-CN,zh；；q=0.9",
                 "编码": "UTF-8",
                 "主页url":"https://ibaopian.com/",
 		"二次截取": "",
