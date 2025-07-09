@@ -6213,6 +6213,12 @@
            "ext": {
                    "请求头": "User-Agent$MOBILE_UA",
                    "编码": "UTF-8",
+		   "二次截取": "",
+		   "数组":"lazyload&&</a>",
+		   "标题":"title=\"&&\"",
+		   "图片":"data-original=\"&&\"",
+	           "副标题":"<span class=\"pic-text text-center\">&&</span>", 
+	           "链接":"href=\"&&\"",
                    "分类url":"https://www.88tvs.org/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
                    "分类": "电影$dianying#剧集$juji#动漫$dongman#综艺$zongyi#短剧$duanju#",
                    "简介": "🍊小橙子为您介绍剧情👉+col-pd text-collapse content\">&&</div>"
