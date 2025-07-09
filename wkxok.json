@@ -7156,7 +7156,7 @@
                 "主页url": "https://www.wkvod.cc/",
 		"数组":"/vod&&</div>",
 		"标题":"title=\"&&\"",
-		"图片":"data-src\"&&\"",
+		"图片":"data-src=\"&&\"",
 	        "副标题": "<span>&&</span>",
 	        "链接": "href=\"&&\"[替换:vod>>play#.html>>-1-1.html]",
 		 "多线二次截取": "xianlu\">&&</div>",
