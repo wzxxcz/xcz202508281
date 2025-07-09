@@ -7102,7 +7102,7 @@
                 "编码": "UTF-8",
                 "主页url": "http://vedio.kundihulan.com/",
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
-                "分类url":"http://www.dewei.cn/news/{cateId}-{catePg}.html",
+                "分类url":"http://www.dewei.cn/pre/{cateId}--------{catePg}---{year}.html",
                 "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#"
              }
           },
