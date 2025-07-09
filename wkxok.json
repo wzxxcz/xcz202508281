@@ -6213,21 +6213,8 @@
            "ext": {
                    "请求头": "User-Agent$MOBILE_UA",
                    "编码": "UTF-8",
-	           "数组": "class=\"myui-vodlist__box\"&&</a",
-	           "标题": "title=\"&&\"",
-	           "副标题": "<span class=\"pic-text text-right\">&&</span>", 
-	           "图片": "data-original=\"&&\"",
-	           "链接": "href=\"&&\"",
-	           "线路数组": "\\#playlist&&</li>",
-		   "线路标题": ">&&<",
-	           "播放数组": "sort-list clearfix&&</ul>",
-                   "播放列表": "<a&&/a>",
-                   "播放标题": ">&&<",
-                   "播放链接": "href=\"&&\"",
-	           "跳转播放链接": "var player_*\"url\":\"&&\"",
-		   "搜索url":"https://www.88tv01.cc/vodsearch/{wd}--/page/{pg}/",
-                   "分类url": "https://www.88tv01.cc/show/{cateId}/area/{area}/page/{catePg}/year/{year}/",
-                   "分类": "电影$dy#电视剧$dsj#动漫$dm#陆剧$lj#美剧$mj#韩剧$hj#",
+                   "分类url":"https://www.88tvs.org/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+                   "分类": "电影$dianying#剧集$juji#动漫$dongman#综艺$zongyi#短剧$duanju#",
                    "简介": "🍊小橙子为您介绍剧情👉+col-pd text-collapse content\">&&</div>"
                  }
           }, 
