@@ -7134,7 +7134,7 @@
 		"图片":"data-original=\"&&\"",
 		"副标题":"<span class=\"fed-list-remarks fed-font-xii fed-text-white fed-text-center\">&&</span>",
 		"链接": "href=\"&&\"",
-		"线路数组": "fed-visible\">&&/li>",
+		"线路数组": "fed-drop-head fed-padding fed-part-rows\">&&/ul>",
                 "线路标题": "<li*>&&<",
 		"播放数组":"fed-part-rows detail-play-list&&</ul>",
                 "播放列表":"<a&&a>",
