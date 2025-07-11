@@ -650,7 +650,7 @@
             "name": "🧸玩偶4K弹幕",
             "type": 3,
             "api": "csp_Wogg",
-	    "jar": "https://xcz.iptv365.org/wzxm.png",
+	    "jar": "https://xcz.iptv365.org/wzxm.gif",
             "changeable": "0",
             "quickSearch": 1,
             "filterable": 1,
@@ -723,7 +723,7 @@
             "changeable": "0",
             "quickSearch": 1,
             "api": "csp_Duopan",
-	    "jar": "https://xcz.iptv365.org/wzxm.png",
+	    "jar": "https://xcz.iptv365.org/wzxm.gif",
             "filterable": 1,
             "ext": {
             "site_urls": [
@@ -905,7 +905,7 @@
           "searchable": 1,
           "quickSearch": 1,
           "api": "csp_MiSou",
-	  "jar": "https://xcz.iptv365.org/wzxm.png"
+	  "jar": "https://xcz.iptv365.org/wzxm.gif"
         },
         {
           "key": "全盘",
@@ -955,7 +955,7 @@
             "name": "🖍蜡笔4K弹幕",
             "type": 3,
             "api": "csp_Duopan",
-	    "jar": "https://xcz.iptv365.org/wzxm.png",
+	    "jar": "https://xcz.iptv365.org/wzxm.gif",
             "filterable": 1,
         "ext": {
         "site_urls": [
@@ -1016,7 +1016,7 @@
           "changeable": "0",
           "quickSearch": 1,
           "api": "csp_Duopan",
-	  "jar": "https://xcz.iptv365.org/wzxm.png",
+	  "jar": "https://xcz.iptv365.org/wzxm.gif",
           "filterable": 1,
           "ext": {
           "site_urls": [
@@ -1054,7 +1054,7 @@
            "searchable": 1,
            "type": 3,
            "api": "csp_Jianpian",
-	   "jar": "https://xcz.iptv365.org/wzxm.png",
+	   "jar": "https://xcz.iptv365.org/wzxm.gif",
            "style": {
                       "type": "rect",
                       "ratio": 1.333
@@ -1161,7 +1161,7 @@
            "type": 3,
            "quickSearch": 1,
            "api": "csp_Jpys",
-	   "jar": "https://xcz.iptv365.org/wzxm.png"
+	   "jar": "https://xcz.iptv365.org/wzxm.gif"
         },
 	{
             "key": "鸭梨视频",
@@ -1799,7 +1799,7 @@
           "searchable": 1,
           "quickSearch": 1,
           "api": "https://13826.kstore.space/jubaba.py",
-	  "jar": "https://xcz.iptv365.org/wzxm.png",
+	  "jar": "https://xcz.iptv365.org/wzxm.gif",
           "ext": ""
         },
 	{
@@ -3574,7 +3574,7 @@
 	    "searchable": 1,
             "quickSearch": 1,
             "api": "csp_AppYsV2",
-	    "jar": "https://xcz.iptv365.org/wzxm.png",
+	    "jar": "https://xcz.iptv365.org/wzxm.gif",
             "playerType": 2,
             "ext": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/cs.txt"
         },
@@ -3585,7 +3585,7 @@
            "searchable": 1,
            "quickSearch": 1,
            "api": "csp_AppGet",
-	   "jar": "https://xcz.iptv365.org/wzxm.png",
+	   "jar": "https://xcz.iptv365.org/wzxm.gif",
            "ext": "XRksEN3W20hd3bSb1cdiKs8RUIegfh9/V/YlhVyjCL0eqxZYfImI5sC9kLAqQXjv66FYClFaEI40zh/NzOUPsBYCLt4NsSH1V+UpZf/dKjEDsI0tm9aILcvqHG2qxVoV8AVi+Ij/7n9IRf3pTN1BxQ=="
         },
 	{
@@ -3606,7 +3606,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "api": "csp_AppSy",
-	    "jar": "https://xcz.iptv365.org/wzxm.png",
+	    "jar": "https://xcz.iptv365.org/wzxm.gif",
             "playerType": 2,
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662",
             "ext": "9rfWRaAx60J+W5F+j6agt6AHU3NkRl7m8WqfWIBU/MebSZgzY2wnsXwmAIMEYVqMzsnqr46bOn1q4JV/UJAKUVF6NUo2Xg8qcHgXrA63RWM="
@@ -3616,7 +3616,7 @@
             "name": "🌉幕启影视",
             "type": 3,
             "api": "csp_AppSy",
-	    "jar": "https://xcz.iptv365.org/wzxm.png",
+	    "jar": "https://xcz.iptv365.org/wzxm.gif",
             "ext": "iUYplHbim/qVptUBrzCuqk72erYn+xHvZVGawkGUOqtLGtiWlDcWpUagYzdfPYeECbG+IjVf7Mhz2ZqZ70k6X72tkUhQDNEpIN/XScTGlUE="
         },
 	{
@@ -3659,7 +3659,7 @@
           "quickSearch": 1,
           "searchable": 1,
           "api": "https://13826.kstore.space/get3.py",
-	  "jar": "https://xcz.iptv365.org/wzxm.png",
+	  "jar": "https://xcz.iptv365.org/wzxm.gif",
           "ext": {
                    "host": "https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt",
                    "api": "/api.php/qijiappapi",
@@ -3674,7 +3674,7 @@
           "quickSearch": 1,
           "searchable": 1,
           "api": "https://13826.kstore.space/mioaying.py",
-	  "jar": "https://xcz.iptv365.org/wzxm.png"
+	  "jar": "https://xcz.iptv365.org/wzxm.gif"
         },
 	{
             "key": "csp_baibai",
@@ -3682,7 +3682,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_SuBaiBai",
-	    "jar": "https://xcz.iptv365.org/wzxm.png",
+	    "jar": "https://xcz.iptv365.org/wzxm.gif",
             "ext": "https://www.subaibai.com"
         },
 	{
@@ -3692,7 +3692,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "api": "csp_LiteApple",
-	    "jar": "https://xcz.iptv365.org/wzxm.png"
+	    "jar": "https://xcz.iptv365.org/wzxm.gif"
         },
 	{
             "key": "天天影视",
@@ -3711,7 +3711,7 @@
             "name": "👨农民1080P",
             "type": 3,
             "api": "csp_Wwys",
-	    "jar": "https://xcz.iptv365.org/wzxm.png",
+	    "jar": "https://xcz.iptv365.org/wzxm.gif",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -3724,7 +3724,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "api": "csp_AppRJ",
-	    "jar": "https://xcz.iptv365.org/wzxm.png",
+	    "jar": "https://xcz.iptv365.org/wzxm.gif",
             "ext": "jsSMEuhTZIAHjnUoLBzKdlRu5exzno6M4efF8LzwjWM="
         },
 	{
@@ -3734,7 +3734,7 @@
            "searchable": 1,
            "quickSearch": 1,
            "api": "csp_AppGet",
-	   "jar": "https://xcz.iptv365.org/wzxm.png",
+	   "jar": "https://xcz.iptv365.org/wzxm.gif",
            "ext": "XRksEN3W20hd3bSb1cdiKgyQTbBO6aM0THhjKXE4Nl7W0aOx624xuIFTAGd0lwLd+GTB05zPlJYlZO1OgsJ6tfUd3LU926poUPnJ/jPh+h8GMdpo75H2pTl+Wb4waE5COjhN/OQGW7RRuI3cdPEtNw=="
         },
 	{
