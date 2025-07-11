@@ -803,6 +803,18 @@
                     }
         },
 	{
+           "key":"虎牙直播",
+           "name":"🐯虎牙直播",
+           "type": 3,
+           "api":"https://git.acwing.com/xcz/tw/-/raw/master/js/drpy2.min.js",
+	   "jar": "https://xcz.iptv365.org/tvkj.jar",
+           "ext":"https://git.acwing.com/xcz/tw/-/raw/master/js/虎牙直播.js",
+           "style": {
+                      "type": "rect",
+                      "ratio": 1.597
+                    }
+        },
+	{
           "key": "央视大全",
           "name": "🍊央视大全",
           "type": 3,
