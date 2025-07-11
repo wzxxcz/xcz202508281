@@ -7557,7 +7557,16 @@
 		"图片":"data-original=\"&&\"",
 		"副标题":"<span class=\"fed-list-remarks fed-font-xii fed-text-white fed-text-center\">&&</span>",
 		"链接": "href=\"&&\"",
-                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
+                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+fed-padding fed-part-both fed-text-muted\">&&</div>",
+		"线路二次截取": "",    
+		"线路数组": "fed-drop-head fed-padding fed-part-rows\">&&/ul>",
+                "线路标题": "<li*>&&<",
+		"播放二次截取": "",
+		"播放数组":"fed-part-rows detail-play-list&&</ul>",
+		"倒序": "0",
+                "播放列表":"<a&&a>",
+                "播放标题":">&&<",
+                "播放链接": "href=\"&&\"",
                 "分类url":"https://zhuji.zp910.com/pre/{cateId}--------{catePg}---{year}.html",
                 "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#"
              }
