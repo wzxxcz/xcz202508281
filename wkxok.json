@@ -795,6 +795,7 @@
            "name":"🐯虎牙直播",
            "type": 3,
            "api":"https://gitee.com/wzbdyr/tw/raw/master/js/drpy2.min.js",
+	   "jar":"https://gitee.com/wzbdyr/tw/blob/master/tvkj.jar",
            "ext":"https://gitee.com/wzbdyr/tw/raw/master/js/虎牙直播.js",
            "style": {
                       "type": "rect",
