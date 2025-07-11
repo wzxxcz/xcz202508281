@@ -7966,6 +7966,18 @@
   "changeable": 0
 },
 {
+  "key": "88看球",
+  "name": "⚽88看球",
+  "type": 3,
+  "api": "csp_Kanqiu",
+  "jar": "https://xcz.iptv365.org/wzxm.gif",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 1,
+  "order_num": 0,
+  "changeable": 0
+},
+{
       "key": "阿里云盘",
       "name": "🍊我的阿里",
       "type": 3,
