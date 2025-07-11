@@ -794,18 +794,6 @@
            "key":"虎牙直播",
            "name":"🐯虎牙直播",
            "type": 3,
-           "api":"https://gitee.com/wzbdyr/tw/raw/master/js/drpy2.min.js",
-	   "jar": "https://xcz.iptv365.org/tvkj.jar",
-           "ext":"https://gitee.com/wzbdyr/tw/raw/master/js/虎牙直播.js",
-           "style": {
-                      "type": "rect",
-                      "ratio": 1.597
-                    }
-        },
-	{
-           "key":"虎牙直播",
-           "name":"🐯虎牙直播",
-           "type": 3,
            "api":"https://git.acwing.com/xcz/tw/-/raw/master/js/drpy2.min.js",
 	   "jar": "https://xcz.iptv365.org/tvkj.jar",
            "ext":"https://git.acwing.com/xcz/tw/-/raw/master/js/虎牙直播.js",
@@ -4099,6 +4087,32 @@
                       "排序值": "time&hits&score"
             }
           },
+	  {
+             "key": "量子",
+             "name": "⚗量子秒播",
+             "type": 1,
+             "api": "http://cj.lziapi.com/api.php/provide/vod/",
+             "searchable": 1,
+             "quickSearch": 1,
+             "filterable": 0,
+             "playurl": "json:https://lziplayer.com/?url=",
+             "categories": [
+                             "国产剧",
+                             "国产动漫",
+                             "泰国剧",
+                             "台湾剧",
+                             "香港剧",
+                             "欧美剧",
+                             "韩国剧",
+                             "日本剧",
+                             "动漫",
+                             "体育",
+                             "剧情片",
+                             "动作片",
+                             "爱情片",
+                             "喜剧片"
+                           ]
+        },
 	{
            "key": "樱花影视",
            "name": "🌸樱花影视",
