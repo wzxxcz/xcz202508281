@@ -1,5 +1,5 @@
 {
-    "spider": "./xcz.jar",
+    "spider": "./dd.jar",
     "wallpaper": "https://xcz.iptv365.org/xcz.php",
     "logo": "https://xcz.iptv365.org/logo.php",
     "lives": [
@@ -850,7 +850,6 @@
           "name": "🐲小橙子智能4K弹幕",
           "type": 3,
           "api": "csp_PanWebShare",
-	  "jar": "https://xcz.iptv365.org/wzxqh.jar",
           "searchable": 1,
           "quickSearch": 1,
           "filterable": 1,
