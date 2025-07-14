@@ -1539,6 +1539,21 @@
                  }
         },
 	{
+           "key": "热剧",
+           "name": "🐚热剧影视",
+           "type": 3,
+           "quickSearch": 1,
+           "api": "csp_AppGet2",
+           "ext": {
+                    "url": "",
+                    "site": "https://app-qy.oss-cn-shanghai.aliyuncs.com/rebo.txt",
+                    "dataKey": "8191A7F47B37882F",
+                    "dataIv": "8191A7F47B37882F",
+                    "deviceId": "",
+                    "version": ""
+                  }
+        },
+	{
             "key": "鸭梨视频",
             "name": "🥑鸭梨视频",
             "type": 3,
