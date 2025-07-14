@@ -1483,7 +1483,7 @@
         },
 	{
           "key": "榴莲",
-          "name": "🫒榴莲影视",
+          "name": "🥭榴莲影视",
           "type": 3,
           "quickSearch": 1,
           "api": "csp_AppGet2",
@@ -1493,6 +1493,20 @@
                     "dataIv": "1yGA85sJ5STtE7uj",
                     "deviceId": "",
                     "version": "50000"
+                 }
+        },
+	{
+          "key": "蓝鹰",
+          "name": "🦅蓝鹰影视",
+          "type": 3,
+          "quickSearch": 1,
+          "api": "csp_AppGet2",
+          "ext": {
+                   "url": "http://172.247.192.138:18520",
+                   "dataKey": "SuNlEkOLAoWJj1Oe",
+                   "dataIv": "SuNlEkOLAoWJj1Oe",
+                   "deviceId": "",
+                   "version": ""
                  }
         },
 	{
