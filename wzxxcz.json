@@ -1554,6 +1554,19 @@
                   }
         },
 	{
+           "key": "米诺",
+           "name": "🌯米诺影视",
+           "type": 3,
+           "api": "csp_AppGet",
+           "ext": {
+                     "url": "http://www.milkidc.cn",
+                     "dataKey": "20c79c979da8db0f",
+                     "dataIv": "20c79c979da8db0f",
+                     "deviceId": "",
+                     "version": ""
+                 }
+        },
+	{
             "key": "鸭梨视频",
             "name": "🥑鸭梨视频",
             "type": 3,
