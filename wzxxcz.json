@@ -1524,6 +1524,21 @@
                 }
         },
 	{
+          "key": "鲸鱼",
+          "name": "🐳鲸鱼影视",
+          "type": 3,
+          "quickSearch": 1,
+          "api": "csp_AppGet2",
+          "ext": {
+                   "url": "",
+                   "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
+                   "dataKey": "AAdgrdghjfgswerA",
+                   "dataIv": "AAdgrdghjfgswerA",
+                   "deviceId": "",
+                   "version": ""
+                 }
+        },
+	{
             "key": "鸭梨视频",
             "name": "🥑鸭梨视频",
             "type": 3,
