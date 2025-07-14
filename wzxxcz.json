@@ -1432,19 +1432,19 @@
                 }
         },
 	{
-          "key": "豆丁",
-          "name": "🥛豆丁影视",
-          "type": 3,
-          "quickSearch": 1,
-          "api": "csp_AppGet",
-          "ext": {
-                   "url": "",
-                   "site": "https://vip.123pan.cn/1848451100/zl/xfdd.txt",
-                   "dataKey": "xasdasdqwertyuio",
-                   "dataIv": "xasdasdqwertyuio",
-                   "deviceId": "",
-                   "version": ""
-                 }
+           "key": "灵虎",
+           "name": "🐅灵虎影视",
+           "type": 3,
+           "quickSearch": 1,
+           "api": "csp_AppGet",
+           "ext": {
+                     "url": "",
+                     "site": "https://bind.315999.xyz/89.txt",
+                     "dataKey": "#getapp@TMD@2025",
+                     "dataIv": "#getapp@TMD@2025",
+                     "deviceId": "",
+                     "version": ""
+                  }
         },
 	{
             "key": "鸭梨视频",
