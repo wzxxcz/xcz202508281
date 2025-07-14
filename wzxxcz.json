@@ -1467,6 +1467,21 @@
                  }
         },
 	{
+          "key": "雄鹰",
+          "name": "🦅雄鹰影视",
+          "type": 3,
+          "quickSearch": 1,
+          "api": "csp_AppGet2",
+          "ext": {
+                    "url": "",
+                    "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
+                    "dataKey": "ca94b06ca359d80e",
+                    "dataIv": "ca94b06ca359d80e",
+                    "deviceId": "",
+                    "version": "120"
+                 }
+        },
+	{
             "key": "鸭梨视频",
             "name": "🥑鸭梨视频",
             "type": 3,
