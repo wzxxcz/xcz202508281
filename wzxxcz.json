@@ -1747,6 +1747,20 @@
                 }
         },
 	{
+          "key": "诺映",
+          "name": "🌆诺映影视",
+          "type": 3,
+          "quickSearch": 1,
+          "api": "csp_AppGet",
+          "ext": {
+                   "url": "https://www.noad.top",
+                   "dataKey": "708FA298F0855840",
+                   "dataIv": "708FA298F0855840",
+                   "deviceId": "2129ec9e6e5703cb0aeeddd79554e38f8",
+                   "version": "103"
+                }
+        },
+	{
             "key": "鸭梨视频",
             "name": "🥑鸭梨视频",
             "type": 3,
