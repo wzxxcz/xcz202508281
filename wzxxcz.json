@@ -1120,6 +1120,16 @@
           "api": "csp_MiSou"
         },
 	{
+          "key": "聚搜",
+          "name": "🍊聚搜搜索",
+          "type": 3,
+          "api": "csp_PanWebSearch",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "changeable": 1
+        },
+	{
            "key": "爱搜",
            "name": "🍊爱搜搜索",
            "type": 3,
