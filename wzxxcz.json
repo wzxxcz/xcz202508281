@@ -8767,7 +8767,6 @@
       "name": "🍊我的阿里",
       "type": 3,
       "api": "csp_PanAli",
-      "jar": "https://xcz.iptv365.org/wzxqh.jar",
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
@@ -8775,14 +8774,13 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./json/阿里.json"
+      "ext": "./json/aliShare.json"
 },
 {
       "key": "夸克云盘",
       "name": "🍊我的夸克",
       "type": 3,
       "api": "csp_PanQuark",
-      "jar": "https://xcz.iptv365.org/wzxqh.jar",
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
@@ -8790,14 +8788,13 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./json/夸克.json"
+      "ext": "./json/quarkShare.json"
 },
 {
       "key": "UC",
       "name": "🍊我的UC",
       "type": 3,
       "api": "csp_PanUc",
-      "jar": "https://xcz.iptv365.org/wzxqh.jar",
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
@@ -8805,14 +8802,13 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./json/UC.json"
+      "ext": "./json/ucShare.json"
 },
 {
       "key": "百度云盘",
       "name": "🍊我的百度",
       "type": 3,
       "api": "csp_PanBaiDu",
-      "jar": "https://xcz.iptv365.org/wzxqh.jar",
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
@@ -8826,7 +8822,6 @@
       "name": "🍊网盘推送",
       "type": 3,
       "api": "csp_Push",
-      "jar": "https://xcz.iptv365.org/wzxqh.jar",
       "searchable": 0,
       "filterable": 0,
       "changeable": 0
