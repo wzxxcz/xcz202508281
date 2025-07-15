@@ -1946,13 +1946,13 @@
             "ext": "https://www.subaibai.com"
         },
 	{
-            "key": "csp_LiteApple",
-            "name": "🍎苹果1080P",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "csp_LiteApple",
-	    "jar": "https://xcz.iptv365.org/wzxm.gif"
+          "key": "苹果影视",
+          "name": "🍎苹果1080P",
+          "type": 3,
+          "api": "csp_LiteApple",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1
         },
 	{
             "key": "csp_nongmin",
