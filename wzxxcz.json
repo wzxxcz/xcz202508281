@@ -1691,6 +1691,20 @@
                 }
         },
 	{
+          "key": "在看",
+          "name": "🦁在看影视",
+          "type": 3,
+          "quickSearch": 1,
+          "api": "csp_AppGet",
+          "ext": {
+                   "url": "http://149.88.64.161:9525",
+                   "dataKey": "123456789ABCDEFG",
+                   "dataIv": "123456789ABCDEFG",
+                   "deviceId": "",
+                   "version": ""
+                }
+        },
+	{
             "key": "鸭梨视频",
             "name": "🥑鸭梨视频",
             "type": 3,
