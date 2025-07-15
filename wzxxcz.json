@@ -979,36 +979,6 @@
             "ext": "./json/奥秘.json"
         },
 	{
-          "key": "天堂",
-          "name": "🍊天堂4K弹幕",
-          "type": 3,
-          "api": "./js/cloud.min.js",
-          "ext": "./js/天堂.js",
-          "style": {
-                     "type": "list"
-                   }
-        },
-	{
-          "key": "人人电影网",
-          "name": "🍊人人4K弹幕",
-          "type": 3,
-          "api": "./js/cloud.min.js",
-          "ext": "./js/人人电影网.js",
-          "style": {
-                     "type": "list"
-                  }
-        },
-	{
-          "key": "爱搜",
-          "name": "🍊爱搜4K弹幕",
-          "type": 3,
-          "api": "./js/cloud.min.js",
-          "ext": "./js/爱搜.js",
-          "style": {
-                     "type": "list"
-                   }
-        },
-	{
           "key": "雷鲸",
           "name": "🍊雷鲸4K弹幕",
           "type": 3,
@@ -1084,36 +1054,6 @@
           "ext": "./json/kf.json"
         },
 	{
-          "key": "双星",
-          "name": "🍊双星4K弹幕",
-          "type": 3,
-          "api": "./js/cloud.min.js",
-          "ext": "./js/双星.js",
-          "style": {
-                     "type": "list"
-                   }
-        },
-	{
-          "key": "懒盘",
-          "name": "🍊懒盘4K弹幕",
-          "type": 3,
-          "api": "./js/cloud.min.js",
-          "ext": "./js/懒盘.js",
-          "style": {
-                      "type": "list"
-                   }
-        },
-	{
-          "key": "校长",
-          "name": "🍊校长4K弹幕",
-          "type": 3,
-          "api": "./js/cloud.min.js",
-          "ext": "./js/校长.js",
-          "style": {
-                     "type": "list"
-                  }
-        },
-	{
           "key": "米搜",
           "name": "🌾米搜4K4K弹幕",
           "type": 3,
@@ -1130,17 +1070,6 @@
           "changeable": 1
         },
 	{
-           "key": "爱搜",
-           "name": "🍊爱搜搜索",
-           "type": 3,
-           "api": "http://38.165.20.168/js/cloud.min.js",
-	   "jar": "https://xcz.iptv365.org/wzxqh.jar",
-           "ext": "http://38.165.20.168/js/百度.js",
-           "style": {
-                       "type": "list"
-                    }
-        },
-	{
           "key": "csp_MiSou",
           "name": "🔍米搜盘聚",
           "type": 3,
@@ -1148,28 +1077,6 @@
           "quickSearch": 1,
           "api": "csp_MiSou",
 	  "jar": "https://xcz.iptv365.org/wzxm.gif"
-        },
-        {
-          "key": "全盘",
-          "name": "🍊全盘4K弹幕",
-          "type": 3,
-          "api": "http://38.165.20.168/js/cloud.min.js",
-	  "jar": "https://xcz.iptv365.org/wzxqh.jar",
-          "ext": "http://38.165.20.168/js/全盘.js",
-          "style": {
-                     "type": "list"
-                   }
-        },
-        {
-          "key": "盘搜",
-          "name": "🍊盘搜4K弹幕",
-          "type": 3,
-          "api": "http://38.165.20.168/js/cloud.min.js",
-	  "jar": "https://xcz.iptv365.org/wzxqh.jar",
-          "ext": "http://38.165.20.168/js/盘搜.js",
-          "style": {
-                     "type": "list"
-                   }
         },
 	{
           "key": "糖果",
@@ -2116,13 +2023,6 @@
             "filterable": 1
         },
 	{
-          "key": "采集之王",
-          "name": "🐉采集合集",
-          "type": 3,
-          "api": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/FEIUI/tvbox/refs/heads/master/xiaosa/js/drpy2.min.js",
-          "ext": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/FEIUI/tvbox/refs/heads/master/xiaosa/js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
-        },
-	{
             "key": "爱看机器人",
             "name":"💡爱看影视",
             "type": 3,
@@ -2130,6 +2030,20 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+	{
+            "key": "海纳TV",
+            "name": "🏖️海纳TV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.hainatv.net/",
+                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
+                "分类url":"https://www.hainatv.net/index.php/vod/show/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#"
+            }
         },
 	{
           "key": "云播影视",
