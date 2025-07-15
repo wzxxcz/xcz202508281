@@ -1937,15 +1937,6 @@
 	  "jar": "https://xcz.iptv365.org/wzxm.gif"
         },
 	{
-            "key": "csp_baibai",
-            "name": "🐟白白秒播",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_SuBaiBai",
-	    "jar": "https://xcz.iptv365.org/wzxm.gif",
-            "ext": "https://www.subaibai.com"
-        },
-	{
           "key": "苹果影视",
           "name": "🍎苹果1080P",
           "type": 3,
@@ -2044,6 +2035,22 @@
                       "排序": "时间&人气&评分",
                       "排序值": "time&hits&score"
                    }
+        },
+	{
+          "key": "白白影视",
+          "name": "🐟白白秒播",
+          "type": 3,
+          "api": "csp_SuBaiBai",
+          "ext": "https://www.subaibai.com"
+        },
+	{
+          "key": "低端影视",
+          "name": "🥃低端影视",
+          "type": 3,
+          "api": "csp_Ddys",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1
         },
 	{
             "key": "csp_nongmin",
