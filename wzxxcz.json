@@ -1677,6 +1677,20 @@
                  }
         },
 	{
+          "key": "小红",
+          "name": "🍒小红影视",
+          "type": 3,
+          "quickSearch": 1,
+          "api": "csp_AppGet",
+          "ext": {
+                   "url": "https://www.xiaohys.com",
+                   "dataKey": "ENonBHeVBoYZhVUV",
+                   "dataIv": "ENonBHeVBoYZhVUV",
+                   "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
+                   "version": "166"
+                }
+        },
+	{
             "key": "鸭梨视频",
             "name": "🥑鸭梨视频",
             "type": 3,
