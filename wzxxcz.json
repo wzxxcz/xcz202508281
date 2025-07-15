@@ -1705,6 +1705,20 @@
                 }
         },
 	{
+          "key": "星河",
+          "name": "🌃星河影视",
+          "type": 3,
+          "quickSearch": 1,
+          "api": "csp_AppGet",
+          "ext": {
+                   "url": "http://121.62.22.204:9876",
+                   "dataKey": "f5e2tx53ykp6s2c9",
+                   "dataIv": "f5e2tx53ykp6s2c9",
+                   "deviceId": "",
+                   "version": "361"
+                }
+        },
+	{
             "key": "鸭梨视频",
             "name": "🥑鸭梨视频",
             "type": 3,
@@ -4166,15 +4180,6 @@
             "jar": "https://xcz.iptv365.org/wzxxczapp",
             "playerType": 1,
             "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
-        },
-	{
-            "key": "星河",
-            "name": "🍊星河影视",
-            "type": 3,
-            "api": "csp_Xdai",
-            "jar": "https://xcz.iptv365.org/wzxxczapp",
-            "playerType": 2,
-            "ext": "7lj763gg0939791954248jihg5529587lig9i654j59i326l5j5208hklg19161j139753h090539gig3g11h49gk3l21hl4hk637h53ghg6ikl2219j28lj76h8430kkkklj6hkl022272g8h5g69068hli583061k3l9373hk09hg9j79l31l43h06187l37j675lhkg57k511jk"
         },
 	{
             "key": "QD4K",
