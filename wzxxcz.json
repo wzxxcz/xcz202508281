@@ -1567,6 +1567,20 @@
                  }
         },
 	{
+           "key": "海豚",
+           "name": "🐬海豚1080P",
+           "type": 3,
+           "quickSearch": 1,
+           "api": "csp_AppGet",
+           "ext": {
+                     "url": "http://getapp.hiapp.com.cn",
+                     "dataKey": "2268331221bobobo",
+                     "dataIv": "2268331221bobobo",
+                     "deviceId": "",
+                     "version": "107"
+                 }
+        },
+	{
             "key": "鸭梨视频",
             "name": "🥑鸭梨视频",
             "type": 3,
@@ -4048,16 +4062,6 @@
 	    "jar": "https://xcz.iptv365.org/wzxm.gif",
             "playerType": 2,
             "ext": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/cs.txt"
-        },
-	{
-          "key": "海豚",
-          "name": "🐬海豚1080P",
-          "type": 3,
-          "searchable": 1,
-          "quickSearch": 1,
-          "api": "csp_AppGet",
-	  "jar": "https://xcz.iptv365.org/wzxm.gif",
-          "ext": "QxNFQL63IQgXoB/O+Q12SpWJNcSeybsKVx0uAk9+pBwLEYRybmr89ubfoMpO9ZMnmJwYP5eKIrLK/w5t9S+6+F2ZlfWUyUoDUP2rV9QVabZh8nM+rBV7F/sxe+7GgsdL"
         },
 	{
             "key": "巧技",
