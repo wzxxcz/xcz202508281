@@ -1955,6 +1955,13 @@
           "filterable": 1
         },
 	{
+          "key": "全网影视",
+          "name": "⛲全看影视",
+          "type": 3,
+          "api": "csp_Quanwk",
+          "ext": "https://www.91qkw.com"
+        },
+	{
             "key": "csp_nongmin",
             "name": "👨农民1080P",
             "type": 3,
