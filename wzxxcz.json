@@ -980,11 +980,10 @@
         },
 	{
           "key": "天堂",
-          "name": "🍊天堂搜索",
+          "name": "🍊天堂4K弹幕",
           "type": 3,
-          "api": "http://38.165.20.168/js/cloud.min.js",
-	  "jar": "https://xcz.iptv365.org/wzxqh.jar",
-          "ext": "http://38.165.20.168/js/天堂.js",
+          "api": "./js/cloud.min.js",
+          "ext": "./js/天堂.js",
           "style": {
                      "type": "list"
                    }
