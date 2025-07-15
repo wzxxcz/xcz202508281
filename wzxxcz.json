@@ -1085,14 +1085,13 @@
                    }
         },
 	{
-         "key": "校长",
-         "name": "🍊校长4K弹幕",
-         "type": 3,
-         "api": "http://38.165.20.168/js/cloud.min.js",
-	 "jar": "https://xcz.iptv365.org/wzxqh.jar",
-         "ext": "http://38.165.20.168/js/校长.js",
-         "style": {
-                    "type": "list"
+          "key": "校长",
+          "name": "🍊校长4K弹幕",
+          "type": 3,
+          "api": "./js/cloud.min.js",
+          "ext": "./js/校长.js",
+          "style": {
+                     "type": "list"
                   }
         },
 	{
