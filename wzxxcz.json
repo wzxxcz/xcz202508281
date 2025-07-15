@@ -1774,6 +1774,19 @@
                  }
         },
 	{
+          "key": "趣看",
+          "name": "🥽趣看影视",
+          "type": 3,
+          "quickSearch": 1,
+          "api": "csp_AppMuou",
+          "ext": {
+                   "url": "https://xjuzi.top",
+                   "dataKey": "6a482a70b80eefc9",
+                   "dataIv": "c995826a3e86fedd",
+                   "jxurl": "https://www.ququkan.cc"
+                 }
+        },
+	{
             "key": "鸭梨视频",
             "name": "🥑鸭梨视频",
             "type": 3,
