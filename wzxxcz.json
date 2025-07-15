@@ -1166,7 +1166,6 @@
           "name": "🍭糖果搜索",
           "type": 3,
           "api": "csp_TGSou",
-	  "jar": "https://xcz.iptv365.org/wzxqh.jar",
           "searchable": 1,
           "changeable": 0
         },
