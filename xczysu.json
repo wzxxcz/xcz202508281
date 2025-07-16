@@ -516,6 +516,12 @@
             "remark": "本源由小橙子维护"
         },
 	{
+            "name": "📺小橙子Guovin",
+            "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
+            "type": 10,
+            "remark": "本源由小橙子维护"
+        },
+	{
             "name": "📺中天港澳体育",
             "url": "http://ys.my.to//i/?T=HK",
             "type": 10,
