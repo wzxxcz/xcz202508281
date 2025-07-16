@@ -8501,19 +8501,6 @@
                   }
           },
 	  {
-            "key": "白嫖者联盟",
-            "name": "🥏白嫖者联盟",
-            "type": 3,
-            "ua": "okhttp/3.15",
-            "api": "csp_XBPQ",
-            "ext": {
-                     "分类url": "https://www.qyzf88.com/qyvodtype/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-                     "分类": "电影$1#电视剧$2#樱花动漫$4#综艺$3",
-                     "副标题": "class=\"pic-text text-right\"&&</span>",
-                     "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+剧情介绍：&&</div>"
-                  }
-          },
-	  {
              "key": "量子",
              "name": "⚗量子秒播",
              "type": 1,
