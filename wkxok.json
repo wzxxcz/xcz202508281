@@ -8527,6 +8527,15 @@
                            ]
         },
 	{
+            "key": "非凡采集资源",
+            "name": "🍊非凡采集",
+            "type": 1,
+            "api": "http://cj.ffzyapi.com",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1
+        },
+	{
             "key": "星辰影视",
             "name": "💧星辰影视",
             "type": 3,
