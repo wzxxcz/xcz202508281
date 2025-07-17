@@ -1031,21 +1031,21 @@
                  }
         },
 	{
-           "key": "趣盘",
-           "name": "🍊趣盘4K弹幕",
-           "type": 3,
-           "api": "csp_PanWebQu",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-           "changeable": 1,
-           "style": {
-                       "type": "list",
-                       "ratio": 1.433
-                    },
-           "ext": {
+          "key": "趣盘",
+          "name": "🍊趣盘4K弹幕",
+          "type": 3,
+          "api": "csp_PanWebQu",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "changeable": 1,
+          "style": {
+                     "type": "list",
+                     "ratio": 1.433
+                   },
+          "ext": {
                     "url": "https://www.qupanshe.com"
-                  }
+                 }
         },
 	{
           "key": "夸父",
