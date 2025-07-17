@@ -8877,7 +8877,7 @@
                 "编码": "UTF-8",
                 "主页url": "https://www.jinqiaosujiao.com/",
 		"二次截取": "",
-		"数组":"douban_score picrgot&&</a>",
+		"数组": "<div class=\"douban_score picrgot\"&&</div",
                 "标题":"alt=\"&&\"",
 		"图片":"data-original=\"&&\"",
                 "副标题": "<em class=\"label littplus\">&&</em>",
