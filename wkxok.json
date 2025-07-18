@@ -2518,6 +2518,29 @@
                    }
         },
 	{
+            "key": "539影视",
+            "name": "🍹539影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头":"User-Agent@Mozilla/5.0 (Linux；； Android 9；； ASUS_I005DA Build/PI；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.70 Mobile Safari/537.36&&Cookie@&&Accept@text/html,application/xhtml+xml,application/xml；；q=0.9,image/avif,image/webp,image/apng,*/*；；q=0.8,application/signed-exchange；；v=b3；；q=0.7&&Accept-Language@zh-CN,zh；；q=0.9",
+                "编码": "UTF-8",
+                "主页url": "https://www.539539.xyz/",
+		"二次截取": "",
+		"数组":"lazyload&&</a>",
+		"标题":"title=\"&&\"",
+		"图片":"data-original=\"&&\"",
+	        "副标题":"<span class=\"pic-text text-right\">&&</span>", 
+	        "链接":"href=\"&&\"",
+                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+stui-content__desc detail col-pd\">&&</div>",
+		"线路二次截取": "",
+		"线路数组": "<li&&/li>",
+                "线路标题": ">&&<",
+                "分类url":"https://www.539539.xyz/index.php/vod/show/area/{area}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$25#"
+             }
+        },
+	{
             "key":"海底高清",
             "name":"🥌海底高清",
             "type": 3,
@@ -9231,26 +9254,6 @@
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
                 "分类url": "http://vedio.kundihulan.com/vodshow/{cateId}--------{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-             }
-        },
-	{
-            "key": "539影视",
-            "name": "🍹539影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://www.539539.xyz/",
-		"二次截取": "",
-		"数组":"lazyload&&</a>",
-		"标题":"title=\"&&\"",
-		"图片":"data-original=\"&&\"",
-	        "副标题":"<span class=\"pic-text text-right\">&&</span>", 
-	        "链接":"href=\"&&\"",
-                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
-                "分类url":"https://www.539539.xyz/index.php/vod/show/area/{area}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$25#"
              }
         },
 {
