@@ -9373,14 +9373,14 @@
              }
         },
 	{
-            "key": "爱乐影视",
-            "name": "🎋爱乐影视",
+            "key": "优质电影网",
+            "name": "🎋优质电影网",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
-                "请求头": "User-Agent@Mozilla/5.0 (Linux；； Android 9；； ASUS_I003DD Build/PI；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.70 Mobile Safari/537.36&&Cookie@PHPSESSID=c6q3gmrrdm0n4s9bl903eqk5n9；； Hm_lvt_1e83314e8ce2316d3d60c58c27db3348=1752888349；； HMACCOUNT=FBEDC99340CB7EBD；； recente=%5B%7B%22vod_name%22%3A%22%E4%BB%A5%E6%B3%95%E4%B9%8B%E5%90%8D%22%2C%22vod_url%22%3A%22https%3A%2F%2Fys.982yx.com%2Fvod%2Ftv%2FQbZubH7nSGboOX.html%22%2C%22vod_part%22%3A%221%22%7D%5D；； log=1；； Hm_lpvt_1e83314e8ce2316d3d60c58c27db3348=1752891449&&Accept@text/html,application/xhtml+xml,application/xml；；q=0.9,image/avif,image/webp,image/apng,*/*；；q=0.8,application/signed-exchange；；v=b3；；q=0.7&&Accept-Language@zh-CN,zh；；q=0.9",
+                "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-                "主页url": "https://ys.982yx.com/index.html",
+                "主页url": "https://www.tjljsrq.com",
 		"二次截取": "",
 		"数组": "class=\"stui-vodlist__box stui-vodlist__bg\"&&</a",
 		"标题":"title=\"&&\"",
@@ -9388,8 +9388,8 @@
 	        "副标题":"<span class=\"pic-tag pic-tag-b\">&&</span>", 
 	        "链接":"href=\"&&\"",
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
-                "分类url":"https://ys.982yx.com/{cateId}_____{catePg}.html",
-                "分类": "电影$movie_#剧集$tv_#动漫$dongman#综艺$zongyi"
+                "分类url":"https://www.tjljsrq.com/tjlsw/{cateId}--------{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#"
              }
         },
 {
