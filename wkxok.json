@@ -4591,6 +4591,26 @@
             }
         },
 	{
+            "key": "FREEOK影视",
+            "name": "🌱FREEOK影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url":"http://freeok99.xyz/",
+		"二次截取":"",
+		"数组":"/vod/detail&&</a>",
+                "标题":"title=\"&&\"",
+                "图片":"data-original=\"&&\"",
+                "副标题":"<div class=\"module-item-note\">&&</div>", 
+		"链接":"/index.php/vod/detail/id/+/id/&&\"",
+                "简介":"🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
+                "分类url":"http://freeok99.xyz/index.php/vod/show/area/{area}/id/{cateId}/lang/{lang}/page/{catePg}.html",
+                "分类":"电影$1#电视剧$2#动漫$5#综艺$3#短剧$4#"
+             }
+        },
+	{
             "key": "蓝光码头",
             "name": "🎞️蓝光码头",
             "type": 3,
@@ -9472,20 +9492,6 @@
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
                 "分类url": "http://vedio.kundihulan.com/vodshow/{cateId}--------{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-             }
-        },
-	{
-            "key": "FREEOK影视",
-            "name": "💧FREEOK影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "http://freeok99.xyz/",
-                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
-                "分类url":"http://freeok99.xyz/index.php/vod/show/area/{area}/id/{cateId}/lang/{lang}/page/{catePg}.html",
-                "分类": "电影$1#电视剧$2#动漫$5#综艺$3#短剧$4#"
              }
         },
 {
