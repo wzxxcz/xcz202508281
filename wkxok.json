@@ -9571,7 +9571,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
+                "请求头":"User-Agent@Mozilla/5.0 (Linux；； Android 9；； ASUS_I005DA Build/PI；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.70 Mobile Safari/537.36&&Cookie@PHPSESSID=0d4tacl91m2vul1b87oi121tva；； Hm_lvt_e49058434aee8ff79c55d73227d65fba=1753059810；； HMACCOUNT=B3F950196D17367F；； Hm_tf_znx4xib17lk=1753059810；； Hm_lvt_znx4xib17lk=1753059810；； Hm_lpvt_e49058434aee8ff79c55d73227d65fba=1753059830；； Hm_lpvt_znx4xib17lk=1753059830&&Accept@text/html,application/xhtml+xml,application/xml；；q=0.9,image/avif,image/webp,image/apng,*/*；；q=0.8,application/signed-exchange；；v=b3；；q=0.7&&Accept-Language@zh-CN,zh；；q=0.9",
                 "编码": "UTF-8",
                 "主页url":"https://www.szzhongjian.cn/",
 		"二次截取": "",
@@ -9580,7 +9580,7 @@
                 "图片":"data-original=\"&&\"",
                 "副标题":"<span class=\"hl-lc-1 remarks\">&&</span>", 
 		"链接":"href=\"&&\"",
-                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+hl-text-muted\">&&</div>",
+                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+hl-content-text\">&&</div>",
 		"线路二次截取": "",
 		"线路数组":"javascript:void(0);&&/a>",
                 "线路标题":"</i>&&<",
