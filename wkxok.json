@@ -9873,11 +9873,11 @@
   "ext": "./XYQHiker/巴士动漫.json"
 },
 {
-  "key": "56动漫",
-  "name": "🤣56动漫",
+  "key": "好看动漫",
+  "name": "🦚好看动漫",
   "type": 3,
-  "api": "https://gitee.com/wzbdyr/xczxs/raw/master/xiaosa/js/drpy2.min.js",
-  "ext": "https://gitee.com/wzbdyr/xczxs/raw/master/xiaosa/js/56动漫.js"
+  "api": "https://gh-proxy.com/https://github.com/wzxxcz/wzxxs/raw/refs/heads/master/xiaosa/js/drpy2.min.js",
+  "ext": "https://gh-proxy.com/https://github.com/wzxxcz/wzxxs/raw/refs/heads/master/xiaosa/js/好看动漫.js"
 },
 {
            "key": "明星动漫",
