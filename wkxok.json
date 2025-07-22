@@ -9913,6 +9913,12 @@
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
                 "主页url":"https://www.djywhg.com/",
+		"二次截取": "",
+		"数组":"video-pic loading&&</a>",
+		"标题":"title=\"&&\"",
+		"图片":"data-original=\"&&\"",
+	        "副标题":"<span class=\"note text-bg-r\">&&</span>", 
+	        "链接":"href=\"&&\"",
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
                 "分类url":"https://www.djywhg.com/{cateId}/_{area}_{year}__{catePg}.html",
                 "分类":"电影$ju_taomov#电视剧$ju_taotv#动漫$ju_taodongman#综艺$ju_taozyi#"
