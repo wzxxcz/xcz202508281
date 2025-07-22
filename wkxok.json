@@ -9886,55 +9886,17 @@
              }
         },
 	{
-            "key": "柯南影视",
-            "name": "💧柯南影视",
+            "key": "兔兔影视",
+            "name": "🐇兔兔影视",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-                "主页url": "https://www.knvod.cc/",
-		"数组": "public-list-bj&&/div></div>",
-	        "标题": "title=\"&&\"",
-	        "副标题": "",
-	        "图片":"data-src=\"&&\"",
-	        "链接":"href=\"&&\"",
+                "主页url":"https://www.epasst.com/",
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
-                "分类url": "https://www.knvod.cc/show/{cateId}----{lang}---- {catePg}---{year}/",
-                "分类": "电影$1#电视剧$2#动漫$3#综艺$4#"
-             }
-        },	
-	{
-            "key": "淘剧网",
-            "name": "🥦淘剧网",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "请求头":"User-Agent@Mozilla/5.0 (Linux；； Android 9；； ASUS_I005DA Build/PI；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.70 Mobile Safari/537.36&&Cookie@__cf_bm=jcaa6sKxF69Gasx60SbhoaInA2xXVqUs1xbp8t9h0FY-1753172203-1.0.1.1-Y2tdpmSdJSYSgCyHR7XGVZuV_te4Prm0tfkbycGQ1ClvrgV1n5cL8U5Eojl_4Ivmof3Xf5D46buaZK5CT__vR6Mj64RRMF_5iuPeR44T5gs&&Accept@text/html,application/xhtml+xml,application/xml；；q=0.9,image/avif,image/webp,image/apng,*/*；；q=0.8,application/signed-exchange；；v=b3；；q=0.7&&Accept-Language@zh-CN,zh；；q=0.9",
-                "编码":"UTF-8",
-                "主页url":"https://www.djywhg.com/",
-		"二次截取": "",
-		"数组":"video-pic loading&&</a>",
-		"标题":"title=\"&&\"",
-		"图片":"data-original=\"&&\"",
-	        "副标题":"<span class=\"note text-bg-r\">&&</span>", 
-	        "链接":"href=\"&&\"",
-		"影片年代":"年份：&&</li>",
-		"影片地区":"地区：&&</li>",
-                "影片类型":"类型：&&</li>",
-		"状态":"状态：&&</li>",
-		"导演":"导演：&&</li>",
-		"主演":"主演：&&</li>",
-                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+hidden-xs\">&&</div>",
-		"线路二次截取": "",
-		"线路数组":"data-toggle&&</a>",
-	        "线路标题":"dropdown\">&&</a",
-		"播放数组":"id=\"con_playlist&&</ul>", 
-                "播放列表":"<a&&/a>",
-                "播放标题":">&&<",
-                "播放链接":"href=\"&&\"",
-                "分类url":"https://www.djywhg.com/{cateId}/_{area}_{year}__{catePg}.html",
-                "分类":"电影$ju_taomov#电视剧$ju_taotv#动漫$ju_taodongman#综艺$ju_taozyi#"
+                "分类url":"https://www.epasst.com/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
+                "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$31#动漫片$25#"
              }
         },	
 {
