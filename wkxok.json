@@ -9886,17 +9886,17 @@
              }
         },	
 	{
-            "key": "柯南影视",
-            "name": "🥦柯南影视",
+            "key": "淘剧网",
+            "name": "🥦淘剧网",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-                "主页url":"https://www.knvod.cc/",
+                "主页url":"https://www.djywhg.com/",
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
-                "分类url":"https://www.knvod.cc/show/{cateId}----{lang}----{catePg}---{year}/",
-                "分类":"电影$1#电视剧$2#动漫$3#综艺$4#"
+                "分类url":"https://www.djywhg.com/ju_taotv/_{cateId}_{year}__{catePg}.html",
+                "分类":"电影$mov#电视剧$tv#动漫$dongman#综艺$zyi#"
              }
         },	
 {
