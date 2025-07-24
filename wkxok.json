@@ -10202,7 +10202,7 @@
                 "编码": "UTF-8",
                 "主页url": "http://vedio.kundihulan.com/",
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
-                "分类url": "https://www.mjgss.com/show/guocj--time-{cateId}-{lang}------{catePg}---{year}/",
+                "分类url": "https://www.mjgss.com/mgys/{cateId}-{catePg}/",
                 "分类": "电影$diany#电视剧$diansj#综艺$zongy#动漫$dongm#动画片$donghp#体育赛事$tiyss#"
              }
         },	
