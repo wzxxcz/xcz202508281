@@ -760,18 +760,6 @@
                   }
         },
 	{
-            "key": "奥秘",
-            "name": "🍊奥秘4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-	    "jar": "https://xcz.iptv365.org/wzxqh.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "./json/奥秘.json"
-        },
-	{
           "key": "雷鲸",
           "name": "🍊雷鲸4K弹幕",
           "type": 3,
