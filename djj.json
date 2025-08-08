@@ -2,9 +2,36 @@
     "spider": "https://gitee.com/wgq332/tvt/raw/master/fongmi/custom_spiderh.jar;md5;8d592f6d2d1434ea5ec8506b56265485",
     "lives": [
         {
-            "name": "直播",
+            "name": "直播1",
             "type": 0,
             "url": "https://gh.tryxd.cn/raw.githubusercontent.com/dlgt7/TVbox-interface/main/1234.txt",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "直播2",
+            "type": 0,
+            "url": "http://txt.kesug.com/users/Q3936975327.txt",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "直播3",
+            "type": 0,
+            "url": "https://d.kstore.dev/download/8051/%E5%BC%BA%E5%93%A5%E7%A6%8F%E5%88%A9+.txt",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "直播4",
+            "type": 0,
+            "url": "https://d.kstore.dev/download/13875/%E8%89%BA%E6%9C%AF.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}",
