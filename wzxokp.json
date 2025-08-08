@@ -987,16 +987,6 @@
             }
         },
         {
-            "key": "校长",
-            "name": "🍊校长4K弹幕",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://github.com/wzxxcz/wzxxs/raw/refs/heads/master/xiaosa/js/cloud.min.js",
-            "ext": "https://gh-proxy.com/https://github.com/wzxxcz/wzxxs/raw/refs/heads/master/xiaosa/js/校长.js",
-            "style": {
-                "type": "list"
-            }
-        },
-        {
             "key": "荐片",
             "name": "⚔️荐片磁力",
             "api": "csp_Jianpian",
