@@ -49,6 +49,15 @@
         {
             "name": "直播6",
             "type": 0,
+            "url": "https://d.kstore.dev/download/13045/1_%E7%B2%BE%E5%93%81%E5%BF%AB%E9%A4%90%281%29.txt",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "直播7",
+            "type": 0,
             "url": "http://txt.kesug.com/users/神雨蒙蒙.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
