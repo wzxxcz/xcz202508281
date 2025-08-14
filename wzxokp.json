@@ -1615,21 +1615,6 @@
             "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzesNDM87sUul1Ii8NbP2XB5"
         },
         {
-            "key": "豆丁",
-            "name": "🥛豆丁影视",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "https://vip.123pan.cn/1848451100/zl/xfdd.txt",
-                "dataKey": "xasdasdqwertyuio",
-                "dataIv": "xasdasdqwertyuio",
-                "deviceId": "",
-                "version": ""
-            }
-        },
-        {
             "key": "雄鹰",
             "name": "🦅雄鹰影视",
             "type": 3,
@@ -17760,3 +17745,4 @@
     ],
     "warningText": "🍊欢迎进入小橙子影视！🍊"
 }
+
