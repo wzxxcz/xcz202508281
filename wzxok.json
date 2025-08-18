@@ -1312,21 +1312,6 @@
             "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzesNDM87sUul1Ii8NbP2XB5"
         },
         {
-            "key": "雄鹰",
-            "name": "🦅雄鹰影视",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet2",
-            "ext": {
-                "url": "",
-                "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
-                "dataKey": "ca94b06ca359d80e",
-                "dataIv": "ca94b06ca359d80e",
-                "deviceId": "",
-                "version": "120"
-            }
-        },
-        {
            "key": "蓝鹰",
            "name": "🦅蓝鹰影视",
            "type": 3,
@@ -18601,3 +18586,4 @@
     ],
     "warningText": "🍊欢迎进入小橙子影视！🍊"
 }
+
