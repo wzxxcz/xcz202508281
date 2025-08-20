@@ -1,7 +1,7 @@
 ﻿{
-    "spider": "./lib/xyqxbpq.jar",
-    "logo": "https://gitee.com/caicai529180405/caicai/raw/master/ss.gif",
-    "wallpaper": "http://1.v.nxog.top/m/t/",
+    "spider": "./xcz.jar",
+    "wallpaper": "https://xcz.iptv365.org/xcz.php",
+    "logo": "https://xcz.iptv365.org/logo.php",
     "lives": [
         {
             "name": "live",
@@ -9429,4 +9429,5 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ]
+
 }
